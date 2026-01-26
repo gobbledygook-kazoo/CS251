@@ -1,0 +1,2 @@
+test_data/write_self.txt
+test_data/write_self.txt

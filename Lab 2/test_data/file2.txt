@@ -1,0 +1,7 @@
+start_of_file_2
+how do you handle blank lines?
+
+you shouldn't need a special case for these
+
+
+blank lines are just empty strings, and getline will read them fine
