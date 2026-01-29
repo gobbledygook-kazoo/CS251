@@ -1,0 +1,124 @@
+date	artist	song
+11/6/21	Adele	Easy On Me
+10/30/21	Adele	Easy On Me
+9/11/21	BTS	Butter
+8/7/21	BTS	Butter
+7/31/21	BTS	Butter
+7/24/21	BTS	Permission To Dance
+7/17/21	BTS	Butter
+7/10/21	BTS	Butter
+7/3/21	BTS	Butter
+6/26/21	BTS	Butter
+6/19/21	BTS	Butter
+6/12/21	BTS	Butter
+6/5/21	BTS	Butter
+3/27/21	Cardi B	Up
+3/20/21	Drake	What's Next
+12/5/20	BTS	Life Goes On
+11/7/20	Ariana Grande	Positions
+10/3/20	BTS	Dynamite
+9/12/20	BTS	Dynamite
+9/5/20	BTS	Dynamite
+4/18/20	Drake	Toosie Slide
+8/24/19	Billie Eilish	Bad Guy
+4/6/19	Ariana Grande	7 Rings
+3/30/19	Ariana Grande	7 Rings
+3/23/19	Ariana Grande	7 Rings
+3/2/19	Ariana Grande	7 Rings
+2/23/19	Ariana Grande	7 Rings
+2/16/19	Ariana Grande	7 Rings
+2/9/19	Ariana Grande	7 Rings
+2/2/19	Ariana Grande	7 Rings
+1/5/19	Ariana Grande	Thank U, Next
+12/29/18	Ariana Grande	Thank U, Next
+12/22/18	Ariana Grande	Thank U, Next
+12/15/18	Ariana Grande	Thank U, Next
+12/1/18	Ariana Grande	Thank U, Next
+11/24/18	Ariana Grande	Thank U, Next
+11/17/18	Ariana Grande	Thank U, Next
+9/22/18	Drake	In My Feelings
+9/15/18	Drake	In My Feelings
+9/8/18	Drake	In My Feelings
+9/1/18	Drake	In My Feelings
+8/25/18	Drake	In My Feelings
+8/18/18	Drake	In My Feelings
+8/11/18	Drake	In My Feelings
+8/4/18	Drake	In My Feelings
+7/28/18	Drake	In My Feelings
+7/21/18	Drake	In My Feelings
+7/14/18	Drake	Nice For What
+6/23/18	Drake	Nice For What
+6/9/18	Drake	Nice For What
+6/2/18	Drake	Nice For What
+5/26/18	Childish Gambino	This Is America
+5/19/18	Childish Gambino	This Is America
+5/12/18	Drake	Nice For What
+5/5/18	Drake	Nice For What
+4/28/18	Drake	Nice For What
+4/21/18	Drake	Nice For What
+4/14/18	Drake	God's Plan
+4/7/18	Drake	God's Plan
+3/31/18	Drake	God's Plan
+3/24/18	Drake	God's Plan
+3/17/18	Drake	God's Plan
+3/10/18	Drake	God's Plan
+3/3/18	Drake	God's Plan
+2/24/18	Drake	God's Plan
+2/17/18	Drake	God's Plan
+2/10/18	Drake	God's Plan
+2/3/18	Drake	God's Plan
+10/21/17	Cardi B	Bodak Yellow (Money Moves)
+10/14/17	Cardi B	Bodak Yellow (Money Moves)
+10/7/17	Cardi B	Bodak Yellow (Money Moves)
+5/13/17	Bruno Mars	That's What I Like
+5/14/16	Desiigner	Panda
+5/7/16	Desiigner	Panda
+1/16/16	Adele	Hello
+1/9/16	Adele	Hello
+1/2/16	Adele	Hello
+12/26/15	Adele	Hello
+12/19/15	Adele	Hello
+12/12/15	Adele	Hello
+12/5/15	Adele	Hello
+11/28/15	Adele	Hello
+11/21/15	Adele	Hello
+11/14/15	Adele	Hello
+3/30/13	Baauer	Harlem Shake
+3/23/13	Baauer	Harlem Shake
+3/16/13	Baauer	Harlem Shake
+3/9/13	Baauer	Harlem Shake
+3/2/13	Baauer	Harlem Shake
+1/26/13	Bruno Mars	Locked Out Of Heaven
+1/19/13	Bruno Mars	Locked Out Of Heaven
+1/12/13	Bruno Mars	Locked Out Of Heaven
+1/5/13	Bruno Mars	Locked Out Of Heaven
+12/29/12	Bruno Mars	Locked Out Of Heaven
+12/22/12	Bruno Mars	Locked Out Of Heaven
+8/18/12	Carly Rae Jepsen	Call Me Maybe
+8/11/12	Carly Rae Jepsen	Call Me Maybe
+8/4/12	Carly Rae Jepsen	Call Me Maybe
+7/28/12	Carly Rae Jepsen	Call Me Maybe
+7/21/12	Carly Rae Jepsen	Call Me Maybe
+7/14/12	Carly Rae Jepsen	Call Me Maybe
+7/7/12	Carly Rae Jepsen	Call Me Maybe
+6/30/12	Carly Rae Jepsen	Call Me Maybe
+6/23/12	Carly Rae Jepsen	Call Me Maybe
+2/11/12	Adele	Set Fire To The Rain
+2/4/12	Adele	Set Fire To The Rain
+11/5/11	Adele	Someone Like You
+10/29/11	Adele	Someone Like You
+10/22/11	Adele	Someone Like You
+10/15/11	Adele	Someone Like You
+9/17/11	Adele	Someone Like You
+7/2/11	Adele	Rolling In The Deep
+6/25/11	Adele	Rolling In The Deep
+6/18/11	Adele	Rolling In The Deep
+6/11/11	Adele	Rolling In The Deep
+6/4/11	Adele	Rolling In The Deep
+5/28/11	Adele	Rolling In The Deep
+5/21/11	Adele	Rolling In The Deep
+2/12/11	Bruno Mars	Grenade
+2/5/11	Bruno Mars	Grenade
+1/29/11	Britney Spears	Hold It Against Me
+1/22/11	Bruno Mars	Grenade
+1/8/11	Bruno Mars	Grenade

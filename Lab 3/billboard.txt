@@ -1,0 +1,3302 @@
+date	artist	song
+11/6/21	Adele	Easy On Me
+10/30/21	Adele	Easy On Me
+10/23/21	Lil Nas X & Jack Harlow	Industry Baby
+10/16/21	The Kid LAROI & Justin Bieber	Stay
+10/9/21	Coldplay x BTS	My Universe
+10/2/21	The Kid LAROI & Justin Bieber	Stay
+9/25/21	The Kid LAROI & Justin Bieber	Stay
+9/18/21	Drake Featuring Future & Young Thug	Way 2 Sexy
+9/11/21	BTS	Butter
+9/4/21	The Kid LAROI & Justin Bieber	Stay
+8/28/21	The Kid LAROI & Justin Bieber	Stay
+8/21/21	The Kid LAROI & Justin Bieber	Stay
+8/14/21	The Kid LAROI & Justin Bieber	Stay
+8/7/21	BTS	Butter
+7/31/21	BTS	Butter
+7/24/21	BTS	Permission To Dance
+7/17/21	BTS	Butter
+7/10/21	BTS	Butter
+7/3/21	BTS	Butter
+6/26/21	BTS	Butter
+6/19/21	BTS	Butter
+6/12/21	BTS	Butter
+6/5/21	BTS	Butter
+5/29/21	Olivia Rodrigo	Good 4 U
+5/22/21	Silk Sonic (Bruno Mars & Anderson .Paak)	Leave The Door Open
+5/15/21	The Weeknd & Ariana Grande	Save Your Tears
+5/8/21	The Weeknd & Ariana Grande	Save Your Tears
+5/1/21	Polo G	Rapstar
+4/24/21	Polo G	Rapstar
+4/17/21	Silk Sonic (Bruno Mars & Anderson .Paak)	Leave The Door Open
+4/10/21	Lil Nas X	Montero (Call Me By Your Name)
+4/3/21	Justin Bieber Featuring Daniel Caesar & Giveon	Peaches
+3/27/21	Cardi B	Up
+3/20/21	Drake	What's Next
+3/13/21	Olivia Rodrigo	Drivers License
+3/6/21	Olivia Rodrigo	Drivers License
+2/27/21	Olivia Rodrigo	Drivers License
+2/20/21	Olivia Rodrigo	Drivers License
+2/13/21	Olivia Rodrigo	Drivers License
+2/6/21	Olivia Rodrigo	Drivers License
+1/30/21	Olivia Rodrigo	Drivers License
+1/23/21	Olivia Rodrigo	Drivers License
+1/16/21	24kGoldn Featuring iann dior	Mood
+1/9/21	24kGoldn Featuring iann dior	Mood
+1/2/21	Mariah Carey	All I Want For Christmas Is You
+12/26/20	Taylor Swift	Willow
+12/19/20	Mariah Carey	All I Want For Christmas Is You
+12/12/20	24kGoldn Featuring iann dior	Mood
+12/5/20	BTS	Life Goes On
+11/28/20	24kGoldn Featuring iann dior	Mood
+11/21/20	24kGoldn Featuring iann dior	Mood
+11/14/20	24kGoldn Featuring iann dior	Mood
+11/7/20	Ariana Grande	Positions
+10/31/20	24kGoldn Featuring iann dior	Mood
+10/24/20	24kGoldn Featuring iann dior	Mood
+10/17/20	Jawsh 685 x Jason Derulo	Savage Love (Laxed - Siren Beat)
+10/10/20	Travis Scott Featuring Young Thug & M.I.A.	Franchise
+10/3/20	BTS	Dynamite
+9/26/20	Cardi B Featuring Megan Thee Stallion	WAP
+9/19/20	Cardi B Featuring Megan Thee Stallion	WAP
+9/12/20	BTS	Dynamite
+9/5/20	BTS	Dynamite
+8/29/20	Cardi B Featuring Megan Thee Stallion	WAP
+8/22/20	Cardi B Featuring Megan Thee Stallion	WAP
+8/15/20	Harry Styles	Watermelon Sugar
+8/8/20	Taylor Swift	Cardigan
+8/1/20	DaBaby Featuring Roddy Ricch	Rockstar
+7/25/20	DaBaby Featuring Roddy Ricch	Rockstar
+7/18/20	DaBaby Featuring Roddy Ricch	Rockstar
+7/11/20	DaBaby Featuring Roddy Ricch	Rockstar
+7/4/20	DaBaby Featuring Roddy Ricch	Rockstar
+6/27/20	6ix9ine & Nicki Minaj	Trollz
+6/20/20	DaBaby Featuring Roddy Ricch	Rockstar
+6/13/20	DaBaby Featuring Roddy Ricch	Rockstar
+6/6/20	Lady Gaga & Ariana Grande	Rain On Me
+5/30/20	Megan Thee Stallion	Savage
+5/23/20	Ariana Grande & Justin Bieber	Stuck With U
+5/16/20	Doja Cat Featuring Nicki Minaj	Say So
+5/9/20	THE SCOTTS, Travis Scott & Kid Cudi	The Scotts
+5/2/20	The Weeknd	Blinding Lights
+4/25/20	The Weeknd	Blinding Lights
+4/18/20	Drake	Toosie Slide
+4/11/20	The Weeknd	Blinding Lights
+4/4/20	The Weeknd	Blinding Lights
+3/28/20	Roddy Ricch	The Box
+3/21/20	Roddy Ricch	The Box
+3/14/20	Roddy Ricch	The Box
+3/7/20	Roddy Ricch	The Box
+2/29/20	Roddy Ricch	The Box
+2/22/20	Roddy Ricch	The Box
+2/15/20	Roddy Ricch	The Box
+2/8/20	Roddy Ricch	The Box
+2/1/20	Roddy Ricch	The Box
+1/25/20	Roddy Ricch	The Box
+1/18/20	Roddy Ricch	The Box
+1/11/20	Post Malone	Circles
+1/4/20	Mariah Carey	All I Want For Christmas Is You
+12/28/19	Mariah Carey	All I Want For Christmas Is You
+12/21/19	Mariah Carey	All I Want For Christmas Is You
+12/14/19	The Weeknd	Heartless
+12/7/19	Post Malone	Circles
+11/30/19	Post Malone	Circles
+11/23/19	Lewis Capaldi	Someone You Loved
+11/16/19	Lewis Capaldi	Someone You Loved
+11/9/19	Selena Gomez	Lose You To Love Me
+11/2/19	Lewis Capaldi	Someone You Loved
+10/26/19	Lizzo	Truth Hurts
+10/19/19	Travis Scott	HIGHEST IN THE ROOM
+10/12/19	Lizzo	Truth Hurts
+10/5/19	Lizzo	Truth Hurts
+9/28/19	Lizzo	Truth Hurts
+9/21/19	Lizzo	Truth Hurts
+9/14/19	Lizzo	Truth Hurts
+9/7/19	Lizzo	Truth Hurts
+8/31/19	Shawn Mendes & Camila Cabello	Senorita
+8/24/19	Billie Eilish	Bad Guy
+8/17/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+8/10/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+8/3/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+7/27/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+7/20/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+7/13/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+7/6/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+6/29/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+6/22/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+6/15/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+6/8/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+6/1/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+5/25/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+5/18/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+5/11/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+5/4/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+4/27/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+4/20/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+4/13/19	Lil Nas X Featuring Billy Ray Cyrus	Old Town Road
+4/6/19	Ariana Grande	7 Rings
+3/30/19	Ariana Grande	7 Rings
+3/23/19	Ariana Grande	7 Rings
+3/16/19	Jonas Brothers	Sucker
+3/9/19	Lady Gaga & Bradley Cooper	Shallow
+3/2/19	Ariana Grande	7 Rings
+2/23/19	Ariana Grande	7 Rings
+2/16/19	Ariana Grande	7 Rings
+2/9/19	Ariana Grande	7 Rings
+2/2/19	Ariana Grande	7 Rings
+1/26/19	Halsey	Without Me
+1/19/19	Post Malone & Swae Lee	Sunflower (Spider-Man: Into The Spider-Verse)
+1/12/19	Halsey	Without Me
+1/5/19	Ariana Grande	Thank U, Next
+12/29/18	Ariana Grande	Thank U, Next
+12/22/18	Ariana Grande	Thank U, Next
+12/15/18	Ariana Grande	Thank U, Next
+12/8/18	Travis Scott	Sicko Mode
+12/1/18	Ariana Grande	Thank U, Next
+11/24/18	Ariana Grande	Thank U, Next
+11/17/18	Ariana Grande	Thank U, Next
+11/10/18	Maroon 5 Featuring Cardi B	Girls Like You
+11/3/18	Maroon 5 Featuring Cardi B	Girls Like You
+10/27/18	Maroon 5 Featuring Cardi B	Girls Like You
+10/20/18	Maroon 5 Featuring Cardi B	Girls Like You
+10/13/18	Maroon 5 Featuring Cardi B	Girls Like You
+10/6/18	Maroon 5 Featuring Cardi B	Girls Like You
+9/29/18	Maroon 5 Featuring Cardi B	Girls Like You
+9/22/18	Drake	In My Feelings
+9/15/18	Drake	In My Feelings
+9/8/18	Drake	In My Feelings
+9/1/18	Drake	In My Feelings
+8/25/18	Drake	In My Feelings
+8/18/18	Drake	In My Feelings
+8/11/18	Drake	In My Feelings
+8/4/18	Drake	In My Feelings
+7/28/18	Drake	In My Feelings
+7/21/18	Drake	In My Feelings
+7/14/18	Drake	Nice For What
+7/7/18	Cardi B, Bad Bunny & J Balvin	I Like It
+6/30/18	XXXTENTACION	Sad!
+6/23/18	Drake	Nice For What
+6/16/18	Post Malone Featuring Ty Dolla $ign	Psycho
+6/9/18	Drake	Nice For What
+6/2/18	Drake	Nice For What
+5/26/18	Childish Gambino	This Is America
+5/19/18	Childish Gambino	This Is America
+5/12/18	Drake	Nice For What
+5/5/18	Drake	Nice For What
+4/28/18	Drake	Nice For What
+4/21/18	Drake	Nice For What
+4/14/18	Drake	God's Plan
+4/7/18	Drake	God's Plan
+3/31/18	Drake	God's Plan
+3/24/18	Drake	God's Plan
+3/17/18	Drake	God's Plan
+3/10/18	Drake	God's Plan
+3/3/18	Drake	God's Plan
+2/24/18	Drake	God's Plan
+2/17/18	Drake	God's Plan
+2/10/18	Drake	God's Plan
+2/3/18	Drake	God's Plan
+1/27/18	Camila Cabello Featuring Young Thug	Havana
+1/20/18	Ed Sheeran	Perfect
+1/13/18	Ed Sheeran	Perfect
+1/6/18	Ed Sheeran	Perfect
+12/30/17	Ed Sheeran	Perfect
+12/23/17	Ed Sheeran	Perfect
+12/16/17	Post Malone Featuring 21 Savage	Rockstar
+12/9/17	Post Malone Featuring 21 Savage	Rockstar
+12/2/17	Post Malone Featuring 21 Savage	Rockstar
+11/25/17	Post Malone Featuring 21 Savage	Rockstar
+11/18/17	Post Malone Featuring 21 Savage	Rockstar
+11/11/17	Post Malone Featuring 21 Savage	Rockstar
+11/4/17	Post Malone Featuring 21 Savage	Rockstar
+10/28/17	Post Malone Featuring 21 Savage	Rockstar
+10/21/17	Cardi B	Bodak Yellow (Money Moves)
+10/14/17	Cardi B	Bodak Yellow (Money Moves)
+10/7/17	Cardi B	Bodak Yellow (Money Moves)
+9/30/17	Taylor Swift	Look What You Made Me Do
+9/23/17	Taylor Swift	Look What You Made Me Do
+9/16/17	Taylor Swift	Look What You Made Me Do
+9/9/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+9/2/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+8/26/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+8/19/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+8/12/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+8/5/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+7/29/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+7/22/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+7/15/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+7/8/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+7/1/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+6/24/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+6/17/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+6/10/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+6/3/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+5/27/17	Luis Fonsi & Daddy Yankee Featuring Justin Bieber	Despacito
+5/20/17	DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne	I'm The One
+5/13/17	Bruno Mars	That's What I Like
+5/6/17	Kendrick Lamar	Humble.
+4/29/17	Ed Sheeran	Shape Of You
+4/22/17	Ed Sheeran	Shape Of You
+4/15/17	Ed Sheeran	Shape Of You
+4/8/17	Ed Sheeran	Shape Of You
+4/1/17	Ed Sheeran	Shape Of You
+3/25/17	Ed Sheeran	Shape Of You
+3/18/17	Ed Sheeran	Shape Of You
+3/11/17	Ed Sheeran	Shape Of You
+3/4/17	Ed Sheeran	Shape Of You
+2/25/17	Ed Sheeran	Shape Of You
+2/18/17	Ed Sheeran	Shape Of You
+2/11/17	Migos Featuring Lil Uzi Vert	Bad And Boujee
+2/4/17	Migos Featuring Lil Uzi Vert	Bad And Boujee
+1/28/17	Ed Sheeran	Shape Of You
+1/21/17	Migos Featuring Lil Uzi Vert	Bad And Boujee
+1/14/17	Rae Sremmurd Featuring Gucci Mane	Black Beatles
+1/7/17	The Weeknd Featuring Daft Punk	Starboy
+12/31/16	Rae Sremmurd Featuring Gucci Mane	Black Beatles
+12/24/16	Rae Sremmurd Featuring Gucci Mane	Black Beatles
+12/17/16	Rae Sremmurd Featuring Gucci Mane	Black Beatles
+12/10/16	Rae Sremmurd Featuring Gucci Mane	Black Beatles
+12/3/16	Rae Sremmurd Featuring Gucci Mane	Black Beatles
+11/26/16	Rae Sremmurd Featuring Gucci Mane	Black Beatles
+11/19/16	The Chainsmokers Featuring Halsey	Closer
+11/12/16	The Chainsmokers Featuring Halsey	Closer
+11/5/16	The Chainsmokers Featuring Halsey	Closer
+10/29/16	The Chainsmokers Featuring Halsey	Closer
+10/22/16	The Chainsmokers Featuring Halsey	Closer
+10/15/16	The Chainsmokers Featuring Halsey	Closer
+10/8/16	The Chainsmokers Featuring Halsey	Closer
+10/1/16	The Chainsmokers Featuring Halsey	Closer
+9/24/16	The Chainsmokers Featuring Halsey	Closer
+9/17/16	The Chainsmokers Featuring Halsey	Closer
+9/10/16	The Chainsmokers Featuring Halsey	Closer
+9/3/16	The Chainsmokers Featuring Halsey	Closer
+8/27/16	Sia Featuring Sean Paul	Cheap Thrills
+8/20/16	Sia Featuring Sean Paul	Cheap Thrills
+8/13/16	Sia Featuring Sean Paul	Cheap Thrills
+8/6/16	Sia Featuring Sean Paul	Cheap Thrills
+7/30/16	Drake Featuring WizKid & Kyla	One Dance
+7/23/16	Drake Featuring WizKid & Kyla	One Dance
+7/16/16	Drake Featuring WizKid & Kyla	One Dance
+7/9/16	Drake Featuring WizKid & Kyla	One Dance
+7/2/16	Drake Featuring WizKid & Kyla	One Dance
+6/25/16	Drake Featuring WizKid & Kyla	One Dance
+6/18/16	Drake Featuring WizKid & Kyla	One Dance
+6/11/16	Drake Featuring WizKid & Kyla	One Dance
+6/4/16	Drake Featuring WizKid & Kyla	One Dance
+5/28/16	Justin Timberlake	Can't Stop The Feeling!
+5/21/16	Drake Featuring WizKid & Kyla	One Dance
+5/14/16	Desiigner	Panda
+5/7/16	Desiigner	Panda
+4/30/16	Rihanna Featuring Drake	Work
+4/23/16	Rihanna Featuring Drake	Work
+4/16/16	Rihanna Featuring Drake	Work
+4/9/16	Rihanna Featuring Drake	Work
+4/2/16	Rihanna Featuring Drake	Work
+3/26/16	Rihanna Featuring Drake	Work
+3/19/16	Rihanna Featuring Drake	Work
+3/12/16	Rihanna Featuring Drake	Work
+3/5/16	Rihanna Featuring Drake	Work
+2/27/16	Justin Bieber	Love Yourself
+2/20/16	Zayn	Pillowtalk
+2/13/16	Justin Bieber	Love Yourself
+2/6/16	Justin Bieber	Sorry
+1/30/16	Justin Bieber	Sorry
+1/23/16	Justin Bieber	Sorry
+1/16/16	Adele	Hello
+1/9/16	Adele	Hello
+1/2/16	Adele	Hello
+12/26/15	Adele	Hello
+12/19/15	Adele	Hello
+12/12/15	Adele	Hello
+12/5/15	Adele	Hello
+11/28/15	Adele	Hello
+11/21/15	Adele	Hello
+11/14/15	Adele	Hello
+11/7/15	The Weeknd	The Hills
+10/31/15	The Weeknd	The Hills
+10/24/15	The Weeknd	The Hills
+10/17/15	The Weeknd	The Hills
+10/10/15	The Weeknd	The Hills
+10/3/15	The Weeknd	The Hills
+9/26/15	The Weeknd	Can't Feel My Face
+9/19/15	Justin Bieber	What Do You Mean?
+9/12/15	The Weeknd	Can't Feel My Face
+9/5/15	OMI	Cheerleader
+8/29/15	OMI	Cheerleader
+8/22/15	The Weeknd	Can't Feel My Face
+8/15/15	OMI	Cheerleader
+8/8/15	OMI	Cheerleader
+8/1/15	OMI	Cheerleader
+7/25/15	OMI	Cheerleader
+7/18/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+7/11/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+7/4/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+6/27/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+6/20/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+6/13/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+6/6/15	Taylor Swift Featuring Kendrick Lamar	Bad Blood
+5/30/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+5/23/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+5/16/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+5/9/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+5/2/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+4/25/15	Wiz Khalifa Featuring Charlie Puth	See You Again
+4/18/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+4/11/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+4/4/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+3/28/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+3/21/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+3/14/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+3/7/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+2/28/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+2/21/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+2/14/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+2/7/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+1/31/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+1/24/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+1/17/15	Mark Ronson Featuring Bruno Mars	Uptown Funk!
+1/10/15	Taylor Swift	Blank Space
+1/3/15	Taylor Swift	Blank Space
+12/27/14	Taylor Swift	Blank Space
+12/20/14	Taylor Swift	Blank Space
+12/13/14	Taylor Swift	Blank Space
+12/6/14	Taylor Swift	Blank Space
+11/29/14	Taylor Swift	Blank Space
+11/22/14	Taylor Swift	Shake It Off
+11/15/14	Taylor Swift	Shake It Off
+11/8/14	Meghan Trainor	All About That Bass
+11/1/14	Meghan Trainor	All About That Bass
+10/25/14	Meghan Trainor	All About That Bass
+10/18/14	Meghan Trainor	All About That Bass
+10/11/14	Meghan Trainor	All About That Bass
+10/4/14	Meghan Trainor	All About That Bass
+9/27/14	Meghan Trainor	All About That Bass
+9/20/14	Meghan Trainor	All About That Bass
+9/13/14	Taylor Swift	Shake It Off
+9/6/14	Taylor Swift	Shake It Off
+8/30/14	MAGIC!	Rude
+8/23/14	MAGIC!	Rude
+8/16/14	MAGIC!	Rude
+8/9/14	MAGIC!	Rude
+8/2/14	MAGIC!	Rude
+7/26/14	MAGIC!	Rude
+7/19/14	Iggy Azalea Featuring Charli XCX	Fancy
+7/12/14	Iggy Azalea Featuring Charli XCX	Fancy
+7/5/14	Iggy Azalea Featuring Charli XCX	Fancy
+6/28/14	Iggy Azalea Featuring Charli XCX	Fancy
+6/21/14	Iggy Azalea Featuring Charli XCX	Fancy
+6/14/14	Iggy Azalea Featuring Charli XCX	Fancy
+6/7/14	Iggy Azalea Featuring Charli XCX	Fancy
+5/31/14	John Legend	All Of Me
+5/24/14	John Legend	All Of Me
+5/17/14	John Legend	All Of Me
+5/10/14	Pharrell Williams	Happy
+5/3/14	Pharrell Williams	Happy
+4/26/14	Pharrell Williams	Happy
+4/19/14	Pharrell Williams	Happy
+4/12/14	Pharrell Williams	Happy
+4/5/14	Pharrell Williams	Happy
+3/29/14	Pharrell Williams	Happy
+3/22/14	Pharrell Williams	Happy
+3/15/14	Pharrell Williams	Happy
+3/8/14	Pharrell Williams	Happy
+3/1/14	Katy Perry Featuring Juicy J	Dark Horse
+2/22/14	Katy Perry Featuring Juicy J	Dark Horse
+2/15/14	Katy Perry Featuring Juicy J	Dark Horse
+2/8/14	Katy Perry Featuring Juicy J	Dark Horse
+2/1/14	Pitbull Featuring Ke$ha	Timber
+1/25/14	Pitbull Featuring Ke$ha	Timber
+1/18/14	Pitbull Featuring Ke$ha	Timber
+1/11/14	Eminem Featuring Rihanna	The Monster
+1/4/14	Eminem Featuring Rihanna	The Monster
+12/28/13	Eminem Featuring Rihanna	The Monster
+12/21/13	Eminem Featuring Rihanna	The Monster
+12/14/13	Miley Cyrus	Wrecking Ball
+12/7/13	Lorde	Royals
+11/30/13	Lorde	Royals
+11/23/13	Lorde	Royals
+11/16/13	Lorde	Royals
+11/9/13	Lorde	Royals
+11/2/13	Lorde	Royals
+10/26/13	Lorde	Royals
+10/19/13	Lorde	Royals
+10/12/13	Lorde	Royals
+10/5/13	Miley Cyrus	Wrecking Ball
+9/28/13	Miley Cyrus	Wrecking Ball
+9/21/13	Katy Perry	Roar
+9/14/13	Katy Perry	Roar
+9/7/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+8/31/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+8/24/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+8/17/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+8/10/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+8/3/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+7/27/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+7/20/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+7/13/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+7/6/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+6/29/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+6/22/13	Robin Thicke Featuring T.I. + Pharrell	Blurred Lines
+6/15/13	Macklemore & Ryan Lewis Featuring Ray Dalton	Can't Hold Us
+6/8/13	Macklemore & Ryan Lewis Featuring Ray Dalton	Can't Hold Us
+6/1/13	Macklemore & Ryan Lewis Featuring Ray Dalton	Can't Hold Us
+5/25/13	Macklemore & Ryan Lewis Featuring Ray Dalton	Can't Hold Us
+5/18/13	Macklemore & Ryan Lewis Featuring Ray Dalton	Can't Hold Us
+5/11/13	P!nk Featuring Nate Ruess	Just Give Me A Reason
+5/4/13	P!nk Featuring Nate Ruess	Just Give Me A Reason
+4/27/13	P!nk Featuring Nate Ruess	Just Give Me A Reason
+4/20/13	Bruno Mars	When I Was Your Man
+4/13/13	Macklemore & Ryan Lewis Featuring Wanz	Thrift Shop
+4/6/13	Macklemore & Ryan Lewis Featuring Wanz	Thrift Shop
+3/30/13	Baauer	Harlem Shake
+3/23/13	Baauer	Harlem Shake
+3/16/13	Baauer	Harlem Shake
+3/9/13	Baauer	Harlem Shake
+3/2/13	Baauer	Harlem Shake
+2/23/13	Macklemore & Ryan Lewis Featuring Wanz	Thrift Shop
+2/16/13	Macklemore & Ryan Lewis Featuring Wanz	Thrift Shop
+2/9/13	Macklemore & Ryan Lewis Featuring Wanz	Thrift Shop
+2/2/13	Macklemore & Ryan Lewis Featuring Wanz	Thrift Shop
+1/26/13	Bruno Mars	Locked Out Of Heaven
+1/19/13	Bruno Mars	Locked Out Of Heaven
+1/12/13	Bruno Mars	Locked Out Of Heaven
+1/5/13	Bruno Mars	Locked Out Of Heaven
+12/29/12	Bruno Mars	Locked Out Of Heaven
+12/22/12	Bruno Mars	Locked Out Of Heaven
+12/15/12	Rihanna	Diamonds
+12/8/12	Rihanna	Diamonds
+12/1/12	Rihanna	Diamonds
+11/24/12	Maroon 5	One More Night
+11/17/12	Maroon 5	One More Night
+11/10/12	Maroon 5	One More Night
+11/3/12	Maroon 5	One More Night
+10/27/12	Maroon 5	One More Night
+10/20/12	Maroon 5	One More Night
+10/13/12	Maroon 5	One More Night
+10/6/12	Maroon 5	One More Night
+9/29/12	Maroon 5	One More Night
+9/22/12	Taylor Swift	We Are Never Ever Getting Back Together
+9/15/12	Flo Rida	Whistle
+9/8/12	Taylor Swift	We Are Never Ever Getting Back Together
+9/1/12	Taylor Swift	We Are Never Ever Getting Back Together
+8/25/12	Flo Rida	Whistle
+8/18/12	Carly Rae Jepsen	Call Me Maybe
+8/11/12	Carly Rae Jepsen	Call Me Maybe
+8/4/12	Carly Rae Jepsen	Call Me Maybe
+7/28/12	Carly Rae Jepsen	Call Me Maybe
+7/21/12	Carly Rae Jepsen	Call Me Maybe
+7/14/12	Carly Rae Jepsen	Call Me Maybe
+7/7/12	Carly Rae Jepsen	Call Me Maybe
+6/30/12	Carly Rae Jepsen	Call Me Maybe
+6/23/12	Carly Rae Jepsen	Call Me Maybe
+6/16/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+6/9/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+6/2/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+5/26/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+5/19/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+5/12/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+5/5/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+4/28/12	Gotye Featuring Kimbra	Somebody That I Used To Know
+4/21/12	fun. Featuring Janelle Monae	We Are Young
+4/14/12	fun. Featuring Janelle Monae	We Are Young
+4/7/12	fun. Featuring Janelle Monae	We Are Young
+3/31/12	fun. Featuring Janelle Monae	We Are Young
+3/24/12	fun. Featuring Janelle Monae	We Are Young
+3/17/12	fun. Featuring Janelle Monae	We Are Young
+3/10/12	Kelly Clarkson	Stronger (What Doesn't Kill You)
+3/3/12	Katy Perry	Part Of Me
+2/25/12	Kelly Clarkson	Stronger (What Doesn't Kill You)
+2/18/12	Kelly Clarkson	Stronger (What Doesn't Kill You)
+2/11/12	Adele	Set Fire To The Rain
+2/4/12	Adele	Set Fire To The Rain
+1/28/12	Rihanna Featuring Calvin Harris	We Found Love
+1/21/12	Rihanna Featuring Calvin Harris	We Found Love
+1/14/12	LMFAO	Sexy And I Know It
+1/7/12	LMFAO	Sexy And I Know It
+12/31/11	Rihanna Featuring Calvin Harris	We Found Love
+12/24/11	Rihanna Featuring Calvin Harris	We Found Love
+12/17/11	Rihanna Featuring Calvin Harris	We Found Love
+12/10/11	Rihanna Featuring Calvin Harris	We Found Love
+12/3/11	Rihanna Featuring Calvin Harris	We Found Love
+11/26/11	Rihanna Featuring Calvin Harris	We Found Love
+11/19/11	Rihanna Featuring Calvin Harris	We Found Love
+11/12/11	Rihanna Featuring Calvin Harris	We Found Love
+11/5/11	Adele	Someone Like You
+10/29/11	Adele	Someone Like You
+10/22/11	Adele	Someone Like You
+10/15/11	Adele	Someone Like You
+10/8/11	Maroon 5 Featuring Christina Aguilera	Moves Like Jagger
+10/1/11	Maroon 5 Featuring Christina Aguilera	Moves Like Jagger
+9/24/11	Maroon 5 Featuring Christina Aguilera	Moves Like Jagger
+9/17/11	Adele	Someone Like You
+9/10/11	Maroon 5 Featuring Christina Aguilera	Moves Like Jagger
+9/3/11	Katy Perry	Last Friday Night (T.G.I.F.)
+8/27/11	Katy Perry	Last Friday Night (T.G.I.F.)
+8/20/11	LMFAO Featuring Lauren Bennett & GoonRock	Party Rock Anthem
+8/13/11	LMFAO Featuring Lauren Bennett & GoonRock	Party Rock Anthem
+8/6/11	LMFAO Featuring Lauren Bennett & GoonRock	Party Rock Anthem
+7/30/11	LMFAO Featuring Lauren Bennett & GoonRock	Party Rock Anthem
+7/23/11	LMFAO Featuring Lauren Bennett & GoonRock	Party Rock Anthem
+7/16/11	LMFAO Featuring Lauren Bennett & GoonRock	Party Rock Anthem
+7/9/11	Pitbull Featuring Ne-Yo, Afrojack & Nayer	Give Me Everything
+7/2/11	Adele	Rolling In The Deep
+6/25/11	Adele	Rolling In The Deep
+6/18/11	Adele	Rolling In The Deep
+6/11/11	Adele	Rolling In The Deep
+6/4/11	Adele	Rolling In The Deep
+5/28/11	Adele	Rolling In The Deep
+5/21/11	Adele	Rolling In The Deep
+5/14/11	Katy Perry Featuring Kanye West	E.T.
+5/7/11	Katy Perry Featuring Kanye West	E.T.
+4/30/11	Rihanna Featuring Britney Spears	S&M
+4/23/11	Katy Perry Featuring Kanye West	E.T.
+4/16/11	Katy Perry Featuring Kanye West	E.T.
+4/9/11	Katy Perry Featuring Kanye West	E.T.
+4/2/11	Lady Gaga	Born This Way
+3/26/11	Lady Gaga	Born This Way
+3/19/11	Lady Gaga	Born This Way
+3/12/11	Lady Gaga	Born This Way
+3/5/11	Lady Gaga	Born This Way
+2/26/11	Lady Gaga	Born This Way
+2/19/11	Wiz Khalifa	Black And Yellow
+2/12/11	Bruno Mars	Grenade
+2/5/11	Bruno Mars	Grenade
+1/29/11	Britney Spears	Hold It Against Me
+1/22/11	Bruno Mars	Grenade
+1/15/11	Katy Perry	Firework
+1/8/11	Bruno Mars	Grenade
+1/1/11	Katy Perry	Firework
+12/25/10	Katy Perry	Firework
+12/18/10	Katy Perry	Firework
+12/11/10	P!nk	Raise Your Glass
+12/4/10	Rihanna	Only Girl (In The World)
+11/27/10	Far*East Movement Featuring Cataracs & Dev	Like A G6
+11/20/10	Rihanna Featuring Drake	What's My Name?
+11/13/10	Ke$ha	We R Who We R
+11/6/10	Far*East Movement Featuring Cataracs & Dev	Like A G6
+10/30/10	Far*East Movement Featuring Cataracs & Dev	Like A G6
+10/23/10	Bruno Mars	Just The Way You Are
+10/16/10	Bruno Mars	Just The Way You Are
+10/9/10	Bruno Mars	Just The Way You Are
+10/2/10	Bruno Mars	Just The Way You Are
+9/25/10	Katy Perry	Teenage Dream
+9/18/10	Katy Perry	Teenage Dream
+9/11/10	Eminem Featuring Rihanna	Love The Way You Lie
+9/4/10	Eminem Featuring Rihanna	Love The Way You Lie
+8/28/10	Eminem Featuring Rihanna	Love The Way You Lie
+8/21/10	Eminem Featuring Rihanna	Love The Way You Lie
+8/14/10	Eminem Featuring Rihanna	Love The Way You Lie
+8/7/10	Eminem Featuring Rihanna	Love The Way You Lie
+7/31/10	Eminem Featuring Rihanna	Love The Way You Lie
+7/24/10	Katy Perry Featuring Snoop Dogg	California Gurls
+7/17/10	Katy Perry Featuring Snoop Dogg	California Gurls
+7/10/10	Katy Perry Featuring Snoop Dogg	California Gurls
+7/3/10	Katy Perry Featuring Snoop Dogg	California Gurls
+6/26/10	Katy Perry Featuring Snoop Dogg	California Gurls
+6/19/10	Katy Perry Featuring Snoop Dogg	California Gurls
+6/12/10	Usher Featuring will.i.am	OMG
+6/5/10	Usher Featuring will.i.am	OMG
+5/29/10	Usher Featuring will.i.am	OMG
+5/22/10	Eminem	Not Afraid
+5/15/10	Usher Featuring will.i.am	OMG
+5/8/10	B.o.B Featuring Bruno Mars	Nothin' On You
+5/1/10	B.o.B Featuring Bruno Mars	Nothin' On You
+4/24/10	Rihanna	Rude Boy
+4/17/10	Rihanna	Rude Boy
+4/10/10	Rihanna	Rude Boy
+4/3/10	Rihanna	Rude Boy
+3/27/10	Rihanna	Rude Boy
+3/20/10	Taio Cruz Featuring Ludacris	Break Your Heart
+3/13/10	The Black Eyed Peas	Imma Be
+3/6/10	The Black Eyed Peas	Imma Be
+2/27/10	Ke$ha	TiK ToK
+2/20/10	Ke$ha	TiK ToK
+2/13/10	Ke$ha	TiK ToK
+2/6/10	Ke$ha	TiK ToK
+1/30/10	Ke$ha	TiK ToK
+1/23/10	Ke$ha	TiK ToK
+1/16/10	Ke$ha	TiK ToK
+1/9/10	Ke$ha	TiK ToK
+1/2/10	Ke$ha	TiK ToK
+12/26/09	Jay-Z + Alicia Keys	Empire State Of Mind
+12/19/09	Jay-Z + Alicia Keys	Empire State Of Mind
+12/12/09	Jay-Z + Alicia Keys	Empire State Of Mind
+12/5/09	Jay-Z + Alicia Keys	Empire State Of Mind
+11/28/09	Jay-Z + Alicia Keys	Empire State Of Mind
+11/21/09	Owl City	Fireflies
+11/14/09	Jason Derulo	Whatcha Say
+11/7/09	Owl City	Fireflies
+10/31/09	Jay Sean Featuring Lil Wayne	Down
+10/24/09	Britney Spears	3
+10/17/09	Jay Sean Featuring Lil Wayne	Down
+10/10/09	The Black Eyed Peas	I Gotta Feeling
+10/3/09	The Black Eyed Peas	I Gotta Feeling
+9/26/09	The Black Eyed Peas	I Gotta Feeling
+9/19/09	The Black Eyed Peas	I Gotta Feeling
+9/12/09	The Black Eyed Peas	I Gotta Feeling
+9/5/09	The Black Eyed Peas	I Gotta Feeling
+8/29/09	The Black Eyed Peas	I Gotta Feeling
+8/22/09	The Black Eyed Peas	I Gotta Feeling
+8/15/09	The Black Eyed Peas	I Gotta Feeling
+8/8/09	The Black Eyed Peas	I Gotta Feeling
+8/1/09	The Black Eyed Peas	I Gotta Feeling
+7/25/09	The Black Eyed Peas	I Gotta Feeling
+7/18/09	The Black Eyed Peas	I Gotta Feeling
+7/11/09	The Black Eyed Peas	I Gotta Feeling
+7/4/09	The Black Eyed Peas	Boom Boom Pow
+6/27/09	The Black Eyed Peas	Boom Boom Pow
+6/20/09	The Black Eyed Peas	Boom Boom Pow
+6/13/09	The Black Eyed Peas	Boom Boom Pow
+6/6/09	The Black Eyed Peas	Boom Boom Pow
+5/30/09	The Black Eyed Peas	Boom Boom Pow
+5/23/09	The Black Eyed Peas	Boom Boom Pow
+5/16/09	The Black Eyed Peas	Boom Boom Pow
+5/9/09	The Black Eyed Peas	Boom Boom Pow
+5/2/09	The Black Eyed Peas	Boom Boom Pow
+4/25/09	The Black Eyed Peas	Boom Boom Pow
+4/18/09	The Black Eyed Peas	Boom Boom Pow
+4/11/09	Lady Gaga	Poker Face
+4/4/09	Flo Rida	Right Round
+3/28/09	Flo Rida	Right Round
+3/21/09	Flo Rida	Right Round
+3/14/09	Flo Rida	Right Round
+3/7/09	Flo Rida	Right Round
+2/28/09	Flo Rida	Right Round
+2/21/09	Eminem, Dr. Dre & 50 Cent	Crack A Bottle
+2/14/09	Kelly Clarkson	My Life Would Suck Without You
+2/7/09	Kelly Clarkson	My Life Would Suck Without You
+1/31/09	Lady Gaga Featuring Colby O'Donis	Just Dance
+1/24/09	Lady Gaga Featuring Colby O'Donis	Just Dance
+1/17/09	Lady Gaga Featuring Colby O'Donis	Just Dance
+1/10/09	Beyonce	Single Ladies (Put A Ring On It)
+1/3/09	Beyonce	Single Ladies (Put A Ring On It)
+12/27/08	Beyonce	Single Ladies (Put A Ring On It)
+12/20/08	T.I. Featuring Rihanna	Live Your Life
+12/13/08	Beyonce	Single Ladies (Put A Ring On It)
+12/6/08	T.I. Featuring Rihanna	Live Your Life
+11/29/08	T.I. Featuring Rihanna	Live Your Life
+11/22/08	T.I. Featuring Rihanna	Live Your Life
+11/15/08	T.I. Featuring Rihanna	Live Your Life
+11/8/08	T.I.	Whatever You Like
+11/1/08	T.I.	Whatever You Like
+10/25/08	Britney Spears	Womanizer
+10/18/08	T.I. Featuring Rihanna	Live Your Life
+10/11/08	T.I.	Whatever You Like
+10/4/08	T.I.	Whatever You Like
+9/27/08	P!nk	So What
+9/20/08	T.I.	Whatever You Like
+9/13/08	T.I.	Whatever You Like
+9/6/08	T.I.	Whatever You Like
+8/30/08	Rihanna	Disturbia
+8/23/08	Rihanna	Disturbia
+8/16/08	Katy Perry	I Kissed A Girl
+8/9/08	Katy Perry	I Kissed A Girl
+8/2/08	Katy Perry	I Kissed A Girl
+7/26/08	Katy Perry	I Kissed A Girl
+7/19/08	Katy Perry	I Kissed A Girl
+7/12/08	Katy Perry	I Kissed A Girl
+7/5/08	Katy Perry	I Kissed A Girl
+6/28/08	Coldplay	Viva La Vida
+6/21/08	Lil Wayne Featuring Static Major	Lollipop
+6/14/08	Lil Wayne Featuring Static Major	Lollipop
+6/7/08	Lil Wayne Featuring Static Major	Lollipop
+5/31/08	Lil Wayne Featuring Static Major	Lollipop
+5/24/08	Rihanna	Take A Bow
+5/17/08	Leona Lewis	Bleeding Love
+5/10/08	Leona Lewis	Bleeding Love
+5/3/08	Lil Wayne Featuring Static Major	Lollipop
+4/26/08	Leona Lewis	Bleeding Love
+4/19/08	Mariah Carey	Touch My Body
+4/12/08	Mariah Carey	Touch My Body
+4/5/08	Leona Lewis	Bleeding Love
+3/29/08	Usher Featuring Young Jeezy	Love In This Club
+3/22/08	Usher Featuring Young Jeezy	Love In This Club
+3/15/08	Usher Featuring Young Jeezy	Love In This Club
+3/8/08	Flo Rida Featuring T-Pain	Low
+3/1/08	Flo Rida Featuring T-Pain	Low
+2/23/08	Flo Rida Featuring T-Pain	Low
+2/16/08	Flo Rida Featuring T-Pain	Low
+2/9/08	Flo Rida Featuring T-Pain	Low
+2/2/08	Flo Rida Featuring T-Pain	Low
+1/26/08	Flo Rida Featuring T-Pain	Low
+1/19/08	Flo Rida Featuring T-Pain	Low
+1/12/08	Flo Rida Featuring T-Pain	Low
+1/5/08	Flo Rida Featuring T-Pain	Low
+12/29/07	Alicia Keys	No One
+12/22/07	Alicia Keys	No One
+12/15/07	Alicia Keys	No One
+12/8/07	Alicia Keys	No One
+12/1/07	Alicia Keys	No One
+11/24/07	Chris Brown Featuring T-Pain	Kiss Kiss
+11/17/07	Chris Brown Featuring T-Pain	Kiss Kiss
+11/10/07	Chris Brown Featuring T-Pain	Kiss Kiss
+11/3/07	Soulja Boy Tell'em	Crank That (Soulja Boy)
+10/27/07	Soulja Boy Tell'em	Crank That (Soulja Boy)
+10/20/07	Soulja Boy Tell'em	Crank That (Soulja Boy)
+10/13/07	Soulja Boy Tell'em	Crank That (Soulja Boy)
+10/6/07	Soulja Boy Tell'em	Crank That (Soulja Boy)
+9/29/07	Kanye West	Stronger
+9/22/07	Soulja Boy Tell'em	Crank That (Soulja Boy)
+9/15/07	Soulja Boy Tell'em	Crank That (Soulja Boy)
+9/8/07	Fergie	Big Girls Don't Cry
+9/1/07	Sean Kingston	Beautiful Girls
+8/25/07	Sean Kingston	Beautiful Girls
+8/18/07	Sean Kingston	Beautiful Girls
+8/11/07	Sean Kingston	Beautiful Girls
+8/4/07	Plain White T's	Hey There Delilah
+7/28/07	Plain White T's	Hey There Delilah
+7/21/07	Rihanna Featuring Jay-Z	Umbrella
+7/14/07	Rihanna Featuring Jay-Z	Umbrella
+7/7/07	Rihanna Featuring Jay-Z	Umbrella
+6/30/07	Rihanna Featuring Jay-Z	Umbrella
+6/23/07	Rihanna Featuring Jay-Z	Umbrella
+6/16/07	Rihanna Featuring Jay-Z	Umbrella
+6/9/07	Rihanna Featuring Jay-Z	Umbrella
+6/2/07	Maroon 5	Makes Me Wonder
+5/26/07	T-Pain Featuring Yung Joc	Buy U A Drank (Shawty Snappin')
+5/19/07	Maroon 5	Makes Me Wonder
+5/12/07	Maroon 5	Makes Me Wonder
+5/5/07	Avril Lavigne	Girlfriend
+4/28/07	Timbaland Featuring Nelly Furtado & Justin Timberlake	Give It To Me
+4/21/07	Timbaland Featuring Nelly Furtado & Justin Timberlake	Give It To Me
+4/14/07	Akon	Don't Matter
+4/7/07	Akon	Don't Matter
+3/31/07	Fergie Featuring Ludacris	Glamorous
+3/24/07	Fergie Featuring Ludacris	Glamorous
+3/17/07	Mims	This Is Why I'm Hot
+3/10/07	Mims	This Is Why I'm Hot
+3/3/07	Justin Timberlake	What Goes Around...Comes Around
+2/24/07	Nelly Furtado	Say It Right
+2/17/07	Beyonce	Irreplaceable
+2/10/07	Beyonce	Irreplaceable
+2/3/07	Beyonce	Irreplaceable
+1/27/07	Beyonce	Irreplaceable
+1/20/07	Beyonce	Irreplaceable
+1/13/07	Beyonce	Irreplaceable
+1/6/07	Beyonce	Irreplaceable
+12/30/06	Beyonce	Irreplaceable
+12/23/06	Beyonce	Irreplaceable
+12/16/06	Beyonce	Irreplaceable
+12/9/06	Akon Featuring Snoop Dogg	I Wanna Love You
+12/2/06	Akon Featuring Snoop Dogg	I Wanna Love You
+11/25/06	Justin Timberlake Featuring T.I.	My Love
+11/18/06	Justin Timberlake Featuring T.I.	My Love
+11/11/06	Justin Timberlake Featuring T.I.	My Love
+11/4/06	Ludacris Featuring Pharrell	Money Maker
+10/28/06	Ludacris Featuring Pharrell	Money Maker
+10/21/06	Justin Timberlake	SexyBack
+10/14/06	Justin Timberlake	SexyBack
+10/7/06	Justin Timberlake	SexyBack
+9/30/06	Justin Timberlake	SexyBack
+9/23/06	Justin Timberlake	SexyBack
+9/16/06	Justin Timberlake	SexyBack
+9/9/06	Justin Timberlake	SexyBack
+9/2/06	Fergie	London Bridge
+8/26/06	Fergie	London Bridge
+8/19/06	Fergie	London Bridge
+8/12/06	Nelly Furtado Featuring Timbaland	Promiscuous
+8/5/06	Nelly Furtado Featuring Timbaland	Promiscuous
+7/29/06	Nelly Furtado Featuring Timbaland	Promiscuous
+7/22/06	Nelly Furtado Featuring Timbaland	Promiscuous
+7/15/06	Nelly Furtado Featuring Timbaland	Promiscuous
+7/8/06	Nelly Furtado Featuring Timbaland	Promiscuous
+7/1/06	Taylor Hicks	Do I Make You Proud
+6/24/06	Shakira Featuring Wyclef Jean	Hips Don't Lie
+6/17/06	Shakira Featuring Wyclef Jean	Hips Don't Lie
+6/10/06	Chamillionaire Featuring Krayzie Bone	Ridin'
+6/3/06	Chamillionaire Featuring Krayzie Bone	Ridin'
+5/27/06	Rihanna	SOS
+5/20/06	Rihanna	SOS
+5/13/06	Rihanna	SOS
+5/6/06	Daniel Powter	Bad Day
+4/29/06	Daniel Powter	Bad Day
+4/22/06	Daniel Powter	Bad Day
+4/15/06	Daniel Powter	Bad Day
+4/8/06	Daniel Powter	Bad Day
+4/1/06	Sean Paul	Temperature
+3/25/06	Ne-Yo	So Sick
+3/18/06	Ne-Yo	So Sick
+3/11/06	James Blunt	You're Beautiful
+3/4/06	Beyonce Featuring Slim Thug	Check On It
+2/25/06	Beyonce Featuring Slim Thug	Check On It
+2/18/06	Beyonce Featuring Slim Thug	Check On It
+2/11/06	Beyonce Featuring Slim Thug	Check On It
+2/4/06	Beyonce Featuring Slim Thug	Check On It
+1/28/06	Nelly Featuring Paul Wall, Ali & Gipp	Grillz
+1/21/06	Nelly Featuring Paul Wall, Ali & Gipp	Grillz
+1/14/06	D4L	Laffy Taffy
+1/7/06	Mariah Carey	Don't Forget About Us
+12/31/05	Mariah Carey	Don't Forget About Us
+12/24/05	Chris Brown	Run It!
+12/17/05	Chris Brown	Run It!
+12/10/05	Chris Brown	Run It!
+12/3/05	Chris Brown	Run It!
+11/26/05	Chris Brown	Run It!
+11/19/05	Kanye West Featuring Jamie Foxx	Gold Digger
+11/12/05	Kanye West Featuring Jamie Foxx	Gold Digger
+11/5/05	Kanye West Featuring Jamie Foxx	Gold Digger
+10/29/05	Kanye West Featuring Jamie Foxx	Gold Digger
+10/22/05	Kanye West Featuring Jamie Foxx	Gold Digger
+10/15/05	Kanye West Featuring Jamie Foxx	Gold Digger
+10/8/05	Kanye West Featuring Jamie Foxx	Gold Digger
+10/1/05	Kanye West Featuring Jamie Foxx	Gold Digger
+9/24/05	Kanye West Featuring Jamie Foxx	Gold Digger
+9/17/05	Kanye West Featuring Jamie Foxx	Gold Digger
+9/10/05	Mariah Carey	We Belong Together
+9/3/05	Mariah Carey	We Belong Together
+8/27/05	Mariah Carey	We Belong Together
+8/20/05	Mariah Carey	We Belong Together
+8/13/05	Mariah Carey	We Belong Together
+8/6/05	Mariah Carey	We Belong Together
+7/30/05	Mariah Carey	We Belong Together
+7/23/05	Mariah Carey	We Belong Together
+7/16/05	Mariah Carey	We Belong Together
+7/9/05	Mariah Carey	We Belong Together
+7/2/05	Carrie Underwood	Inside Your Heaven
+6/25/05	Mariah Carey	We Belong Together
+6/18/05	Mariah Carey	We Belong Together
+6/11/05	Mariah Carey	We Belong Together
+6/4/05	Mariah Carey	We Belong Together
+5/28/05	Gwen Stefani	Hollaback Girl
+5/21/05	Gwen Stefani	Hollaback Girl
+5/14/05	Gwen Stefani	Hollaback Girl
+5/7/05	Gwen Stefani	Hollaback Girl
+4/30/05	50 Cent Featuring Olivia	Candy Shop
+4/23/05	50 Cent Featuring Olivia	Candy Shop
+4/16/05	50 Cent Featuring Olivia	Candy Shop
+4/9/05	50 Cent Featuring Olivia	Candy Shop
+4/2/05	50 Cent Featuring Olivia	Candy Shop
+3/26/05	50 Cent Featuring Olivia	Candy Shop
+3/19/05	50 Cent Featuring Olivia	Candy Shop
+3/12/05	50 Cent Featuring Olivia	Candy Shop
+3/5/05	50 Cent Featuring Olivia	Candy Shop
+2/26/05	Mario	Let Me Love You
+2/19/05	Mario	Let Me Love You
+2/12/05	Mario	Let Me Love You
+2/5/05	Mario	Let Me Love You
+1/29/05	Mario	Let Me Love You
+1/22/05	Mario	Let Me Love You
+1/15/05	Mario	Let Me Love You
+1/8/05	Mario	Let Me Love You
+1/1/05	Mario	Let Me Love You
+12/25/04	Snoop Dogg Featuring Pharrell	Drop It Like It's Hot
+12/18/04	Snoop Dogg Featuring Pharrell	Drop It Like It's Hot
+12/11/04	Snoop Dogg Featuring Pharrell	Drop It Like It's Hot
+12/4/04	Usher And Alicia Keys	My Boo
+11/27/04	Usher And Alicia Keys	My Boo
+11/20/04	Usher And Alicia Keys	My Boo
+11/13/04	Usher And Alicia Keys	My Boo
+11/6/04	Usher And Alicia Keys	My Boo
+10/30/04	Usher And Alicia Keys	My Boo
+10/23/04	Ciara Featuring Petey Pablo	Goodies
+10/16/04	Ciara Featuring Petey Pablo	Goodies
+10/9/04	Ciara Featuring Petey Pablo	Goodies
+10/2/04	Ciara Featuring Petey Pablo	Goodies
+9/25/04	Ciara Featuring Petey Pablo	Goodies
+9/18/04	Ciara Featuring Petey Pablo	Goodies
+9/11/04	Ciara Featuring Petey Pablo	Goodies
+9/4/04	Terror Squad	Lean Back
+8/28/04	Terror Squad	Lean Back
+8/21/04	Terror Squad	Lean Back
+8/14/04	Juvenile Featuring Soulja Slim	Slow Motion
+8/7/04	Juvenile Featuring Soulja Slim	Slow Motion
+7/31/04	Usher	Confessions Part II
+7/24/04	Usher	Confessions Part II
+7/17/04	Usher	Burn
+7/10/04	Fantasia	I Believe
+7/3/04	Usher	Burn
+6/26/04	Usher	Burn
+6/19/04	Usher	Burn
+6/12/04	Usher	Burn
+6/5/04	Usher	Burn
+5/29/04	Usher	Burn
+5/22/04	Usher	Burn
+5/15/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+5/8/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+5/1/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+4/24/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+4/17/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+4/10/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+4/3/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+3/27/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+3/20/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+3/13/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+3/6/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+2/28/04	Usher Featuring Lil Jon & Ludacris	Yeah!
+2/21/04	Twista Featuring Kanye West & Jamie Foxx	Slow Jamz
+2/14/04	OutKast Featuring Sleepy Brown	The Way You Move
+2/7/04	OutKast	Hey Ya!
+1/31/04	OutKast	Hey Ya!
+1/24/04	OutKast	Hey Ya!
+1/17/04	OutKast	Hey Ya!
+1/10/04	OutKast	Hey Ya!
+1/3/04	OutKast	Hey Ya!
+12/27/03	OutKast	Hey Ya!
+12/20/03	OutKast	Hey Ya!
+12/13/03	OutKast	Hey Ya!
+12/6/03	Ludacris Featuring Shawnna	Stand Up
+11/29/03	Beyonce Featuring Sean Paul	Baby Boy
+11/22/03	Beyonce Featuring Sean Paul	Baby Boy
+11/15/03	Beyonce Featuring Sean Paul	Baby Boy
+11/8/03	Beyonce Featuring Sean Paul	Baby Boy
+11/1/03	Beyonce Featuring Sean Paul	Baby Boy
+10/25/03	Beyonce Featuring Sean Paul	Baby Boy
+10/18/03	Beyonce Featuring Sean Paul	Baby Boy
+10/11/03	Beyonce Featuring Sean Paul	Baby Boy
+10/4/03	Beyonce Featuring Sean Paul	Baby Boy
+9/27/03	Nelly, P. Diddy & Murphy Lee	Shake Ya Tailfeather
+9/20/03	Nelly, P. Diddy & Murphy Lee	Shake Ya Tailfeather
+9/13/03	Nelly, P. Diddy & Murphy Lee	Shake Ya Tailfeather
+9/6/03	Nelly, P. Diddy & Murphy Lee	Shake Ya Tailfeather
+8/30/03	Beyonce Featuring Jay Z	Crazy In Love
+8/23/03	Beyonce Featuring Jay Z	Crazy In Love
+8/16/03	Beyonce Featuring Jay Z	Crazy In Love
+8/9/03	Beyonce Featuring Jay Z	Crazy In Love
+8/2/03	Beyonce Featuring Jay Z	Crazy In Love
+7/26/03	Beyonce Featuring Jay Z	Crazy In Love
+7/19/03	Beyonce Featuring Jay Z	Crazy In Love
+7/12/03	Beyonce Featuring Jay Z	Crazy In Love
+7/5/03	Clay Aiken	This Is The Night
+6/28/03	Clay Aiken	This Is The Night
+6/21/03	50 Cent Featuring Nate Dogg	21 Questions
+6/14/03	50 Cent Featuring Nate Dogg	21 Questions
+6/7/03	50 Cent Featuring Nate Dogg	21 Questions
+5/31/03	50 Cent Featuring Nate Dogg	21 Questions
+5/24/03	Sean Paul	Get Busy
+5/17/03	Sean Paul	Get Busy
+5/10/03	Sean Paul	Get Busy
+5/3/03	50 Cent	In Da Club
+4/26/03	50 Cent	In Da Club
+4/19/03	50 Cent	In Da Club
+4/12/03	50 Cent	In Da Club
+4/5/03	50 Cent	In Da Club
+3/29/03	50 Cent	In Da Club
+3/22/03	50 Cent	In Da Club
+3/15/03	50 Cent	In Da Club
+3/8/03	50 Cent	In Da Club
+3/1/03	Jennifer Lopez Featuring LL Cool J	All I Have
+2/22/03	Jennifer Lopez Featuring LL Cool J	All I Have
+2/15/03	Jennifer Lopez Featuring LL Cool J	All I Have
+2/8/03	Jennifer Lopez Featuring LL Cool J	All I Have
+2/1/03	B2K & P. Diddy	Bump, Bump, Bump
+1/25/03	Eminem	Lose Yourself
+1/18/03	Eminem	Lose Yourself
+1/11/03	Eminem	Lose Yourself
+1/4/03	Eminem	Lose Yourself
+12/28/02	Eminem	Lose Yourself
+12/21/02	Eminem	Lose Yourself
+12/14/02	Eminem	Lose Yourself
+12/7/02	Eminem	Lose Yourself
+11/30/02	Eminem	Lose Yourself
+11/23/02	Eminem	Lose Yourself
+11/16/02	Eminem	Lose Yourself
+11/9/02	Eminem	Lose Yourself
+11/2/02	Nelly Featuring Kelly Rowland	Dilemma
+10/26/02	Nelly Featuring Kelly Rowland	Dilemma
+10/19/02	Nelly Featuring Kelly Rowland	Dilemma
+10/12/02	Kelly Clarkson	A Moment Like This
+10/5/02	Kelly Clarkson	A Moment Like This
+9/28/02	Nelly Featuring Kelly Rowland	Dilemma
+9/21/02	Nelly Featuring Kelly Rowland	Dilemma
+9/14/02	Nelly Featuring Kelly Rowland	Dilemma
+9/7/02	Nelly Featuring Kelly Rowland	Dilemma
+8/31/02	Nelly Featuring Kelly Rowland	Dilemma
+8/24/02	Nelly Featuring Kelly Rowland	Dilemma
+8/17/02	Nelly Featuring Kelly Rowland	Dilemma
+8/10/02	Nelly	Hot In Herre
+8/3/02	Nelly	Hot In Herre
+7/27/02	Nelly	Hot In Herre
+7/20/02	Nelly	Hot In Herre
+7/13/02	Nelly	Hot In Herre
+7/6/02	Nelly	Hot In Herre
+6/29/02	Nelly	Hot In Herre
+6/22/02	Ashanti	Foolish
+6/15/02	Ashanti	Foolish
+6/8/02	Ashanti	Foolish
+6/1/02	Ashanti	Foolish
+5/25/02	Ashanti	Foolish
+5/18/02	Ashanti	Foolish
+5/11/02	Ashanti	Foolish
+5/4/02	Ashanti	Foolish
+4/27/02	Ashanti	Foolish
+4/20/02	Ashanti	Foolish
+4/13/02	Jennifer Lopez Featuring Ja Rule	Ain't It Funny
+4/6/02	Jennifer Lopez Featuring Ja Rule	Ain't It Funny
+3/30/02	Jennifer Lopez Featuring Ja Rule	Ain't It Funny
+3/23/02	Jennifer Lopez Featuring Ja Rule	Ain't It Funny
+3/16/02	Jennifer Lopez Featuring Ja Rule	Ain't It Funny
+3/9/02	Jennifer Lopez Featuring Ja Rule	Ain't It Funny
+3/2/02	Ja Rule Featuring Ashanti	Always On Time
+2/23/02	Ja Rule Featuring Ashanti	Always On Time
+2/16/02	Usher	U Got It Bad
+2/9/02	Usher	U Got It Bad
+2/2/02	Usher	U Got It Bad
+1/26/02	Usher	U Got It Bad
+1/19/02	Usher	U Got It Bad
+1/12/02	Nickelback	How You Remind Me
+1/5/02	Nickelback	How You Remind Me
+12/29/01	Nickelback	How You Remind Me
+12/22/01	Nickelback	How You Remind Me
+12/15/01	Usher	U Got It Bad
+12/8/01	Mary J. Blige	Family Affair
+12/1/01	Mary J. Blige	Family Affair
+11/24/01	Mary J. Blige	Family Affair
+11/17/01	Mary J. Blige	Family Affair
+11/10/01	Mary J. Blige	Family Affair
+11/3/01	Mary J. Blige	Family Affair
+10/27/01	Jennifer Lopez Featuring Ja Rule	I'm Real
+10/20/01	Jennifer Lopez Featuring Ja Rule	I'm Real
+10/13/01	Alicia Keys	Fallin'
+10/6/01	Alicia Keys	Fallin'
+9/29/01	Alicia Keys	Fallin'
+9/22/01	Jennifer Lopez Featuring Ja Rule	I'm Real
+9/15/01	Jennifer Lopez Featuring Ja Rule	I'm Real
+9/8/01	Jennifer Lopez Featuring Ja Rule	I'm Real
+9/1/01	Alicia Keys	Fallin'
+8/25/01	Alicia Keys	Fallin'
+8/18/01	Alicia Keys	Fallin'
+8/11/01	Destiny's Child	Bootylicious
+8/4/01	Destiny's Child	Bootylicious
+7/28/01	Usher	U Remind Me
+7/21/01	Usher	U Remind Me
+7/14/01	Usher	U Remind Me
+7/7/01	Usher	U Remind Me
+6/30/01	Christina Aguilera, Lil' Kim, Mya & P!nk	Lady Marmalade
+6/23/01	Christina Aguilera, Lil' Kim, Mya & P!nk	Lady Marmalade
+6/16/01	Christina Aguilera, Lil' Kim, Mya & P!nk	Lady Marmalade
+6/9/01	Christina Aguilera, Lil' Kim, Mya & P!nk	Lady Marmalade
+6/2/01	Christina Aguilera, Lil' Kim, Mya & P!nk	Lady Marmalade
+5/26/01	Janet	All For You
+5/19/01	Janet	All For You
+5/12/01	Janet	All For You
+5/5/01	Janet	All For You
+4/28/01	Janet	All For You
+4/21/01	Janet	All For You
+4/14/01	Janet	All For You
+4/7/01	Crazy Town	Butterfly
+3/31/01	Shaggy Featuring Rayvon	Angel
+3/24/01	Crazy Town	Butterfly
+3/17/01	Joe Featuring Mystikal	Stutter
+3/10/01	Joe Featuring Mystikal	Stutter
+3/3/01	Joe Featuring Mystikal	Stutter
+2/24/01	Joe Featuring Mystikal	Stutter
+2/17/01	OutKast	Ms. Jackson
+2/10/01	Shaggy Feat. Ricardo "RikRok" Ducent	It Wasn't Me
+2/3/01	Shaggy Feat. Ricardo "RikRok" Ducent	It Wasn't Me
+1/27/01	Destiny's Child	Independent Women Part I
+1/20/01	Destiny's Child	Independent Women Part I
+1/13/01	Destiny's Child	Independent Women Part I
+1/6/01	Destiny's Child	Independent Women Part I
+12/30/00	Destiny's Child	Independent Women Part I
+12/23/00	Destiny's Child	Independent Women Part I
+12/16/00	Destiny's Child	Independent Women Part I
+12/9/00	Destiny's Child	Independent Women Part I
+12/2/00	Destiny's Child	Independent Women Part I
+11/25/00	Destiny's Child	Independent Women Part I
+11/18/00	Destiny's Child	Independent Women Part I
+11/11/00	Creed	With Arms Wide Open
+11/4/00	Christina Aguilera	Come On Over Baby (All I Want Is You)
+10/28/00	Christina Aguilera	Come On Over Baby (All I Want Is You)
+10/21/00	Christina Aguilera	Come On Over Baby (All I Want Is You)
+10/14/00	Christina Aguilera	Come On Over Baby (All I Want Is You)
+10/7/00	Madonna	Music
+9/30/00	Madonna	Music
+9/23/00	Madonna	Music
+9/16/00	Madonna	Music
+9/9/00	Janet	Doesn't Really Matter
+9/2/00	Janet	Doesn't Really Matter
+8/26/00	Janet	Doesn't Really Matter
+8/19/00	Sisqo	Incomplete
+8/12/00	Sisqo	Incomplete
+8/5/00	'N Sync	It's Gonna Be Me
+7/29/00	'N Sync	It's Gonna Be Me
+7/22/00	matchbox twenty	Bent
+7/15/00	Vertical Horizon	Everything You Want
+7/8/00	Enrique Iglesias	Be With You
+7/1/00	Enrique Iglesias	Be With You
+6/24/00	Enrique Iglesias	Be With You
+6/17/00	Aaliyah	Try Again
+6/10/00	Santana Featuring The Product G&B	Maria Maria
+6/3/00	Santana Featuring The Product G&B	Maria Maria
+5/27/00	Santana Featuring The Product G&B	Maria Maria
+5/20/00	Santana Featuring The Product G&B	Maria Maria
+5/13/00	Santana Featuring The Product G&B	Maria Maria
+5/6/00	Santana Featuring The Product G&B	Maria Maria
+4/29/00	Santana Featuring The Product G&B	Maria Maria
+4/22/00	Santana Featuring The Product G&B	Maria Maria
+4/15/00	Santana Featuring The Product G&B	Maria Maria
+4/8/00	Santana Featuring The Product G&B	Maria Maria
+4/1/00	Destiny's Child	Say My Name
+3/25/00	Destiny's Child	Say My Name
+3/18/00	Destiny's Child	Say My Name
+3/11/00	Lonestar	Amazed
+3/4/00	Lonestar	Amazed
+2/26/00	Savage Garden	I Knew I Loved You
+2/19/00	Mariah Carey Featuring Joe & 98 Degrees	Thank God I Found You
+2/12/00	Savage Garden	I Knew I Loved You
+2/5/00	Savage Garden	I Knew I Loved You
+1/29/00	Savage Garden	I Knew I Loved You
+1/22/00	Christina Aguilera	What A Girl Wants
+1/15/00	Christina Aguilera	What A Girl Wants
+1/8/00	Santana Featuring Rob Thomas	Smooth
+1/1/00	Santana Featuring Rob Thomas	Smooth
+12/25/99	Santana Featuring Rob Thomas	Smooth
+12/18/99	Santana Featuring Rob Thomas	Smooth
+12/11/99	Santana Featuring Rob Thomas	Smooth
+12/4/99	Santana Featuring Rob Thomas	Smooth
+11/27/99	Santana Featuring Rob Thomas	Smooth
+11/20/99	Santana Featuring Rob Thomas	Smooth
+11/13/99	Santana Featuring Rob Thomas	Smooth
+11/6/99	Santana Featuring Rob Thomas	Smooth
+10/30/99	Santana Featuring Rob Thomas	Smooth
+10/23/99	Santana Featuring Rob Thomas	Smooth
+10/16/99	Mariah Carey Featuring Jay-Z	Heartbreaker
+10/9/99	Mariah Carey Featuring Jay-Z	Heartbreaker
+10/2/99	TLC	Unpretty
+9/25/99	TLC	Unpretty
+9/18/99	TLC	Unpretty
+9/11/99	Enrique Iglesias	Bailamos
+9/4/99	Enrique Iglesias	Bailamos
+8/28/99	Christina Aguilera	Genie In A Bottle
+8/21/99	Christina Aguilera	Genie In A Bottle
+8/14/99	Christina Aguilera	Genie In A Bottle
+8/7/99	Christina Aguilera	Genie In A Bottle
+7/31/99	Christina Aguilera	Genie In A Bottle
+7/24/99	Will Smith Featuring Dru Hill & Kool Mo Dee	Wild Wild West
+7/17/99	Destiny's Child	Bills, Bills, Bills
+7/10/99	Jennifer Lopez	If You Had My Love
+7/3/99	Jennifer Lopez	If You Had My Love
+6/26/99	Jennifer Lopez	If You Had My Love
+6/19/99	Jennifer Lopez	If You Had My Love
+6/12/99	Jennifer Lopez	If You Had My Love
+6/5/99	Ricky Martin	Livin' La Vida Loca
+5/29/99	Ricky Martin	Livin' La Vida Loca
+5/22/99	Ricky Martin	Livin' La Vida Loca
+5/15/99	Ricky Martin	Livin' La Vida Loca
+5/8/99	Ricky Martin	Livin' La Vida Loca
+5/1/99	TLC	No Scrubs
+4/24/99	TLC	No Scrubs
+4/17/99	TLC	No Scrubs
+4/10/99	TLC	No Scrubs
+4/3/99	Cher	Believe
+3/27/99	Cher	Believe
+3/20/99	Cher	Believe
+3/13/99	Cher	Believe
+3/6/99	Monica	Angel Of Mine
+2/27/99	Monica	Angel Of Mine
+2/20/99	Monica	Angel Of Mine
+2/13/99	Monica	Angel Of Mine
+2/6/99	Britney Spears	...Baby One More Time
+1/30/99	Britney Spears	...Baby One More Time
+1/23/99	Brandy	Have You Ever?
+1/16/99	Brandy	Have You Ever?
+1/9/99	R. Kelly & Celine Dion	I'm Your Angel
+1/2/99	R. Kelly & Celine Dion	I'm Your Angel
+12/26/98	R. Kelly & Celine Dion	I'm Your Angel
+12/19/98	R. Kelly & Celine Dion	I'm Your Angel
+12/12/98	R. Kelly & Celine Dion	I'm Your Angel
+12/5/98	R. Kelly & Celine Dion	I'm Your Angel
+11/28/98	Divine	Lately
+11/21/98	Lauryn Hill	Doo Wop (That Thing)
+11/14/98	Lauryn Hill	Doo Wop (That Thing)
+11/7/98	Monica	The First Night
+10/31/98	Monica	The First Night
+10/24/98	Monica	The First Night
+10/17/98	Barenaked Ladies	One Week
+10/10/98	Monica	The First Night
+10/3/98	Monica	The First Night
+9/26/98	Aerosmith	I Don't Want To Miss A Thing
+9/19/98	Aerosmith	I Don't Want To Miss A Thing
+9/12/98	Aerosmith	I Don't Want To Miss A Thing
+9/5/98	Aerosmith	I Don't Want To Miss A Thing
+8/29/98	Brandy & Monica	The Boy Is Mine
+8/22/98	Brandy & Monica	The Boy Is Mine
+8/15/98	Brandy & Monica	The Boy Is Mine
+8/8/98	Brandy & Monica	The Boy Is Mine
+8/1/98	Brandy & Monica	The Boy Is Mine
+7/25/98	Brandy & Monica	The Boy Is Mine
+7/18/98	Brandy & Monica	The Boy Is Mine
+7/11/98	Brandy & Monica	The Boy Is Mine
+7/4/98	Brandy & Monica	The Boy Is Mine
+6/27/98	Brandy & Monica	The Boy Is Mine
+6/20/98	Brandy & Monica	The Boy Is Mine
+6/13/98	Brandy & Monica	The Boy Is Mine
+6/6/98	Brandy & Monica	The Boy Is Mine
+5/30/98	Next	Too Close
+5/23/98	Mariah Carey	My All
+5/16/98	Next	Too Close
+5/9/98	Next	Too Close
+5/2/98	Next	Too Close
+4/25/98	Next	Too Close
+4/18/98	K-Ci & JoJo	All My Life
+4/11/98	K-Ci & JoJo	All My Life
+4/4/98	K-Ci & JoJo	All My Life
+3/28/98	Will Smith	Gettin' Jiggy Wit It
+3/21/98	Will Smith	Gettin' Jiggy Wit It
+3/14/98	Will Smith	Gettin' Jiggy Wit It
+3/7/98	Celine Dion	My Heart Will Go On
+2/28/98	Celine Dion	My Heart Will Go On
+2/21/98	Usher	Nice & Slow
+2/14/98	Usher	Nice & Slow
+2/7/98	Janet	Together Again
+1/31/98	Janet	Together Again
+1/24/98	Savage Garden	Truly Madly Deeply
+1/17/98	Savage Garden	Truly Madly Deeply
+1/10/98	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+1/3/98	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+12/27/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+12/20/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+12/13/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+12/6/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+11/29/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+11/22/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+11/15/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+11/8/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+11/1/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+10/25/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+10/18/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+10/11/97	Elton John	Candle In The Wind 1997/Something About The Way You Look Tonight
+10/4/97	Boyz II Men	4 Seasons Of Loneliness
+9/27/97	Mariah Carey	Honey
+9/20/97	Mariah Carey	Honey
+9/13/97	Mariah Carey	Honey
+9/6/97	The Notorious B.I.G. Featuring Puff Daddy & Mase	Mo Money Mo Problems
+8/30/97	The Notorious B.I.G. Featuring Puff Daddy & Mase	Mo Money Mo Problems
+8/23/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+8/16/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+8/9/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+8/2/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+7/26/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+7/19/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+7/12/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+7/5/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+6/28/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+6/21/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+6/14/97	Puff Daddy & Faith Evans Featuring 112	I'll Be Missing You
+6/7/97	Hanson	MMMBop
+5/31/97	Hanson	MMMBop
+5/24/97	Hanson	MMMBop
+5/17/97	The Notorious B.I.G.	Hypnotize
+5/10/97	The Notorious B.I.G.	Hypnotize
+5/3/97	The Notorious B.I.G.	Hypnotize
+4/26/97	Puff Daddy (Featuring Mase)	Can't Nobody Hold Me Down
+4/19/97	Puff Daddy (Featuring Mase)	Can't Nobody Hold Me Down
+4/12/97	Puff Daddy (Featuring Mase)	Can't Nobody Hold Me Down
+4/5/97	Puff Daddy (Featuring Mase)	Can't Nobody Hold Me Down
+3/29/97	Puff Daddy (Featuring Mase)	Can't Nobody Hold Me Down
+3/22/97	Puff Daddy (Featuring Mase)	Can't Nobody Hold Me Down
+3/15/97	Spice Girls	Wannabe
+3/8/97	Spice Girls	Wannabe
+3/1/97	Spice Girls	Wannabe
+2/22/97	Spice Girls	Wannabe
+2/15/97	Toni Braxton	Un-Break My Heart
+2/8/97	Toni Braxton	Un-Break My Heart
+2/1/97	Toni Braxton	Un-Break My Heart
+1/25/97	Toni Braxton	Un-Break My Heart
+1/18/97	Toni Braxton	Un-Break My Heart
+1/11/97	Toni Braxton	Un-Break My Heart
+1/4/97	Toni Braxton	Un-Break My Heart
+12/28/96	Toni Braxton	Un-Break My Heart
+12/21/96	Toni Braxton	Un-Break My Heart
+12/14/96	Toni Braxton	Un-Break My Heart
+12/7/96	Toni Braxton	Un-Break My Heart
+11/30/96	BLACKstreet (Featuring Dr. Dre)	No Diggity
+11/23/96	BLACKstreet (Featuring Dr. Dre)	No Diggity
+11/16/96	BLACKstreet (Featuring Dr. Dre)	No Diggity
+11/9/96	BLACKstreet (Featuring Dr. Dre)	No Diggity
+11/2/96	Los Del Rio	Macarena (Bayside Boys Mix)
+10/26/96	Los Del Rio	Macarena (Bayside Boys Mix)
+10/19/96	Los Del Rio	Macarena (Bayside Boys Mix)
+10/12/96	Los Del Rio	Macarena (Bayside Boys Mix)
+10/5/96	Los Del Rio	Macarena (Bayside Boys Mix)
+9/28/96	Los Del Rio	Macarena (Bayside Boys Mix)
+9/21/96	Los Del Rio	Macarena (Bayside Boys Mix)
+9/14/96	Los Del Rio	Macarena (Bayside Boys Mix)
+9/7/96	Los Del Rio	Macarena (Bayside Boys Mix)
+8/31/96	Los Del Rio	Macarena (Bayside Boys Mix)
+8/24/96	Los Del Rio	Macarena (Bayside Boys Mix)
+8/17/96	Los Del Rio	Macarena (Bayside Boys Mix)
+8/10/96	Los Del Rio	Macarena (Bayside Boys Mix)
+8/3/96	Los Del Rio	Macarena (Bayside Boys Mix)
+7/27/96	Toni Braxton	You're Makin' Me High/Let It Flow
+7/20/96	2Pac Featuring K-Ci And JoJo	How Do U Want It/California Love
+7/13/96	2Pac Featuring K-Ci And JoJo	How Do U Want It/California Love
+7/6/96	Bone Thugs-N-Harmony	Tha Crossroads
+6/29/96	Bone Thugs-N-Harmony	Tha Crossroads
+6/22/96	Bone Thugs-N-Harmony	Tha Crossroads
+6/15/96	Bone Thugs-N-Harmony	Tha Crossroads
+6/8/96	Bone Thugs-N-Harmony	Tha Crossroads
+6/1/96	Bone Thugs-N-Harmony	Tha Crossroads
+5/25/96	Bone Thugs-N-Harmony	Tha Crossroads
+5/18/96	Bone Thugs-N-Harmony	Tha Crossroads
+5/11/96	Mariah Carey	Always Be My Baby
+5/4/96	Mariah Carey	Always Be My Baby
+4/27/96	Celine Dion	Because You Loved Me (From "Up Close & Personal")
+4/20/96	Celine Dion	Because You Loved Me (From "Up Close & Personal")
+4/13/96	Celine Dion	Because You Loved Me (From "Up Close & Personal")
+4/6/96	Celine Dion	Because You Loved Me (From "Up Close & Personal")
+3/30/96	Celine Dion	Because You Loved Me (From "Up Close & Personal")
+3/23/96	Celine Dion	Because You Loved Me (From "Up Close & Personal")
+3/16/96	Mariah Carey & Boyz II Men	One Sweet Day
+3/9/96	Mariah Carey & Boyz II Men	One Sweet Day
+3/2/96	Mariah Carey & Boyz II Men	One Sweet Day
+2/24/96	Mariah Carey & Boyz II Men	One Sweet Day
+2/17/96	Mariah Carey & Boyz II Men	One Sweet Day
+2/10/96	Mariah Carey & Boyz II Men	One Sweet Day
+2/3/96	Mariah Carey & Boyz II Men	One Sweet Day
+1/27/96	Mariah Carey & Boyz II Men	One Sweet Day
+1/20/96	Mariah Carey & Boyz II Men	One Sweet Day
+1/13/96	Mariah Carey & Boyz II Men	One Sweet Day
+1/6/96	Mariah Carey & Boyz II Men	One Sweet Day
+12/30/95	Mariah Carey & Boyz II Men	One Sweet Day
+12/23/95	Mariah Carey & Boyz II Men	One Sweet Day
+12/16/95	Mariah Carey & Boyz II Men	One Sweet Day
+12/9/95	Mariah Carey & Boyz II Men	One Sweet Day
+12/2/95	Mariah Carey & Boyz II Men	One Sweet Day
+11/25/95	Whitney Houston	Exhale (Shoop Shoop) (From "Waiting To Exhale")
+11/18/95	Mariah Carey	Fantasy
+11/11/95	Mariah Carey	Fantasy
+11/4/95	Mariah Carey	Fantasy
+10/28/95	Mariah Carey	Fantasy
+10/21/95	Mariah Carey	Fantasy
+10/14/95	Mariah Carey	Fantasy
+10/7/95	Mariah Carey	Fantasy
+9/30/95	Mariah Carey	Fantasy
+9/23/95	Coolio Featuring L.V.	Gangsta's Paradise (From "Dangerous Minds")
+9/16/95	Coolio Featuring L.V.	Gangsta's Paradise (From "Dangerous Minds")
+9/9/95	Coolio Featuring L.V.	Gangsta's Paradise (From "Dangerous Minds")
+9/2/95	Michael Jackson	You Are Not Alone
+8/26/95	Seal	Kiss From A Rose
+8/19/95	TLC	Waterfalls
+8/12/95	TLC	Waterfalls
+8/5/95	TLC	Waterfalls
+7/29/95	TLC	Waterfalls
+7/22/95	TLC	Waterfalls
+7/15/95	TLC	Waterfalls
+7/8/95	TLC	Waterfalls
+7/1/95	Bryan Adams	Have You Ever Really Loved A Woman?
+6/24/95	Bryan Adams	Have You Ever Really Loved A Woman?
+6/17/95	Bryan Adams	Have You Ever Really Loved A Woman?
+6/10/95	Bryan Adams	Have You Ever Really Loved A Woman?
+6/3/95	Bryan Adams	Have You Ever Really Loved A Woman?
+5/27/95	Montell Jordan	This Is How We Do It
+5/20/95	Montell Jordan	This Is How We Do It
+5/13/95	Montell Jordan	This Is How We Do It
+5/6/95	Montell Jordan	This Is How We Do It
+4/29/95	Montell Jordan	This Is How We Do It
+4/22/95	Montell Jordan	This Is How We Do It
+4/15/95	Montell Jordan	This Is How We Do It
+4/8/95	Madonna	Take A Bow
+4/1/95	Madonna	Take A Bow
+3/25/95	Madonna	Take A Bow
+3/18/95	Madonna	Take A Bow
+3/11/95	Madonna	Take A Bow
+3/4/95	Madonna	Take A Bow
+2/25/95	Madonna	Take A Bow
+2/18/95	TLC	Creep
+2/11/95	TLC	Creep
+2/4/95	TLC	Creep
+1/28/95	TLC	Creep
+1/21/95	Boyz II Men	On Bended Knee
+1/14/95	Boyz II Men	On Bended Knee
+1/7/95	Boyz II Men	On Bended Knee
+12/31/94	Boyz II Men	On Bended Knee
+12/24/94	Ini Kamoze	Here Comes The Hotstepper (From "Ready To Wear")
+12/17/94	Ini Kamoze	Here Comes The Hotstepper (From "Ready To Wear")
+12/10/94	Boyz II Men	On Bended Knee
+12/3/94	Boyz II Men	On Bended Knee
+11/26/94	Boyz II Men	I'll Make Love To You
+11/19/94	Boyz II Men	I'll Make Love To You
+11/12/94	Boyz II Men	I'll Make Love To You
+11/5/94	Boyz II Men	I'll Make Love To You
+10/29/94	Boyz II Men	I'll Make Love To You
+10/22/94	Boyz II Men	I'll Make Love To You
+10/15/94	Boyz II Men	I'll Make Love To You
+10/8/94	Boyz II Men	I'll Make Love To You
+10/1/94	Boyz II Men	I'll Make Love To You
+9/24/94	Boyz II Men	I'll Make Love To You
+9/17/94	Boyz II Men	I'll Make Love To You
+9/10/94	Boyz II Men	I'll Make Love To You
+9/3/94	Boyz II Men	I'll Make Love To You
+8/27/94	Boyz II Men	I'll Make Love To You
+8/20/94	Lisa Loeb & Nine Stories	Stay (I Missed You) (From "Reality Bites")
+8/13/94	Lisa Loeb & Nine Stories	Stay (I Missed You) (From "Reality Bites")
+8/6/94	Lisa Loeb & Nine Stories	Stay (I Missed You) (From "Reality Bites")
+7/30/94	All-4-One	I Swear
+7/23/94	All-4-One	I Swear
+7/16/94	All-4-One	I Swear
+7/9/94	All-4-One	I Swear
+7/2/94	All-4-One	I Swear
+6/25/94	All-4-One	I Swear
+6/18/94	All-4-One	I Swear
+6/11/94	All-4-One	I Swear
+6/4/94	All-4-One	I Swear
+5/28/94	All-4-One	I Swear
+5/21/94	All-4-One	I Swear
+5/14/94	Ace Of Base	The Sign
+5/7/94	Ace Of Base	The Sign
+4/30/94	R. Kelly	Bump N' Grind
+4/23/94	R. Kelly	Bump N' Grind
+4/16/94	R. Kelly	Bump N' Grind
+4/9/94	R. Kelly	Bump N' Grind
+4/2/94	Ace Of Base	The Sign
+3/26/94	Ace Of Base	The Sign
+3/19/94	Ace Of Base	The Sign
+3/12/94	Ace Of Base	The Sign
+3/5/94	Celine Dion	The Power Of Love
+2/26/94	Celine Dion	The Power Of Love
+2/19/94	Celine Dion	The Power Of Love
+2/12/94	Celine Dion	The Power Of Love
+2/5/94	Bryan Adams/Rod Stewart/Sting	All For Love
+1/29/94	Bryan Adams/Rod Stewart/Sting	All For Love
+1/22/94	Bryan Adams/Rod Stewart/Sting	All For Love
+1/15/94	Mariah Carey	Hero
+1/8/94	Mariah Carey	Hero
+1/1/94	Mariah Carey	Hero
+12/25/93	Mariah Carey	Hero
+12/18/93	Janet Jackson	Again
+12/11/93	Janet Jackson	Again
+12/4/93	Meat Loaf	I'd Do Anything For Love (But I Won't Do That)
+11/27/93	Meat Loaf	I'd Do Anything For Love (But I Won't Do That)
+11/20/93	Meat Loaf	I'd Do Anything For Love (But I Won't Do That)
+11/13/93	Meat Loaf	I'd Do Anything For Love (But I Won't Do That)
+11/6/93	Meat Loaf	I'd Do Anything For Love (But I Won't Do That)
+10/30/93	Mariah Carey	Dreamlover
+10/23/93	Mariah Carey	Dreamlover
+10/16/93	Mariah Carey	Dreamlover
+10/9/93	Mariah Carey	Dreamlover
+10/2/93	Mariah Carey	Dreamlover
+9/25/93	Mariah Carey	Dreamlover
+9/18/93	Mariah Carey	Dreamlover
+9/11/93	Mariah Carey	Dreamlover
+9/4/93	UB40	Can't Help Falling In Love (From "Sliver")
+8/28/93	UB40	Can't Help Falling In Love (From "Sliver")
+8/21/93	UB40	Can't Help Falling In Love (From "Sliver")
+8/14/93	UB40	Can't Help Falling In Love (From "Sliver")
+8/7/93	UB40	Can't Help Falling In Love (From "Sliver")
+7/31/93	UB40	Can't Help Falling In Love (From "Sliver")
+7/24/93	UB40	Can't Help Falling In Love (From "Sliver")
+7/17/93	SWV	Weak
+7/10/93	SWV	Weak
+7/3/93	Janet Jackson	That's The Way Love Goes
+6/26/93	Janet Jackson	That's The Way Love Goes
+6/19/93	Janet Jackson	That's The Way Love Goes
+6/12/93	Janet Jackson	That's The Way Love Goes
+6/5/93	Janet Jackson	That's The Way Love Goes
+5/29/93	Janet Jackson	That's The Way Love Goes
+5/22/93	Janet Jackson	That's The Way Love Goes
+5/15/93	Janet Jackson	That's The Way Love Goes
+5/8/93	Silk	Freak Me
+5/1/93	Silk	Freak Me
+4/24/93	Snow	Informer
+4/17/93	Snow	Informer
+4/10/93	Snow	Informer
+4/3/93	Snow	Informer
+3/27/93	Snow	Informer
+3/20/93	Snow	Informer
+3/13/93	Snow	Informer
+3/6/93	Peabo Bryson & Regina Belle	A Whole New World (Aladdin's Theme)
+2/27/93	Whitney Houston	I Will Always Love You
+2/20/93	Whitney Houston	I Will Always Love You
+2/13/93	Whitney Houston	I Will Always Love You
+2/6/93	Whitney Houston	I Will Always Love You
+1/30/93	Whitney Houston	I Will Always Love You
+1/23/93	Whitney Houston	I Will Always Love You
+1/16/93	Whitney Houston	I Will Always Love You
+1/9/93	Whitney Houston	I Will Always Love You
+1/2/93	Whitney Houston	I Will Always Love You
+12/26/92	Whitney Houston	I Will Always Love You
+12/19/92	Whitney Houston	I Will Always Love You
+12/12/92	Whitney Houston	I Will Always Love You
+12/5/92	Whitney Houston	I Will Always Love You
+11/28/92	Whitney Houston	I Will Always Love You
+11/21/92	The Heights	How Do You Talk To An Angel
+11/14/92	The Heights	How Do You Talk To An Angel
+11/7/92	Boyz II Men	End Of The Road (From "Boomerang")
+10/31/92	Boyz II Men	End Of The Road (From "Boomerang")
+10/24/92	Boyz II Men	End Of The Road (From "Boomerang")
+10/17/92	Boyz II Men	End Of The Road (From "Boomerang")
+10/10/92	Boyz II Men	End Of The Road (From "Boomerang")
+10/3/92	Boyz II Men	End Of The Road (From "Boomerang")
+9/26/92	Boyz II Men	End Of The Road (From "Boomerang")
+9/19/92	Boyz II Men	End Of The Road (From "Boomerang")
+9/12/92	Boyz II Men	End Of The Road (From "Boomerang")
+9/5/92	Boyz II Men	End Of The Road (From "Boomerang")
+8/29/92	Boyz II Men	End Of The Road (From "Boomerang")
+8/22/92	Boyz II Men	End Of The Road (From "Boomerang")
+8/15/92	Boyz II Men	End Of The Road (From "Boomerang")
+8/8/92	Madonna	This Used To Be My Playground
+8/1/92	Sir Mix-A-Lot	Baby Got Back
+7/25/92	Sir Mix-A-Lot	Baby Got Back
+7/18/92	Sir Mix-A-Lot	Baby Got Back
+7/11/92	Sir Mix-A-Lot	Baby Got Back
+7/4/92	Sir Mix-A-Lot	Baby Got Back
+6/27/92	Mariah Carey	I'll Be There
+6/20/92	Mariah Carey	I'll Be There
+6/13/92	Kris Kross	Jump
+6/6/92	Kris Kross	Jump
+5/30/92	Kris Kross	Jump
+5/23/92	Kris Kross	Jump
+5/16/92	Kris Kross	Jump
+5/9/92	Kris Kross	Jump
+5/2/92	Kris Kross	Jump
+4/25/92	Kris Kross	Jump
+4/18/92	Vanessa Williams	Save The Best For Last
+4/11/92	Vanessa Williams	Save The Best For Last
+4/4/92	Vanessa Williams	Save The Best For Last
+3/28/92	Vanessa Williams	Save The Best For Last
+3/21/92	Vanessa Williams	Save The Best For Last
+3/14/92	Mr. Big	To Be With You
+3/7/92	Mr. Big	To Be With You
+2/29/92	Mr. Big	To Be With You
+2/22/92	Right Said Fred	I'm Too Sexy
+2/15/92	Right Said Fred	I'm Too Sexy
+2/8/92	Right Said Fred	I'm Too Sexy
+2/1/92	George Michael/Elton John	Don't Let The Sun Go Down On Me
+1/25/92	Color Me Badd	All 4 Love
+1/18/92	Michael Jackson	Black Or White
+1/11/92	Michael Jackson	Black Or White
+1/4/92	Michael Jackson	Black Or White
+12/28/91	Michael Jackson	Black Or White
+12/21/91	Michael Jackson	Black Or White
+12/14/91	Michael Jackson	Black Or White
+12/7/91	Michael Jackson	Black Or White
+11/30/91	P.M. Dawn	Set Adrift On Memory Bliss
+11/23/91	Michael Bolton	When A Man Loves A Woman
+11/16/91	Prince And The N.P.G.	Cream
+11/9/91	Prince And The N.P.G.	Cream
+11/2/91	Karyn White	Romantic
+10/26/91	Mariah Carey	Emotions
+10/19/91	Mariah Carey	Emotions
+10/12/91	Mariah Carey	Emotions
+10/5/91	Marky Mark & The Funky Bunch Featuring Loleatta Holloway	Good Vibrations
+9/28/91	Color Me Badd	I Adore Mi Amor
+9/21/91	Color Me Badd	I Adore Mi Amor
+9/14/91	Paula Abdul	The Promise Of A New Day
+9/7/91	Bryan Adams	(Everything I Do) I Do It For You
+8/31/91	Bryan Adams	(Everything I Do) I Do It For You
+8/24/91	Bryan Adams	(Everything I Do) I Do It For You
+8/17/91	Bryan Adams	(Everything I Do) I Do It For You
+8/10/91	Bryan Adams	(Everything I Do) I Do It For You
+8/3/91	Bryan Adams	(Everything I Do) I Do It For You
+7/27/91	Bryan Adams	(Everything I Do) I Do It For You
+7/20/91	EMF	Unbelievable
+7/13/91	Paula Abdul	Rush Rush
+7/6/91	Paula Abdul	Rush Rush
+6/29/91	Paula Abdul	Rush Rush
+6/22/91	Paula Abdul	Rush Rush
+6/15/91	Paula Abdul	Rush Rush
+6/8/91	Extreme	More Than Words
+6/1/91	Mariah Carey	I Don't Wanna Cry
+5/25/91	Mariah Carey	I Don't Wanna Cry
+5/18/91	Hi-Five	I Like The Way (The Kissing Game)
+5/11/91	Roxette	Joyride
+5/4/91	Amy Grant	Baby Baby
+4/27/91	Amy Grant	Baby Baby
+4/20/91	Wilson Phillips	You're In Love
+4/13/91	Londonbeat	I've Been Thinking About You
+4/6/91	Gloria Estefan	Coming Out Of The Dark
+3/30/91	Gloria Estefan	Coming Out Of The Dark
+3/23/91	Timmy T.	One More Try
+3/16/91	Mariah Carey	Someday
+3/9/91	Mariah Carey	Someday
+3/2/91	Whitney Houston	All The Man That I Need
+2/23/91	Whitney Houston	All The Man That I Need
+2/16/91	C+C Music Factory	Gonna Make You Sweat (Everybody Dance Now)
+2/9/91	C+C Music Factory	Gonna Make You Sweat (Everybody Dance Now)
+2/2/91	Surface	The First Time
+1/26/91	Surface	The First Time
+1/19/91	Janet Jackson	Love Will Never Do (Without You)
+1/12/91	Madonna	Justify My Love
+1/5/91	Madonna	Justify My Love
+12/29/90	Stevie B	Because I Love You (The Postman Song)
+12/22/90	Stevie B	Because I Love You (The Postman Song)
+12/15/90	Stevie B	Because I Love You (The Postman Song)
+12/8/90	Stevie B	Because I Love You (The Postman Song)
+12/1/90	Whitney Houston	I'm Your Baby Tonight
+11/24/90	Mariah Carey	Love Takes Time
+11/17/90	Mariah Carey	Love Takes Time
+11/10/90	Mariah Carey	Love Takes Time
+11/3/90	Vanilla Ice	Ice Ice Baby
+10/27/90	Janet Jackson	Black Cat
+10/20/90	James Ingram	I Don't Have The Heart
+10/13/90	George Michael	Praying For Time
+10/6/90	Maxi Priest	Close To You
+9/29/90	Nelson	(Can't Live Without Your) Love And Affection
+9/22/90	Wilson Phillips	Release Me
+9/15/90	Wilson Phillips	Release Me
+9/8/90	Jon Bon Jovi	Blaze Of Glory (From "Young Guns II")
+9/1/90	Sweet Sensation	If Wishes Came True
+8/25/90	Mariah Carey	Vision Of Love
+8/18/90	Mariah Carey	Vision Of Love
+8/11/90	Mariah Carey	Vision Of Love
+8/4/90	Mariah Carey	Vision Of Love
+7/28/90	Glenn Medeiros Featuring Bobby Brown	She Ain't Worth It
+7/21/90	Glenn Medeiros Featuring Bobby Brown	She Ain't Worth It
+7/14/90	New Kids On The Block	Step By Step
+7/7/90	New Kids On The Block	Step By Step
+6/30/90	New Kids On The Block	Step By Step
+6/23/90	Roxette	It Must Have Been Love (From "Pretty Woman")
+6/16/90	Roxette	It Must Have Been Love (From "Pretty Woman")
+6/9/90	Wilson Phillips	Hold On
+6/2/90	Madonna	Vogue
+5/26/90	Madonna	Vogue
+5/19/90	Madonna	Vogue
+5/12/90	Sinead O'Connor	Nothing Compares 2 U
+5/5/90	Sinead O'Connor	Nothing Compares 2 U
+4/28/90	Sinead O'Connor	Nothing Compares 2 U
+4/21/90	Sinead O'Connor	Nothing Compares 2 U
+4/14/90	Tommy Page	I'll Be Your Everything
+4/7/90	Taylor Dayne	Love Will Lead You Back
+3/31/90	Alannah Myles	Black Velvet
+3/24/90	Alannah Myles	Black Velvet
+3/17/90	Janet Jackson	Escapade
+3/10/90	Janet Jackson	Escapade
+3/3/90	Janet Jackson	Escapade
+2/24/90	Paula Abdul (Duet With The Wild Pair)	Opposites Attract
+2/17/90	Paula Abdul (Duet With The Wild Pair)	Opposites Attract
+2/10/90	Paula Abdul (Duet With The Wild Pair)	Opposites Attract
+2/3/90	Michael Bolton	How Am I Supposed To Live Without You
+1/27/90	Michael Bolton	How Am I Supposed To Live Without You
+1/20/90	Michael Bolton	How Am I Supposed To Live Without You
+1/13/90	Phil Collins	Another Day In Paradise
+1/6/90	Phil Collins	Another Day In Paradise
+12/30/89	Phil Collins	Another Day In Paradise
+12/23/89	Phil Collins	Another Day In Paradise
+12/16/89	Billy Joel	We Didn't Start The Fire
+12/9/89	Billy Joel	We Didn't Start The Fire
+12/2/89	Milli Vanilli	Blame It On The Rain
+11/25/89	Milli Vanilli	Blame It On The Rain
+11/18/89	Bad English	When I See You Smile
+11/11/89	Bad English	When I See You Smile
+11/4/89	Roxette	Listen To Your Heart
+10/28/89	Janet Jackson	Miss You Much
+10/21/89	Janet Jackson	Miss You Much
+10/14/89	Janet Jackson	Miss You Much
+10/7/89	Janet Jackson	Miss You Much
+9/30/89	Milli Vanilli	Girl I'm Gonna Miss You
+9/23/89	Milli Vanilli	Girl I'm Gonna Miss You
+9/16/89	Gloria Estefan	Don't Wanna Lose You
+9/9/89	New Kids On The Block	Hangin' Tough
+9/2/89	Paula Abdul	Cold Hearted
+8/26/89	Richard Marx	Right Here Waiting
+8/19/89	Richard Marx	Right Here Waiting
+8/12/89	Richard Marx	Right Here Waiting
+8/5/89	Prince	Batdance (From "Batman")
+7/29/89	Martika	Toy Soldiers
+7/22/89	Martika	Toy Soldiers
+7/15/89	Simply Red	If You Don't Know Me By Now
+7/8/89	Fine Young Cannibals	Good Thing
+7/1/89	Milli Vanilli	Baby Don't Forget My Number
+6/24/89	Richard Marx	Satisfied
+6/17/89	New Kids On The Block	I'll Be Loving You (Forever)
+6/10/89	Bette Midler	Wind Beneath My Wings (From "Beaches")
+6/3/89	Michael Damian	Rock On (From "Dream A Little Dream")
+5/27/89	Paula Abdul	Forever Your Girl
+5/20/89	Paula Abdul	Forever Your Girl
+5/13/89	Bon Jovi	I'll Be There For You
+5/6/89	Madonna	Like A Prayer
+4/29/89	Madonna	Like A Prayer
+4/22/89	Madonna	Like A Prayer
+4/15/89	Fine Young Cannibals	She Drives Me Crazy
+4/8/89	Roxette	The Look
+4/1/89	The Bangles	Eternal Flame
+3/25/89	Mike + The Mechanics	The Living Years
+3/18/89	Debbie Gibson	Lost In Your Eyes
+3/11/89	Debbie Gibson	Lost In Your Eyes
+3/4/89	Debbie Gibson	Lost In Your Eyes
+2/25/89	Paula Abdul	Straight Up
+2/18/89	Paula Abdul	Straight Up
+2/11/89	Paula Abdul	Straight Up
+2/4/89	Sheriff	When I'm With You
+1/28/89	Phil Collins	Two Hearts
+1/21/89	Phil Collins	Two Hearts
+1/14/89	Bobby Brown	My Prerogative
+1/7/89	Poison	Every Rose Has Its Thorn
+12/31/88	Poison	Every Rose Has Its Thorn
+12/24/88	Poison	Every Rose Has Its Thorn
+12/17/88	Chicago	Look Away
+12/10/88	Chicago	Look Away
+12/3/88	Will To Power	Baby, I Love Your Way/Freebird Medley
+11/26/88	Bon Jovi	Bad Medicine
+11/19/88	Bon Jovi	Bad Medicine
+11/12/88	The Escape Club	Wild, Wild West
+11/5/88	The Beach Boys	Kokomo (From"Cocktail" )
+10/29/88	Phil Collins	Groovy Kind Of Love
+10/22/88	Phil Collins	Groovy Kind Of Love
+10/15/88	UB40	Red Red Wine
+10/8/88	Def Leppard	Love Bites
+10/1/88	Bobby McFerrin	Don't Worry, Be Happy (From "Cocktail")
+9/24/88	Bobby McFerrin	Don't Worry, Be Happy (From "Cocktail")
+9/17/88	Guns N' Roses	Sweet Child O' Mine
+9/10/88	Guns N' Roses	Sweet Child O' Mine
+9/3/88	George Michael	Monkey
+8/27/88	George Michael	Monkey
+8/20/88	Steve Winwood	Roll With It
+8/13/88	Steve Winwood	Roll With It
+8/6/88	Steve Winwood	Roll With It
+7/30/88	Steve Winwood	Roll With It
+7/23/88	Richard Marx	Hold On To The Nights
+7/16/88	Cheap Trick	The Flame
+7/9/88	Cheap Trick	The Flame
+7/2/88	Michael Jackson	Dirty Diana
+6/25/88	Debbie Gibson	Foolish Beat
+6/18/88	Rick Astley	Together Forever
+6/11/88	George Michael	One More Try
+6/4/88	George Michael	One More Try
+5/28/88	George Michael	One More Try
+5/21/88	Gloria Estefan & Miami Sound Machine	Anything For You
+5/14/88	Gloria Estefan & Miami Sound Machine	Anything For You
+5/7/88	Terence Trent D'Arby	Wishing Well
+4/30/88	Whitney Houston	Where Do Broken Hearts Go
+4/23/88	Whitney Houston	Where Do Broken Hearts Go
+4/16/88	Billy Ocean	Get Outta My Dreams, Get Into My Car
+4/9/88	Billy Ocean	Get Outta My Dreams, Get Into My Car
+4/2/88	Michael Jackson	Man In The Mirror
+3/26/88	Michael Jackson	Man In The Mirror
+3/19/88	Rick Astley	Never Gonna Give You Up
+3/12/88	Rick Astley	Never Gonna Give You Up
+3/5/88	George Michael	Father Figure
+2/27/88	George Michael	Father Figure
+2/20/88	Expose	Seasons Change
+2/13/88	Tiffany	Could've Been
+2/6/88	Tiffany	Could've Been
+1/30/88	INXS	Need You Tonight
+1/23/88	Michael Jackson	The Way You Make Me Feel
+1/16/88	George Harrison	Got My Mind Set On You
+1/9/88	Whitney Houston	So Emotional
+1/2/88	George Michael	Faith
+12/26/87	George Michael	Faith
+12/19/87	George Michael	Faith
+12/12/87	George Michael	Faith
+12/5/87	Belinda Carlisle	Heaven Is A Place On Earth
+11/28/87	Bill Medley & Jennifer Warnes	(I've Had) The Time Of My Life
+11/21/87	Billy Idol	Mony Mony
+11/14/87	Tiffany	I Think We're Alone Now
+11/7/87	Tiffany	I Think We're Alone Now
+10/31/87	Michael Jackson	Bad
+10/24/87	Michael Jackson	Bad
+10/17/87	Lisa Lisa And Cult Jam	Lost In Emotion
+10/10/87	Whitesnake	Here I Go Again
+10/3/87	Whitney Houston	Didn't We Almost Have It All
+9/26/87	Whitney Houston	Didn't We Almost Have It All
+9/19/87	Michael Jackson With Siedah Garrett	I Just Can't Stop Loving You
+9/12/87	Los Lobos	La Bamba
+9/5/87	Los Lobos	La Bamba
+8/29/87	Los Lobos	La Bamba
+8/22/87	Madonna	Who's That Girl
+8/15/87	U2	I Still Haven't Found What I'm Looking For
+8/8/87	U2	I Still Haven't Found What I'm Looking For
+8/1/87	Bob Seger	Shakedown (From "Beverly Hills Cop II")
+7/25/87	Heart	Alone
+7/18/87	Heart	Alone
+7/11/87	Heart	Alone
+7/4/87	Whitney Houston	I Wanna Dance With Somebody (Who Loves Me)
+6/27/87	Whitney Houston	I Wanna Dance With Somebody (Who Loves Me)
+6/20/87	Lisa Lisa And Cult Jam	Head To Toe
+6/13/87	Atlantic Starr	Always
+6/6/87	Kim Wilde	You Keep Me Hangin' On
+5/30/87	U2	With or Without You
+5/23/87	U2	With or Without You
+5/16/87	U2	With or Without You
+5/9/87	Cutting Crew	(I Just) Died In Your Arms
+5/2/87	Cutting Crew	(I Just) Died In Your Arms
+4/25/87	Aretha Franklin & George Michael	I Knew You Were Waiting (For Me)
+4/18/87	Aretha Franklin & George Michael	I Knew You Were Waiting (For Me)
+4/11/87	Starship	Nothing's Gonna Stop Us Now
+4/4/87	Starship	Nothing's Gonna Stop Us Now
+3/28/87	Club Nouveau	Lean On Me
+3/21/87	Club Nouveau	Lean On Me
+3/14/87	Huey Lewis & The News	Jacob's Ladder
+3/7/87	Bon Jovi	Livin' On A Prayer
+2/28/87	Bon Jovi	Livin' On A Prayer
+2/21/87	Bon Jovi	Livin' On A Prayer
+2/14/87	Bon Jovi	Livin' On A Prayer
+2/7/87	Madonna	Open Your Heart
+1/31/87	Billy Vera & The Beaters	At This Moment
+1/24/87	Billy Vera & The Beaters	At This Moment
+1/17/87	Gregory Abbott	Shake You Down
+1/10/87	The Bangles	Walk Like An Egyptian
+1/3/87	The Bangles	Walk Like An Egyptian
+12/27/86	The Bangles	Walk Like An Egyptian
+12/20/86	The Bangles	Walk Like An Egyptian
+12/13/86	Bruce Hornsby & The Range	The Way It Is
+12/6/86	Peter Cetera With Amy Grant	The Next Time I Fall
+11/29/86	Bon Jovi	You Give Love A Bad Name
+11/22/86	The Human League	Human
+11/15/86	Boston	Amanda
+11/8/86	Boston	Amanda
+11/1/86	Cyndi Lauper	True Colors
+10/25/86	Cyndi Lauper	True Colors
+10/18/86	Janet Jackson	When I Think Of You
+10/11/86	Janet Jackson	When I Think Of You
+10/4/86	Huey Lewis & The News	Stuck With You
+9/27/86	Huey Lewis & The News	Stuck With You
+9/20/86	Huey Lewis & The News	Stuck With You
+9/13/86	Berlin	Take My Breath Away (Love Theme From "Top Gun")
+9/6/86	Bananarama	Venus
+8/30/86	Steve Winwood	Higher Love
+8/23/86	Madonna	Papa Don't Preach
+8/16/86	Madonna	Papa Don't Preach
+8/9/86	Peter Cetera	Glory Of Love (Theme From "The Karate Kid Part II")
+8/2/86	Peter Cetera	Glory Of Love (Theme From "The Karate Kid Part II")
+7/26/86	Peter Gabriel	Sledgehammer
+7/19/86	Genesis	Invisible Touch
+7/12/86	Simply Red	Holding Back The Years
+7/5/86	Billy Ocean	There'll Be Sad Songs (To Make You Cry)
+6/28/86	Patti LaBelle & Michael McDonald	On My Own
+6/21/86	Patti LaBelle & Michael McDonald	On My Own
+6/14/86	Patti LaBelle & Michael McDonald	On My Own
+6/7/86	Madonna	Live To Tell
+5/31/86	Whitney Houston	Greatest Love Of All
+5/24/86	Whitney Houston	Greatest Love Of All
+5/17/86	Whitney Houston	Greatest Love Of All
+5/10/86	Pet Shop Boys	West End Girls
+5/3/86	Robert Palmer	Addicted To Love
+4/26/86	Prince And The Revolution	Kiss
+4/19/86	Prince And The Revolution	Kiss
+4/12/86	Falco	Rock Me Amadeus
+4/5/86	Falco	Rock Me Amadeus
+3/29/86	Falco	Rock Me Amadeus
+3/22/86	Heart	These Dreams
+3/15/86	Starship	Sara
+3/8/86	Mr. Mister	Kyrie
+3/1/86	Mr. Mister	Kyrie
+2/22/86	Whitney Houston	How Will I Know
+2/15/86	Whitney Houston	How Will I Know
+2/8/86	Dionne & Friends	That's What Friends Are For
+2/1/86	Dionne & Friends	That's What Friends Are For
+1/25/86	Dionne & Friends	That's What Friends Are For
+1/18/86	Dionne & Friends	That's What Friends Are For
+1/11/86	Lionel Richie	Say You, Say Me
+1/4/86	Lionel Richie	Say You, Say Me
+12/28/85	Lionel Richie	Say You, Say Me
+12/21/85	Lionel Richie	Say You, Say Me
+12/14/85	Mr. Mister	Broken Wings
+12/7/85	Mr. Mister	Broken Wings
+11/30/85	Phil Collins and Marilyn Martin	Separate Lives
+11/23/85	Starship	We Built This City
+11/16/85	Starship	We Built This City
+11/9/85	Jan Hammer	Miami Vice Theme
+11/2/85	Stevie Wonder	Part-Time Lover
+10/26/85	Whitney Houston	Saving All My Love For You
+10/19/85	a-ha	Take On Me
+10/12/85	Ready For The World	Oh Sheila
+10/5/85	Dire Straits	Money For Nothing
+9/28/85	Dire Straits	Money For Nothing
+9/21/85	Dire Straits	Money For Nothing
+9/14/85	John Parr	St. Elmo's Fire (Man In Motion)
+9/7/85	John Parr	St. Elmo's Fire (Man In Motion)
+8/31/85	Huey Lewis & The News	The Power Of Love
+8/24/85	Huey Lewis & The News	The Power Of Love
+8/17/85	Tears For Fears	Shout
+8/10/85	Tears For Fears	Shout
+8/3/85	Tears For Fears	Shout
+7/27/85	Paul Young	Everytime You Go Away
+7/20/85	Duran Duran	A View To A Kill
+7/13/85	Duran Duran	A View To A Kill
+7/6/85	Phil Collins	Sussudio
+6/29/85	Bryan Adams	Heaven
+6/22/85	Bryan Adams	Heaven
+6/15/85	Tears For Fears	Everybody Wants To Rule The World
+6/8/85	Tears For Fears	Everybody Wants To Rule The World
+6/1/85	Wham!	Everything She Wants
+5/25/85	Wham!	Everything She Wants
+5/18/85	Simple Minds	Don't You (Forget About Me)
+5/11/85	Madonna	Crazy For You
+5/4/85	USA For Africa	We Are The World
+4/27/85	USA For Africa	We Are The World
+4/20/85	USA For Africa	We Are The World
+4/13/85	USA For Africa	We Are The World
+4/6/85	Phil Collins	One More Night
+3/30/85	Phil Collins	One More Night
+3/23/85	REO Speedwagon	Can't Fight This Feeling
+3/16/85	REO Speedwagon	Can't Fight This Feeling
+3/9/85	REO Speedwagon	Can't Fight This Feeling
+3/2/85	Wham! Featuring George Michael	Careless Whisper
+2/23/85	Wham! Featuring George Michael	Careless Whisper
+2/16/85	Wham! Featuring George Michael	Careless Whisper
+2/9/85	Foreigner	I Want To Know What Love Is
+2/2/85	Foreigner	I Want To Know What Love Is
+1/26/85	Madonna	Like A Virgin
+1/19/85	Madonna	Like A Virgin
+1/12/85	Madonna	Like A Virgin
+1/5/85	Madonna	Like A Virgin
+12/29/84	Madonna	Like A Virgin
+12/22/84	Madonna	Like A Virgin
+12/15/84	Daryl Hall John Oates	Out Of Touch
+12/8/84	Daryl Hall John Oates	Out Of Touch
+12/1/84	Wham!	Wake Me Up Before You Go-Go
+11/24/84	Wham!	Wake Me Up Before You Go-Go
+11/17/84	Wham!	Wake Me Up Before You Go-Go
+11/10/84	Billy Ocean	Caribbean Queen (No More Love On The Run)
+11/3/84	Billy Ocean	Caribbean Queen (No More Love On The Run)
+10/27/84	Stevie Wonder	I Just Called To Say I Love You
+10/20/84	Stevie Wonder	I Just Called To Say I Love You
+10/13/84	Stevie Wonder	I Just Called To Say I Love You
+10/6/84	Prince And The Revolution	Let's Go Crazy
+9/29/84	Prince And The Revolution	Let's Go Crazy
+9/22/84	John Waite	Missing You
+9/15/84	Tina Turner	What's Love Got To Do With It
+9/8/84	Tina Turner	What's Love Got To Do With It
+9/1/84	Tina Turner	What's Love Got To Do With It
+8/25/84	Ray Parker Jr.	Ghostbusters
+8/18/84	Ray Parker Jr.	Ghostbusters
+8/11/84	Ray Parker Jr.	Ghostbusters
+8/4/84	Prince	When Doves Cry
+7/28/84	Prince	When Doves Cry
+7/21/84	Prince	When Doves Cry
+7/14/84	Prince	When Doves Cry
+7/7/84	Prince	When Doves Cry
+6/30/84	Duran Duran	The Reflex
+6/23/84	Duran Duran	The Reflex
+6/16/84	Cyndi Lauper	Time After Time
+6/9/84	Cyndi Lauper	Time After Time
+6/2/84	Deniece Williams	Let's Hear It For The Boy
+5/26/84	Deniece Williams	Let's Hear It For The Boy
+5/19/84	Lionel Richie	Hello
+5/12/84	Lionel Richie	Hello
+5/5/84	Phil Collins	Against All Odds (Take A Look At Me Now)
+4/28/84	Phil Collins	Against All Odds (Take A Look At Me Now)
+4/21/84	Phil Collins	Against All Odds (Take A Look At Me Now)
+4/14/84	Kenny Loggins	Footloose
+4/7/84	Kenny Loggins	Footloose
+3/31/84	Kenny Loggins	Footloose
+3/24/84	Van Halen	Jump
+3/17/84	Van Halen	Jump
+3/10/84	Van Halen	Jump
+3/3/84	Van Halen	Jump
+2/25/84	Van Halen	Jump
+2/18/84	Culture Club	Karma Chameleon
+2/11/84	Culture Club	Karma Chameleon
+2/4/84	Culture Club	Karma Chameleon
+1/28/84	Yes	Owner Of A Lonely Heart
+1/21/84	Yes	Owner Of A Lonely Heart
+1/14/84	Paul McCartney And Michael Jackson	Say Say Say
+1/7/84	Paul McCartney And Michael Jackson	Say Say Say
+12/31/83	Paul McCartney And Michael Jackson	Say Say Say
+12/24/83	Paul McCartney And Michael Jackson	Say Say Say
+12/17/83	Paul McCartney And Michael Jackson	Say Say Say
+12/10/83	Paul McCartney And Michael Jackson	Say Say Say
+12/3/83	Lionel Richie	All Night Long (All Night)
+11/26/83	Lionel Richie	All Night Long (All Night)
+11/19/83	Lionel Richie	All Night Long (All Night)
+11/12/83	Lionel Richie	All Night Long (All Night)
+11/5/83	Kenny Rogers Duet With Dolly Parton	Islands In The Stream
+10/29/83	Kenny Rogers Duet With Dolly Parton	Islands In The Stream
+10/22/83	Bonnie Tyler	Total Eclipse Of The Heart
+10/15/83	Bonnie Tyler	Total Eclipse Of The Heart
+10/8/83	Bonnie Tyler	Total Eclipse Of The Heart
+10/1/83	Bonnie Tyler	Total Eclipse Of The Heart
+9/24/83	Billy Joel	Tell Her About It
+9/17/83	Michael Sembello	Maniac
+9/10/83	Michael Sembello	Maniac
+9/3/83	Eurythmics	Sweet Dreams (Are Made Of This)
+8/27/83	The Police	Every Breath You Take
+8/20/83	The Police	Every Breath You Take
+8/13/83	The Police	Every Breath You Take
+8/6/83	The Police	Every Breath You Take
+7/30/83	The Police	Every Breath You Take
+7/23/83	The Police	Every Breath You Take
+7/16/83	The Police	Every Breath You Take
+7/9/83	The Police	Every Breath You Take
+7/2/83	Irene Cara	Flashdance...What A Feeling
+6/25/83	Irene Cara	Flashdance...What A Feeling
+6/18/83	Irene Cara	Flashdance...What A Feeling
+6/11/83	Irene Cara	Flashdance...What A Feeling
+6/4/83	Irene Cara	Flashdance...What A Feeling
+5/28/83	Irene Cara	Flashdance...What A Feeling
+5/21/83	David Bowie	Let's Dance
+5/14/83	Michael Jackson	Beat It
+5/7/83	Michael Jackson	Beat It
+4/30/83	Michael Jackson	Beat It
+4/23/83	Dexys Midnight Runners	Come On Eileen
+4/16/83	Michael Jackson	Billie Jean
+4/9/83	Michael Jackson	Billie Jean
+4/2/83	Michael Jackson	Billie Jean
+3/26/83	Michael Jackson	Billie Jean
+3/19/83	Michael Jackson	Billie Jean
+3/12/83	Michael Jackson	Billie Jean
+3/5/83	Michael Jackson	Billie Jean
+2/26/83	Patti Austin A Duet With James Ingram	Baby, Come To Me
+2/19/83	Patti Austin A Duet With James Ingram	Baby, Come To Me
+2/12/83	Men At Work	Down Under
+2/5/83	Toto	Africa
+1/29/83	Men At Work	Down Under
+1/22/83	Men At Work	Down Under
+1/15/83	Men At Work	Down Under
+1/8/83	Daryl Hall John Oates	Maneater
+1/1/83	Daryl Hall John Oates	Maneater
+12/25/82	Daryl Hall John Oates	Maneater
+12/18/82	Daryl Hall John Oates	Maneater
+12/11/82	Toni Basil	Mickey
+12/4/82	Lionel Richie	Truly
+11/27/82	Lionel Richie	Truly
+11/20/82	Joe Cocker And Jennifer Warnes	Up Where We Belong
+11/13/82	Joe Cocker And Jennifer Warnes	Up Where We Belong
+11/6/82	Joe Cocker And Jennifer Warnes	Up Where We Belong
+10/30/82	Men At Work	Who Can It Be Now?
+10/23/82	John Cougar	Jack & Diane
+10/16/82	John Cougar	Jack & Diane
+10/9/82	John Cougar	Jack & Diane
+10/2/82	John Cougar	Jack & Diane
+9/25/82	The Steve Miller Band	Abracadabra
+9/18/82	Chicago	Hard To Say I'm Sorry
+9/11/82	Chicago	Hard To Say I'm Sorry
+9/4/82	The Steve Miller Band	Abracadabra
+8/28/82	Survivor	Eye Of The Tiger
+8/21/82	Survivor	Eye Of The Tiger
+8/14/82	Survivor	Eye Of The Tiger
+8/7/82	Survivor	Eye Of The Tiger
+7/31/82	Survivor	Eye Of The Tiger
+7/24/82	Survivor	Eye Of The Tiger
+7/17/82	The Human League	Don't You Want Me
+7/10/82	The Human League	Don't You Want Me
+7/3/82	The Human League	Don't You Want Me
+6/26/82	Paul McCartney And Stevie Wonder	Ebony And Ivory
+6/19/82	Paul McCartney And Stevie Wonder	Ebony And Ivory
+6/12/82	Paul McCartney And Stevie Wonder	Ebony And Ivory
+6/5/82	Paul McCartney And Stevie Wonder	Ebony And Ivory
+5/29/82	Paul McCartney And Stevie Wonder	Ebony And Ivory
+5/22/82	Paul McCartney And Stevie Wonder	Ebony And Ivory
+5/15/82	Paul McCartney And Stevie Wonder	Ebony And Ivory
+5/8/82	Vangelis	Chariots Of Fire - Titles
+5/1/82	Joan Jett & the Blackhearts	I Love Rock 'N Roll
+4/24/82	Joan Jett & the Blackhearts	I Love Rock 'N Roll
+4/17/82	Joan Jett & the Blackhearts	I Love Rock 'N Roll
+4/10/82	Joan Jett & the Blackhearts	I Love Rock 'N Roll
+4/3/82	Joan Jett & the Blackhearts	I Love Rock 'N Roll
+3/27/82	Joan Jett & the Blackhearts	I Love Rock 'N Roll
+3/20/82	Joan Jett & the Blackhearts	I Love Rock 'N Roll
+3/13/82	The J. Geils Band	Centerfold
+3/6/82	The J. Geils Band	Centerfold
+2/27/82	The J. Geils Band	Centerfold
+2/20/82	The J. Geils Band	Centerfold
+2/13/82	The J. Geils Band	Centerfold
+2/6/82	The J. Geils Band	Centerfold
+1/30/82	Daryl Hall John Oates	I Can't Go For That (No Can Do)
+1/23/82	Olivia Newton-John	Physical
+1/16/82	Olivia Newton-John	Physical
+1/9/82	Olivia Newton-John	Physical
+1/2/82	Olivia Newton-John	Physical
+12/26/81	Olivia Newton-John	Physical
+12/19/81	Olivia Newton-John	Physical
+12/12/81	Olivia Newton-John	Physical
+12/5/81	Olivia Newton-John	Physical
+11/28/81	Olivia Newton-John	Physical
+11/21/81	Olivia Newton-John	Physical
+11/14/81	Daryl Hall John Oates	Private Eyes
+11/7/81	Daryl Hall John Oates	Private Eyes
+10/31/81	Christopher Cross	Arthur's Theme (Best That You Can Do)
+10/24/81	Christopher Cross	Arthur's Theme (Best That You Can Do)
+10/17/81	Christopher Cross	Arthur's Theme (Best That You Can Do)
+10/10/81	Diana Ross & Lionel Richie	Endless Love
+10/3/81	Diana Ross & Lionel Richie	Endless Love
+9/26/81	Diana Ross & Lionel Richie	Endless Love
+9/19/81	Diana Ross & Lionel Richie	Endless Love
+9/12/81	Diana Ross & Lionel Richie	Endless Love
+9/5/81	Diana Ross & Lionel Richie	Endless Love
+8/29/81	Diana Ross & Lionel Richie	Endless Love
+8/22/81	Diana Ross & Lionel Richie	Endless Love
+8/15/81	Diana Ross & Lionel Richie	Endless Love
+8/8/81	Rick Springfield	Jessie's Girl
+8/1/81	Rick Springfield	Jessie's Girl
+7/25/81	Air Supply	The One That You Love
+7/18/81	Kim Carnes	Bette Davis Eyes
+7/11/81	Kim Carnes	Bette Davis Eyes
+7/4/81	Kim Carnes	Bette Davis Eyes
+6/27/81	Kim Carnes	Bette Davis Eyes
+6/20/81	Stars On 45	Medley
+6/13/81	Kim Carnes	Bette Davis Eyes
+6/6/81	Kim Carnes	Bette Davis Eyes
+5/30/81	Kim Carnes	Bette Davis Eyes
+5/23/81	Kim Carnes	Bette Davis Eyes
+5/16/81	Kim Carnes	Bette Davis Eyes
+5/9/81	Sheena Easton	Morning Train (Nine To Five)
+5/2/81	Sheena Easton	Morning Train (Nine To Five)
+4/25/81	Daryl Hall John Oates	Kiss On My List
+4/18/81	Daryl Hall John Oates	Kiss On My List
+4/11/81	Daryl Hall John Oates	Kiss On My List
+4/4/81	Blondie	Rapture
+3/28/81	Blondie	Rapture
+3/21/81	REO Speedwagon	Keep On Loving You
+3/14/81	Dolly Parton	9 To 5
+3/7/81	Eddie Rabbitt	I Love A Rainy Night
+2/28/81	Eddie Rabbitt	I Love A Rainy Night
+2/21/81	Dolly Parton	9 To 5
+2/14/81	Kool & The Gang	Celebration
+2/7/81	Kool & The Gang	Celebration
+1/31/81	Blondie	The Tide Is High
+1/24/81	John Lennon	(Just Like) Starting Over
+1/17/81	John Lennon	(Just Like) Starting Over
+1/10/81	John Lennon	(Just Like) Starting Over
+1/3/81	John Lennon	(Just Like) Starting Over
+12/27/80	John Lennon	(Just Like) Starting Over
+12/20/80	Kenny Rogers	Lady
+12/13/80	Kenny Rogers	Lady
+12/6/80	Kenny Rogers	Lady
+11/29/80	Kenny Rogers	Lady
+11/22/80	Kenny Rogers	Lady
+11/15/80	Kenny Rogers	Lady
+11/8/80	Barbra Streisand	Woman In Love
+11/1/80	Barbra Streisand	Woman In Love
+10/25/80	Barbra Streisand	Woman In Love
+10/18/80	Queen	Another One Bites The Dust
+10/11/80	Queen	Another One Bites The Dust
+10/4/80	Queen	Another One Bites The Dust
+9/27/80	Diana Ross	Upside Down
+9/20/80	Diana Ross	Upside Down
+9/13/80	Diana Ross	Upside Down
+9/6/80	Diana Ross	Upside Down
+8/30/80	Christopher Cross	Sailing
+8/23/80	Olivia Newton-John	Magic
+8/16/80	Olivia Newton-John	Magic
+8/9/80	Olivia Newton-John	Magic
+8/2/80	Olivia Newton-John	Magic
+7/26/80	Billy Joel	It's Still Rock And Roll To Me
+7/19/80	Billy Joel	It's Still Rock And Roll To Me
+7/12/80	Paul McCartney And Wings	Coming Up (Live At Glasgow)
+7/5/80	Paul McCartney And Wings	Coming Up (Live At Glasgow)
+6/28/80	Paul McCartney And Wings	Coming Up (Live At Glasgow)
+6/21/80	Lipps, Inc.	Funkytown
+6/14/80	Lipps, Inc.	Funkytown
+6/7/80	Lipps, Inc.	Funkytown
+5/31/80	Lipps, Inc.	Funkytown
+5/24/80	Blondie	Call Me
+5/17/80	Blondie	Call Me
+5/10/80	Blondie	Call Me
+5/3/80	Blondie	Call Me
+4/26/80	Blondie	Call Me
+4/19/80	Blondie	Call Me
+4/12/80	Pink Floyd	Another Brick In The Wall (Part II)
+4/5/80	Pink Floyd	Another Brick In The Wall (Part II)
+3/29/80	Pink Floyd	Another Brick In The Wall (Part II)
+3/22/80	Pink Floyd	Another Brick In The Wall (Part II)
+3/15/80	Queen	Crazy Little Thing Called Love
+3/8/80	Queen	Crazy Little Thing Called Love
+3/1/80	Queen	Crazy Little Thing Called Love
+2/23/80	Queen	Crazy Little Thing Called Love
+2/16/80	Captain & Tennille	Do That To Me One More Time
+2/9/80	Michael Jackson	Rock With You
+2/2/80	Michael Jackson	Rock With You
+1/26/80	Michael Jackson	Rock With You
+1/19/80	Michael Jackson	Rock With You
+1/12/80	Rupert Holmes	Escape (The Pina Colada Song)
+1/5/80	KC And The Sunshine Band	Please Don't Go
+12/29/79	Rupert Holmes	Escape (The Pina Colada Song)
+12/22/79	Rupert Holmes	Escape (The Pina Colada Song)
+12/15/79	Styx	Babe
+12/8/79	Styx	Babe
+12/1/79	Barbra Streisand/Donna Summer	No More Tears (Enough Is Enough)
+11/24/79	Barbra Streisand/Donna Summer	No More Tears (Enough Is Enough)
+11/17/79	Commodores	Still
+11/10/79	Eagles	Heartache Tonight
+11/3/79	M	Pop Muzik
+10/27/79	Herb Alpert	Rise
+10/20/79	Herb Alpert	Rise
+10/13/79	Michael Jackson	Don't Stop 'til You Get Enough
+10/6/79	Robert John	Sad Eyes
+9/29/79	The Knack	My Sharona
+9/22/79	The Knack	My Sharona
+9/15/79	The Knack	My Sharona
+9/8/79	The Knack	My Sharona
+9/1/79	The Knack	My Sharona
+8/25/79	The Knack	My Sharona
+8/18/79	Chic	Good Times
+8/11/79	Donna Summer	Bad Girls
+8/4/79	Donna Summer	Bad Girls
+7/28/79	Donna Summer	Bad Girls
+7/21/79	Donna Summer	Bad Girls
+7/14/79	Donna Summer	Bad Girls
+7/7/79	Anita Ward	Ring My Bell
+6/30/79	Anita Ward	Ring My Bell
+6/23/79	Donna Summer	Hot Stuff
+6/16/79	Donna Summer	Hot Stuff
+6/9/79	Bee Gees	Love You Inside Out
+6/2/79	Donna Summer	Hot Stuff
+5/26/79	Peaches & Herb	Reunited
+5/19/79	Peaches & Herb	Reunited
+5/12/79	Peaches & Herb	Reunited
+5/5/79	Peaches & Herb	Reunited
+4/28/79	Blondie	Heart Of Glass
+4/21/79	Amii Stewart	Knock On Wood
+4/14/79	The Doobie Brothers	What A Fool Believes
+4/7/79	Gloria Gaynor	I Will Survive
+3/31/79	Bee Gees	Tragedy
+3/24/79	Bee Gees	Tragedy
+3/17/79	Gloria Gaynor	I Will Survive
+3/10/79	Gloria Gaynor	I Will Survive
+3/3/79	Rod Stewart	Da Ya Think I'm Sexy?
+2/24/79	Rod Stewart	Da Ya Think I'm Sexy?
+2/17/79	Rod Stewart	Da Ya Think I'm Sexy?
+2/10/79	Rod Stewart	Da Ya Think I'm Sexy?
+2/3/79	Chic	Le Freak
+1/27/79	Chic	Le Freak
+1/20/79	Chic	Le Freak
+1/13/79	Bee Gees	Too Much Heaven
+1/6/79	Bee Gees	Too Much Heaven
+12/30/78	Chic	Le Freak
+12/23/78	Chic	Le Freak
+12/16/78	Barbra Streisand & Neil Diamond	You Don't Bring Me Flowers
+12/9/78	Chic	Le Freak
+12/2/78	Barbra Streisand & Neil Diamond	You Don't Bring Me Flowers
+11/25/78	Donna Summer	MacArthur Park
+11/18/78	Donna Summer	MacArthur Park
+11/11/78	Donna Summer	MacArthur Park
+11/4/78	Anne Murray	You Needed Me
+10/28/78	Nick Gilder	Hot Child In The City
+10/21/78	Exile	Kiss You All Over
+10/14/78	Exile	Kiss You All Over
+10/7/78	Exile	Kiss You All Over
+9/30/78	Exile	Kiss You All Over
+9/23/78	A Taste Of Honey	Boogie Oogie Oogie
+9/16/78	A Taste Of Honey	Boogie Oogie Oogie
+9/9/78	A Taste Of Honey	Boogie Oogie Oogie
+9/2/78	Frankie Valli	Grease
+8/26/78	Frankie Valli	Grease
+8/19/78	Commodores	Three Times A Lady
+8/12/78	Commodores	Three Times A Lady
+8/5/78	The Rolling Stones	Miss You
+7/29/78	Andy Gibb	Shadow Dancing
+7/22/78	Andy Gibb	Shadow Dancing
+7/15/78	Andy Gibb	Shadow Dancing
+7/8/78	Andy Gibb	Shadow Dancing
+7/1/78	Andy Gibb	Shadow Dancing
+6/24/78	Andy Gibb	Shadow Dancing
+6/17/78	Andy Gibb	Shadow Dancing
+6/10/78	John Travolta & Olivia Newton-John	You're The One That I Want
+6/3/78	Johnny Mathis/Deniece Williams	Too Much, Too Little, Too Late
+5/27/78	Wings	With A Little Luck
+5/20/78	Wings	With A Little Luck
+5/13/78	Yvonne Elliman	If I Can't Have You
+5/6/78	Bee Gees	Night Fever
+4/29/78	Bee Gees	Night Fever
+4/22/78	Bee Gees	Night Fever
+4/15/78	Bee Gees	Night Fever
+4/8/78	Bee Gees	Night Fever
+4/1/78	Bee Gees	Night Fever
+3/25/78	Bee Gees	Night Fever
+3/18/78	Bee Gees	Night Fever
+3/11/78	Andy Gibb	(Love Is) Thicker Than Water
+3/4/78	Andy Gibb	(Love Is) Thicker Than Water
+2/25/78	Bee Gees	Stayin' Alive
+2/18/78	Bee Gees	Stayin' Alive
+2/11/78	Bee Gees	Stayin' Alive
+2/4/78	Bee Gees	Stayin' Alive
+1/28/78	Player	Baby Come Back
+1/21/78	Player	Baby Come Back
+1/14/78	Player	Baby Come Back
+1/7/78	Bee Gees	How Deep Is Your Love
+12/31/77	Bee Gees	How Deep Is Your Love
+12/24/77	Bee Gees	How Deep Is Your Love
+12/17/77	Debby Boone	You Light Up My Life
+12/10/77	Debby Boone	You Light Up My Life
+12/3/77	Debby Boone	You Light Up My Life
+11/26/77	Debby Boone	You Light Up My Life
+11/19/77	Debby Boone	You Light Up My Life
+11/12/77	Debby Boone	You Light Up My Life
+11/5/77	Debby Boone	You Light Up My Life
+10/29/77	Debby Boone	You Light Up My Life
+10/22/77	Debby Boone	You Light Up My Life
+10/15/77	Debby Boone	You Light Up My Life
+10/8/77	Meco	Star Wars Theme/Cantina Band
+10/1/77	Meco	Star Wars Theme/Cantina Band
+9/24/77	The Emotions	Best Of My Love
+9/17/77	Andy Gibb	I Just Want To Be Your Everything
+9/10/77	The Emotions	Best Of My Love
+9/3/77	The Emotions	Best Of My Love
+8/27/77	The Emotions	Best Of My Love
+8/20/77	The Emotions	Best Of My Love
+8/13/77	Andy Gibb	I Just Want To Be Your Everything
+8/6/77	Andy Gibb	I Just Want To Be Your Everything
+7/30/77	Andy Gibb	I Just Want To Be Your Everything
+7/23/77	Barry Manilow	Looks Like We Made It
+7/16/77	Shaun Cassidy	Da Doo Ron Ron
+7/9/77	Alan O'Day	Undercover Angel
+7/2/77	Bill Conti	Gonna Fly Now
+6/25/77	Marvin Gaye	Got To Give It Up (Pt. I)
+6/18/77	Fleetwood Mac	Dreams
+6/11/77	KC And The Sunshine Band	I'm Your Boogie Man
+6/4/77	Stevie Wonder	Sir Duke
+5/28/77	Stevie Wonder	Sir Duke
+5/21/77	Stevie Wonder	Sir Duke
+5/14/77	Leo Sayer	When I Need You
+5/7/77	Eagles	Hotel California
+4/30/77	Glen Campbell	Southern Nights
+4/23/77	Thelma Houston	Don't Leave Me This Way
+4/16/77	David Soul	Don't Give Up On Us
+4/9/77	ABBA	Dancing Queen
+4/2/77	Daryl Hall John Oates	Rich Girl
+3/26/77	Daryl Hall John Oates	Rich Girl
+3/19/77	Barbra Streisand	Evergreen (Love Theme From "A Star Is Born")
+3/12/77	Barbra Streisand	Evergreen (Love Theme From "A Star Is Born")
+3/5/77	Barbra Streisand	Evergreen (Love Theme From "A Star Is Born")
+2/26/77	Eagles	New Kid In Town
+2/19/77	Manfred Mann's Earth Band	Blinded By The Light
+2/12/77	Mary Macgregor	Torn Between Two Lovers
+2/5/77	Mary Macgregor	Torn Between Two Lovers
+1/29/77	Rose Royce	Car Wash
+1/22/77	Stevie Wonder	I Wish
+1/15/77	Leo Sayer	You Make Me Feel Like Dancing
+1/8/77	Marilyn McCoo & Billy Davis, Jr.	You Don't Have To Be A Star (To Be In My Show)
+1/1/77	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+12/25/76	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+12/18/76	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+12/11/76	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+12/4/76	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+11/27/76	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+11/20/76	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+11/13/76	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+11/6/76	Steve Miller	Rock'n Me
+10/30/76	Chicago	If You Leave Me Now
+10/23/76	Chicago	If You Leave Me Now
+10/16/76	Rick Dees & His Cast Of Idiots	Disco Duck (Part I)
+10/9/76	Walter Murphy & The Big Apple Band	A Fifth Of Beethoven
+10/2/76	Wild Cherry	Play That Funky Music
+9/25/76	Wild Cherry	Play That Funky Music
+9/18/76	Wild Cherry	Play That Funky Music
+9/11/76	KC And The Sunshine Band	(Shake, Shake, Shake) Shake Your Booty
+9/4/76	Bee Gees	You Should Be Dancing
+8/28/76	Elton John & Kiki Dee	Don't Go Breaking My Heart
+8/21/76	Elton John & Kiki Dee	Don't Go Breaking My Heart
+8/14/76	Elton John & Kiki Dee	Don't Go Breaking My Heart
+8/7/76	Elton John & Kiki Dee	Don't Go Breaking My Heart
+7/31/76	The Manhattans	Kiss And Say Goodbye
+7/24/76	The Manhattans	Kiss And Say Goodbye
+7/17/76	Starland Vocal Band	Afternoon Delight
+7/10/76	Starland Vocal Band	Afternoon Delight
+7/4/76	Wings	Silly Love Songs
+6/26/76	Wings	Silly Love Songs
+6/19/76	Wings	Silly Love Songs
+6/12/76	Wings	Silly Love Songs
+6/5/76	Diana Ross	Love Hangover
+5/29/76	Diana Ross	Love Hangover
+5/22/76	Wings	Silly Love Songs
+5/15/76	The Sylvers	Boogie Fever
+5/8/76	John Sebastian	Welcome Back
+5/1/76	Bellamy Brothers	Let Your Love Flow
+4/24/76	Johnnie Taylor	Disco Lady
+4/17/76	Johnnie Taylor	Disco Lady
+4/10/76	Johnnie Taylor	Disco Lady
+4/3/76	Johnnie Taylor	Disco Lady
+3/27/76	The 4 Seasons	December, 1963 (Oh, What a Night)
+3/20/76	The 4 Seasons	December, 1963 (Oh, What a Night)
+3/13/76	The 4 Seasons	December, 1963 (Oh, What a Night)
+3/6/76	The Miracles	Love Machine (Part 1)
+2/28/76	Rhythm Heritage	Theme From S.W.A.T.
+2/21/76	Paul Simon	50 Ways To Leave Your Lover
+2/14/76	Paul Simon	50 Ways To Leave Your Lover
+2/7/76	Paul Simon	50 Ways To Leave Your Lover
+1/31/76	Ohio Players	Love Rollercoaster
+1/24/76	Diana Ross	Theme From Mahogany (Do You Know Where You're Going To)
+1/17/76	Barry Manilow	I Write The Songs
+1/10/76	C.W. McCall	Convoy
+1/3/76	Bay City Rollers	Saturday Night
+12/27/75	The Staple Singers	Let's Do It Again
+12/20/75	KC And The Sunshine Band	That's The Way (I Like It)
+12/13/75	Silver Convention	Fly, Robin, Fly
+12/6/75	Silver Convention	Fly, Robin, Fly
+11/29/75	Silver Convention	Fly, Robin, Fly
+11/22/75	KC And The Sunshine Band	That's The Way (I Like It)
+11/15/75	Elton John	Island Girl
+11/8/75	Elton John	Island Girl
+11/1/75	Elton John	Island Girl
+10/25/75	Neil Sedaka	Bad Blood
+10/18/75	Neil Sedaka	Bad Blood
+10/11/75	Neil Sedaka	Bad Blood
+10/4/75	David Bowie	Fame
+9/27/75	John Denver	I'm Sorry
+9/20/75	David Bowie	Fame
+9/13/75	Glen Campbell	Rhinestone Cowboy
+9/6/75	Glen Campbell	Rhinestone Cowboy
+8/30/75	KC And The Sunshine Band	Get Down Tonight
+8/23/75	Hamilton, Joe Frank & Reynolds	Fallin' In Love
+8/16/75	Bee Gees	Jive Talkin'
+8/9/75	Bee Gees	Jive Talkin'
+8/2/75	Eagles	One Of These Nights
+7/26/75	Van McCoy & The Soul City Symphony	The Hustle
+7/19/75	Wings	Listen To What The Man Said
+7/12/75	The Captain & Tennille	Love Will Keep Us Together
+7/5/75	The Captain & Tennille	Love Will Keep Us Together
+6/28/75	The Captain & Tennille	Love Will Keep Us Together
+6/21/75	The Captain & Tennille	Love Will Keep Us Together
+6/14/75	America	Sister Golden Hair
+6/7/75	John Denver	Thank God I'm A Country Boy
+5/31/75	Freddy Fender	Before The Next Teardrop Falls
+5/24/75	Earth, Wind & Fire	Shining Star
+5/17/75	Tony Orlando & Dawn	He Don't Love You (Like I Love You)
+5/10/75	Tony Orlando & Dawn	He Don't Love You (Like I Love You)
+5/3/75	Tony Orlando & Dawn	He Don't Love You (Like I Love You)
+4/26/75	B.J. Thomas	(Hey Won't You Play) Another Somebody Done Somebody Wrong Song
+4/19/75	The Elton John Band	Philadelphia Freedom
+4/12/75	The Elton John Band	Philadelphia Freedom
+4/5/75	Minnie Riperton	Lovin' You
+3/29/75	Labelle	Lady Marmalade
+3/22/75	Frankie Valli	My Eyes Adored You
+3/15/75	The Doobie Brothers	Black Water
+3/8/75	Olivia Newton-John	Have You Never Been Mellow
+3/1/75	Eagles	Best Of My Love
+2/22/75	AWB	Pick Up The Pieces
+2/15/75	Linda Ronstadt	You're No Good
+2/8/75	Ohio Players	Fire
+2/1/75	Neil Sedaka	Laughter In The Rain
+1/25/75	Carpenters	Please Mr. Postman
+1/18/75	Barry Manilow	Mandy
+1/11/75	Elton John	Lucy In The Sky With Diamonds
+1/4/75	Elton John	Lucy In The Sky With Diamonds
+12/28/74	Helen Reddy	Angie Baby
+12/21/74	Harry Chapin	Cat's In The Cradle
+12/14/74	Carl Douglas	Kung Fu Fighting
+12/7/74	Carl Douglas	Kung Fu Fighting
+11/30/74	Billy Swan	I Can Help
+11/23/74	Billy Swan	I Can Help
+11/16/74	John Lennon With The Plastic Ono Nuclear Band	Whatever Gets You Thru The Night
+11/9/74	Bachman-Turner Overdrive	You Ain't Seen Nothing Yet/Free Wheelin'
+11/2/74	Stevie Wonder	You Haven't Done Nothin
+10/26/74	Dionne Warwicke & Spinners	Then Came You
+10/19/74	Billy Preston	Nothing From Nothing
+10/12/74	Olivia Newton-John	I Honestly Love You
+10/5/74	Olivia Newton-John	I Honestly Love You
+9/28/74	Andy Kim	Rock Me Gently
+9/21/74	Barry White	Can't Get Enough Of Your Love, Babe
+9/14/74	Eric Clapton	I Shot The Sheriff
+9/7/74	Paul Anka with Odia Coates	(You're) Having My Baby
+8/31/74	Paul Anka with Odia Coates	(You're) Having My Baby
+8/24/74	Paul Anka with Odia Coates	(You're) Having My Baby
+8/17/74	Paper Lace	The Night Chicago Died
+8/10/74	Roberta Flack	Feel Like Makin' Love
+8/3/74	John Denver	ANNIE's SONG
+7/27/74	John Denver	ANNIE's SONG
+7/20/74	George McCrae	Rock Your Baby
+7/13/74	George McCrae	Rock Your Baby
+7/6/74	The Hues Corporation	Rock The Boat
+6/29/74	Gordon Lightfoot	Sundown
+6/22/74	Bo Donaldson And The Heywoods	Billy, Don't Be A Hero
+6/15/74	Bo Donaldson And The Heywoods	Billy, Don't Be A Hero
+6/8/74	Paul McCartney And Wings	Band On The Run
+6/1/74	Ray Stevens	The Streak
+5/25/74	Ray Stevens	The Streak
+5/18/74	Ray Stevens	The Streak
+5/11/74	Grand Funk	The Loco-Motion
+5/4/74	Grand Funk	The Loco-Motion
+4/27/74	MFSB Featuring The Three Degrees	TSOP (The Sound Of Philadelphia)
+4/20/74	MFSB Featuring The Three Degrees	TSOP (The Sound Of Philadelphia)
+4/13/74	Elton John	Bennie And The Jets
+4/6/74	Blue Swede	Hooked On A Feeling
+3/30/74	John Denver	Sunshine On My Shoulders
+3/23/74	Cher	Dark Lady
+3/16/74	Terry Jacks	Seasons In The Sun
+3/9/74	Terry Jacks	Seasons In The Sun
+3/2/74	Terry Jacks	Seasons In The Sun
+2/23/74	Barbra Streisand	The Way We Were
+2/16/74	Barbra Streisand	The Way We Were
+2/9/74	Love Unlimited Orchestra	Love's Theme
+2/2/74	Barbra Streisand	The Way We Were
+1/26/74	Ringo Starr	You're Sixteen
+1/19/74	Al Wilson	Show And Tell
+1/12/74	The Steve Miller Band	The Joker
+1/5/74	Jim Croce	Time In A Bottle
+12/29/73	Jim Croce	Time In A Bottle
+12/22/73	Charlie Rich	The Most Beautiful Girl
+12/15/73	Charlie Rich	The Most Beautiful Girl
+12/8/73	Carpenters	Top Of The World
+12/1/73	Carpenters	Top Of The World
+11/24/73	Ringo Starr	Photograph
+11/17/73	Eddie Kendricks	Keep On Truckin' (Part 1)
+11/10/73	Eddie Kendricks	Keep On Truckin' (Part 1)
+11/3/73	Gladys Knight And The Pips	Midnight Train To Georgia
+10/27/73	Gladys Knight And The Pips	Midnight Train To Georgia
+10/20/73	The Rolling Stones	Angie
+10/13/73	Cher	Half-Breed
+10/6/73	Cher	Half-Breed
+9/29/73	Grand Funk	We're An American Band
+9/22/73	Marvin Gaye	Let's Get It On
+9/15/73	Helen Reddy	Delta Dawn
+9/8/73	Marvin Gaye	Let's Get It On
+9/1/73	Stories	Brother Louie
+8/25/73	Stories	Brother Louie
+8/18/73	Diana Ross	Touch Me In The Morning
+8/11/73	Maureen McGovern	The Morning After
+8/4/73	Maureen McGovern	The Morning After
+7/28/73	Jim Croce	Bad, Bad Leroy Brown
+7/21/73	Jim Croce	Bad, Bad Leroy Brown
+7/14/73	Billy Preston	Will It Go Round In Circles
+7/7/73	Billy Preston	Will It Go Round In Circles
+6/30/73	George Harrison	Give Me Love - (Give Me Peace On Earth)
+6/23/73	Paul McCartney And Wings	My Love
+6/16/73	Paul McCartney And Wings	My Love
+6/9/73	Paul McCartney And Wings	My Love
+6/2/73	Paul McCartney And Wings	My Love
+5/26/73	Edgar Winter Group	Frankenstein
+5/19/73	Stevie Wonder	You Are The Sunshine Of My Life
+5/12/73	Dawn Featuring Tony Orlando	Tie A Yellow Ribbon Round The Ole Oak Tree
+5/5/73	Dawn Featuring Tony Orlando	Tie A Yellow Ribbon Round The Ole Oak Tree
+4/28/73	Dawn Featuring Tony Orlando	Tie A Yellow Ribbon Round The Ole Oak Tree
+4/21/73	Dawn Featuring Tony Orlando	Tie A Yellow Ribbon Round The Ole Oak Tree
+4/14/73	Vicki Lawrence	The Night The Lights Went Out In Georgia
+4/7/73	Vicki Lawrence	The Night The Lights Went Out In Georgia
+3/31/73	Roberta Flack	Killing Me Softly With His Song
+3/24/73	The O'Jays	Love Train
+3/17/73	Roberta Flack	Killing Me Softly With His Song
+3/10/73	Roberta Flack	Killing Me Softly With His Song
+3/3/73	Roberta Flack	Killing Me Softly With His Song
+2/24/73	Roberta Flack	Killing Me Softly With His Song
+2/17/73	Elton John	Crocodile Rock
+2/10/73	Elton John	Crocodile Rock
+2/3/73	Elton John	Crocodile Rock
+1/27/73	Stevie Wonder	Superstition
+1/20/73	Carly Simon	You're So Vain
+1/13/73	Carly Simon	You're So Vain
+1/6/73	Carly Simon	You're So Vain
+12/30/72	Billy Paul	Me And Mrs. Jones
+12/23/72	Billy Paul	Me And Mrs. Jones
+12/16/72	Billy Paul	Me And Mrs. Jones
+12/9/72	Helen Reddy	I Am Woman
+12/2/72	The Temptations	Papa Was A Rollin' Stone
+11/25/72	Johnny Nash	I Can See Clearly Now
+11/18/72	Johnny Nash	I Can See Clearly Now
+11/11/72	Johnny Nash	I Can See Clearly Now
+11/4/72	Johnny Nash	I Can See Clearly Now
+10/28/72	Chuck Berry	My Ding-A-Ling
+10/21/72	Chuck Berry	My Ding-A-Ling
+10/14/72	Michael Jackson	Ben
+10/7/72	Mac Davis	Baby Don't Get Hooked On Me
+9/30/72	Mac Davis	Baby Don't Get Hooked On Me
+9/23/72	Mac Davis	Baby Don't Get Hooked On Me
+9/16/72	Three Dog Night	Black & White
+9/9/72	Gilbert O'Sullivan	Alone Again (Naturally)
+9/2/72	Gilbert O'Sullivan	Alone Again (Naturally)
+8/26/72	Looking Glass	Brandy (You're A Fine Girl)
+8/19/72	Gilbert O'Sullivan	Alone Again (Naturally)
+8/12/72	Gilbert O'Sullivan	Alone Again (Naturally)
+8/5/72	Gilbert O'Sullivan	Alone Again (Naturally)
+7/29/72	Gilbert O'Sullivan	Alone Again (Naturally)
+7/22/72	Bill Withers	Lean On Me
+7/15/72	Bill Withers	Lean On Me
+7/8/72	Bill Withers	Lean On Me
+7/1/72	Neil Diamond	Song Sung Blue
+6/24/72	Sammy Davis, Jr. with The Mike Curb Congregation	The Candy Man
+6/17/72	Sammy Davis, Jr. with The Mike Curb Congregation	The Candy Man
+6/10/72	Sammy Davis, Jr. with The Mike Curb Congregation	The Candy Man
+6/3/72	The Staple Singers	I'll Take You There
+5/27/72	The Chi-lites	Oh Girl
+5/20/72	Roberta Flack	The First Time Ever I Saw Your Face
+5/13/72	Roberta Flack	The First Time Ever I Saw Your Face
+5/6/72	Roberta Flack	The First Time Ever I Saw Your Face
+4/29/72	Roberta Flack	The First Time Ever I Saw Your Face
+4/22/72	Roberta Flack	The First Time Ever I Saw Your Face
+4/15/72	Roberta Flack	The First Time Ever I Saw Your Face
+4/8/72	America	A Horse With No Name
+4/1/72	America	A Horse With No Name
+3/25/72	America	A Horse With No Name
+3/18/72	Neil Young	Heart Of Gold
+3/11/72	Nilsson	Without You
+3/4/72	Nilsson	Without You
+2/26/72	Nilsson	Without You
+2/19/72	Nilsson	Without You
+2/12/72	Al Green	Let's Stay Together
+2/5/72	Don McLean	American Pie (Parts I & II)
+1/29/72	Don McLean	American Pie (Parts I & II)
+1/22/72	Don McLean	American Pie (Parts I & II)
+1/15/72	Don McLean	American Pie (Parts I & II)
+1/8/72	Melanie	Brand New Key
+1/1/72	Melanie	Brand New Key
+12/25/71	Melanie	Brand New Key
+12/18/71	Sly & The Family Stone	Family Affair
+12/11/71	Sly & The Family Stone	Family Affair
+12/4/71	Sly & The Family Stone	Family Affair
+11/27/71	Isaac Hayes	Theme From Shaft
+11/20/71	Isaac Hayes	Theme From Shaft
+11/13/71	Cher	Gypsys, Tramps & Thieves
+11/6/71	Cher	Gypsys, Tramps & Thieves
+10/30/71	Rod Stewart	Maggie May/Reason To Believe
+10/23/71	Rod Stewart	Maggie May/Reason To Believe
+10/16/71	Rod Stewart	Maggie May/Reason To Believe
+10/9/71	Rod Stewart	Maggie May/Reason To Believe
+10/2/71	Rod Stewart	Maggie May/Reason To Believe
+9/25/71	Donny Osmond	Go Away Little Girl
+9/18/71	Donny Osmond	Go Away Little Girl
+9/11/71	Donny Osmond	Go Away Little Girl
+9/4/71	Paul & Linda McCartney	Uncle Albert/Admiral Halsey
+8/28/71	Bee Gees	How Can You Mend A Broken Heart
+8/21/71	Bee Gees	How Can You Mend A Broken Heart
+8/14/71	Bee Gees	How Can You Mend A Broken Heart
+8/7/71	Bee Gees	How Can You Mend A Broken Heart
+7/31/71	James Taylor	You've Got A Friend
+7/24/71	The Raiders	Indian Reservation (The Lament Of The Cherokee Reservation Indian)
+7/17/71	Carole King	It's Too Late/I Feel The Earth Move
+7/10/71	Carole King	It's Too Late/I Feel The Earth Move
+7/3/71	Carole King	It's Too Late/I Feel The Earth Move
+6/26/71	Carole King	It's Too Late/I Feel The Earth Move
+6/19/71	Carole King	It's Too Late/I Feel The Earth Move
+6/12/71	The Honey Cone	Want Ads
+6/5/71	The Rolling Stones	Brown Sugar
+5/29/71	The Rolling Stones	Brown Sugar
+5/22/71	Three Dog Night	Joy To The World
+5/15/71	Three Dog Night	Joy To The World
+5/8/71	Three Dog Night	Joy To The World
+5/1/71	Three Dog Night	Joy To The World
+4/24/71	Three Dog Night	Joy To The World
+4/17/71	Three Dog Night	Joy To The World
+4/10/71	The Temptations	Just My Imagination (Running Away With Me)
+4/3/71	The Temptations	Just My Imagination (Running Away With Me)
+3/27/71	Janis Joplin	Me And Bobby McGee
+3/20/71	Janis Joplin	Me And Bobby McGee
+3/13/71	The Osmonds	One Bad Apple
+3/6/71	The Osmonds	One Bad Apple
+2/27/71	The Osmonds	One Bad Apple
+2/20/71	The Osmonds	One Bad Apple
+2/13/71	The Osmonds	One Bad Apple
+2/6/71	Dawn	Knock Three Times
+1/30/71	Dawn	Knock Three Times
+1/23/71	Dawn	Knock Three Times
+1/16/71	George Harrison	My Sweet Lord/Isn't It A Pity
+1/9/71	George Harrison	My Sweet Lord/Isn't It A Pity
+1/2/71	George Harrison	My Sweet Lord/Isn't It A Pity
+12/26/70	George Harrison	My Sweet Lord/Isn't It A Pity
+12/19/70	Smokey Robinson & The Miracles	The Tears Of A Clown
+12/12/70	Smokey Robinson & The Miracles	The Tears Of A Clown
+12/5/70	The Partridge Family Starring Shirley Jones Featuring David Cassidy	I Think I Love You
+11/28/70	The Partridge Family Starring Shirley Jones Featuring David Cassidy	I Think I Love You
+11/21/70	The Partridge Family Starring Shirley Jones Featuring David Cassidy	I Think I Love You
+11/14/70	Jackson 5	I'll Be There
+11/7/70	Jackson 5	I'll Be There
+10/31/70	Jackson 5	I'll Be There
+10/24/70	Jackson 5	I'll Be There
+10/17/70	Jackson 5	I'll Be There
+10/10/70	Neil Diamond	Cracklin' Rosie
+10/3/70	Diana Ross	Ain't No Mountain High Enough
+9/26/70	Diana Ross	Ain't No Mountain High Enough
+9/19/70	Diana Ross	Ain't No Mountain High Enough
+9/12/70	Edwin Starr	War
+9/5/70	Edwin Starr	War
+8/29/70	Edwin Starr	War
+8/22/70	Bread	Make It With You
+8/15/70	Carpenters	(They Long To Be) Close To You
+8/8/70	Carpenters	(They Long To Be) Close To You
+8/1/70	Carpenters	(They Long To Be) Close To You
+7/25/70	Carpenters	(They Long To Be) Close To You
+7/18/70	Three Dog Night	Mama Told Me (Not To Come)
+7/11/70	Three Dog Night	Mama Told Me (Not To Come)
+7/4/70	Jackson 5	The Love You Save/I Found That Girl
+6/27/70	Jackson 5	The Love You Save/I Found That Girl
+6/20/70	The Beatles	The Long And Winding Road/For You Blue
+6/13/70	The Beatles	The Long And Winding Road/For You Blue
+6/6/70	Ray Stevens	Everything Is Beautiful
+5/30/70	Ray Stevens	Everything Is Beautiful
+5/23/70	The Guess Who	American Woman/No Sugar Tonight
+5/16/70	The Guess Who	American Woman/No Sugar Tonight
+5/9/70	The Guess Who	American Woman/No Sugar Tonight
+5/2/70	Jackson 5	ABC
+4/25/70	Jackson 5	ABC
+4/18/70	The Beatles	Let It Be
+4/11/70	The Beatles	Let It Be
+4/4/70	Simon & Garfunkel	Bridge Over Troubled Water
+3/28/70	Simon & Garfunkel	Bridge Over Troubled Water
+3/21/70	Simon & Garfunkel	Bridge Over Troubled Water
+3/14/70	Simon & Garfunkel	Bridge Over Troubled Water
+3/7/70	Simon & Garfunkel	Bridge Over Troubled Water
+2/28/70	Simon & Garfunkel	Bridge Over Troubled Water
+2/21/70	Sly & The Family Stone	Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star
+2/14/70	Sly & The Family Stone	Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star
+2/7/70	The Shocking Blue	Venus
+1/31/70	Jackson 5	I Want You Back
+1/24/70	B.J. Thomas	Raindrops Keep Fallin' On My Head
+1/17/70	B.J. Thomas	Raindrops Keep Fallin' On My Head
+1/10/70	B.J. Thomas	Raindrops Keep Fallin' On My Head
+1/3/70	B.J. Thomas	Raindrops Keep Fallin' On My Head
+12/27/69	Diana Ross & The Supremes	Someday We'll Be Together
+12/20/69	Peter, Paul & Mary	Leaving On A Jet Plane
+12/13/69	Steam	Na Na Hey Hey Kiss Him Goodbye
+12/6/69	Steam	Na Na Hey Hey Kiss Him Goodbye
+11/29/69	The Beatles	Come Together/Something
+11/22/69	The 5th Dimension	Wedding Bell Blues
+11/15/69	The 5th Dimension	Wedding Bell Blues
+11/8/69	The 5th Dimension	Wedding Bell Blues
+11/1/69	Elvis Presley	Suspicious Minds
+10/25/69	The Temptations	I Can't Get Next To You
+10/18/69	The Temptations	I Can't Get Next To You
+10/11/69	The Archies	Sugar, Sugar
+10/4/69	The Archies	Sugar, Sugar
+9/27/69	The Archies	Sugar, Sugar
+9/20/69	The Archies	Sugar, Sugar
+9/13/69	The Rolling Stones	Honky Tonk Women
+9/6/69	The Rolling Stones	Honky Tonk Women
+8/30/69	The Rolling Stones	Honky Tonk Women
+8/23/69	The Rolling Stones	Honky Tonk Women
+8/16/69	Zager & Evans	In The Year 2525
+8/9/69	Zager & Evans	In The Year 2525
+8/2/69	Zager & Evans	In The Year 2525
+7/26/69	Zager & Evans	In The Year 2525
+7/19/69	Zager & Evans	In The Year 2525
+7/12/69	Zager & Evans	In The Year 2525
+7/5/69	Henry Mancini And His Orchestra	Love Theme From Romeo & Juliet
+6/28/69	Henry Mancini And His Orchestra	Love Theme From Romeo & Juliet
+6/21/69	The Beatles With Billy Preston	Get Back
+6/14/69	The Beatles With Billy Preston	Get Back
+6/7/69	The Beatles With Billy Preston	Get Back
+5/31/69	The Beatles With Billy Preston	Get Back
+5/24/69	The Beatles With Billy Preston	Get Back
+5/17/69	The 5th Dimension	Aquarius/Let The Sunshine In (The Flesh Failures)
+5/10/69	The 5th Dimension	Aquarius/Let The Sunshine In (The Flesh Failures)
+5/3/69	The 5th Dimension	Aquarius/Let The Sunshine In (The Flesh Failures)
+4/26/69	The 5th Dimension	Aquarius/Let The Sunshine In (The Flesh Failures)
+4/19/69	The 5th Dimension	Aquarius/Let The Sunshine In (The Flesh Failures)
+4/12/69	The 5th Dimension	Aquarius/Let The Sunshine In (The Flesh Failures)
+4/5/69	Tommy Roe	Dizzy
+3/29/69	Tommy Roe	Dizzy
+3/22/69	Tommy Roe	Dizzy
+3/15/69	Tommy Roe	Dizzy
+3/8/69	Sly & The Family Stone	Everyday People
+3/1/69	Sly & The Family Stone	Everyday People
+2/22/69	Sly & The Family Stone	Everyday People
+2/15/69	Sly & The Family Stone	Everyday People
+2/8/69	Tommy James And The Shondells	Crimson And Clover
+2/1/69	Tommy James And The Shondells	Crimson And Clover
+1/25/69	Marvin Gaye	I Heard It Through The Grapevine
+1/18/69	Marvin Gaye	I Heard It Through The Grapevine
+1/11/69	Marvin Gaye	I Heard It Through The Grapevine
+1/4/69	Marvin Gaye	I Heard It Through The Grapevine
+12/28/68	Marvin Gaye	I Heard It Through The Grapevine
+12/21/68	Marvin Gaye	I Heard It Through The Grapevine
+12/14/68	Marvin Gaye	I Heard It Through The Grapevine
+12/7/68	Diana Ross & The Supremes	Love Child
+11/30/68	Diana Ross & The Supremes	Love Child
+11/23/68	The Beatles	Hey Jude
+11/16/68	The Beatles	Hey Jude
+11/9/68	The Beatles	Hey Jude
+11/2/68	The Beatles	Hey Jude
+10/26/68	The Beatles	Hey Jude
+10/19/68	The Beatles	Hey Jude
+10/12/68	The Beatles	Hey Jude
+10/5/68	The Beatles	Hey Jude
+9/28/68	The Beatles	Hey Jude
+9/21/68	Jeannie C. Riley	Harper Valley P.T.A.
+9/14/68	The Rascals	People Got To Be Free
+9/7/68	The Rascals	People Got To Be Free
+8/31/68	The Rascals	People Got To Be Free
+8/24/68	The Rascals	People Got To Be Free
+8/17/68	The Rascals	People Got To Be Free
+8/10/68	The Doors	Hello, I Love You
+8/3/68	The Doors	Hello, I Love You
+7/27/68	Hugh Masekela	Grazing In The Grass
+7/20/68	Hugh Masekela	Grazing In The Grass
+7/13/68	Herb Alpert	This Guy's In Love With You
+7/6/68	Herb Alpert	This Guy's In Love With You
+6/29/68	Herb Alpert	This Guy's In Love With You
+6/22/68	Herb Alpert	This Guy's In Love With You
+6/15/68	Simon & Garfunkel	Mrs. Robinson
+6/8/68	Simon & Garfunkel	Mrs. Robinson
+6/1/68	Simon & Garfunkel	Mrs. Robinson
+5/25/68	Archie Bell & The Drells	Tighten Up
+5/18/68	Archie Bell & The Drells	Tighten Up
+5/11/68	Bobby Goldsboro	Honey
+5/4/68	Bobby Goldsboro	Honey
+4/27/68	Bobby Goldsboro	Honey
+4/20/68	Bobby Goldsboro	Honey
+4/13/68	Bobby Goldsboro	Honey
+4/6/68	Otis Redding	(Sittin' On) The Dock Of The Bay
+3/30/68	Otis Redding	(Sittin' On) The Dock Of The Bay
+3/23/68	Otis Redding	(Sittin' On) The Dock Of The Bay
+3/16/68	Otis Redding	(Sittin' On) The Dock Of The Bay
+3/9/68	Paul Mauriat And His Orchestra	Love Is Blue (L'amour Est Bleu)
+3/2/68	Paul Mauriat And His Orchestra	Love Is Blue (L'amour Est Bleu)
+2/24/68	Paul Mauriat And His Orchestra	Love Is Blue (L'amour Est Bleu)
+2/17/68	Paul Mauriat And His Orchestra	Love Is Blue (L'amour Est Bleu)
+2/10/68	Paul Mauriat And His Orchestra	Love Is Blue (L'amour Est Bleu)
+2/3/68	The Lemon Pipers	Green Tambourine
+1/27/68	John Fred And The Playboys	Judy In Disguise (With Glasses)
+1/20/68	John Fred And The Playboys	Judy In Disguise (With Glasses)
+1/13/68	The Beatles	Hello Goodbye
+1/6/68	The Beatles	Hello Goodbye
+12/30/67	The Beatles	Hello Goodbye
+12/23/67	The Monkees	Daydream Believer
+12/16/67	The Monkees	Daydream Believer
+12/9/67	The Monkees	Daydream Believer
+12/2/67	The Monkees	Daydream Believer
+11/25/67	Strawberry Alarm Clock	Incense And Peppermints
+11/18/67	Lulu	To Sir With Love
+11/11/67	Lulu	To Sir With Love
+11/4/67	Lulu	To Sir With Love
+10/28/67	Lulu	To Sir With Love
+10/21/67	Lulu	To Sir With Love
+10/14/67	The Box Tops	The Letter
+10/7/67	The Box Tops	The Letter
+9/30/67	The Box Tops	The Letter
+9/23/67	The Box Tops	The Letter
+9/16/67	Bobbie Gentry	Ode To Billie Joe
+9/9/67	Bobbie Gentry	Ode To Billie Joe
+9/2/67	Bobbie Gentry	Ode To Billie Joe
+8/26/67	Bobbie Gentry	Ode To Billie Joe
+8/19/67	The Beatles	All You Need Is Love
+8/12/67	The Doors	Light My Fire
+8/5/67	The Doors	Light My Fire
+7/29/67	The Doors	Light My Fire
+7/22/67	The Association	Windy
+7/15/67	The Association	Windy
+7/8/67	The Association	Windy
+7/1/67	The Association	Windy
+6/24/67	The Young Rascals	Groovin'
+6/17/67	The Young Rascals	Groovin'
+6/10/67	Aretha Franklin	Respect
+6/3/67	Aretha Franklin	Respect
+5/27/67	The Young Rascals	Groovin'
+5/20/67	The Young Rascals	Groovin'
+5/13/67	The Supremes	The Happening
+5/6/67	Nancy Sinatra & Frank Sinatra	Somethin' Stupid
+4/29/67	Nancy Sinatra & Frank Sinatra	Somethin' Stupid
+4/22/67	Nancy Sinatra & Frank Sinatra	Somethin' Stupid
+4/15/67	Nancy Sinatra & Frank Sinatra	Somethin' Stupid
+4/8/67	The Turtles	Happy Together
+4/1/67	The Turtles	Happy Together
+3/25/67	The Turtles	Happy Together
+3/18/67	The Beatles	Penny Lane
+3/11/67	The Supremes	Love Is Here And Now You're Gone
+3/4/67	The Rolling Stones	Ruby Tuesday
+2/25/67	The Buckinghams	Kind Of A Drag
+2/18/67	The Buckinghams	Kind Of A Drag
+2/11/67	The Monkees	I'm A Believer
+2/4/67	The Monkees	I'm A Believer
+1/28/67	The Monkees	I'm A Believer
+1/21/67	The Monkees	I'm A Believer
+1/14/67	The Monkees	I'm A Believer
+1/7/67	The Monkees	I'm A Believer
+12/31/66	The Monkees	I'm A Believer
+12/24/66	The New Vaudeville Band	Winchester Cathedral
+12/17/66	The New Vaudeville Band	Winchester Cathedral
+12/10/66	The Beach Boys	Good Vibrations
+12/3/66	The New Vaudeville Band	Winchester Cathedral
+11/26/66	The Supremes	You Keep Me Hangin' On
+11/19/66	The Supremes	You Keep Me Hangin' On
+11/12/66	Johnny Rivers	Poor Side Of Town
+11/5/66	The Monkees	Last Train To Clarksville
+10/29/66	? (Question Mark) & The Mysterians	96 Tears
+10/22/66	Four Tops	Reach Out I'll Be There
+10/15/66	Four Tops	Reach Out I'll Be There
+10/8/66	The Association	Cherish
+10/1/66	The Association	Cherish
+9/24/66	The Association	Cherish
+9/17/66	The Supremes	You Can't Hurry Love
+9/10/66	The Supremes	You Can't Hurry Love
+9/3/66	Donovan	Sunshine Superman
+8/27/66	The Lovin' Spoonful	Summer In The City
+8/20/66	The Lovin' Spoonful	Summer In The City
+8/13/66	The Lovin' Spoonful	Summer In The City
+8/6/66	The Troggs	Wild Thing
+7/30/66	The Troggs	Wild Thing
+7/23/66	Tommy James And The Shondells	Hanky Panky
+7/16/66	Tommy James And The Shondells	Hanky Panky
+7/9/66	The Beatles	Paperback Writer
+7/2/66	Frank Sinatra	Strangers In The Night
+6/25/66	The Beatles	Paperback Writer
+6/18/66	The Rolling Stones	Paint It, Black
+6/11/66	The Rolling Stones	Paint It, Black
+6/4/66	Percy Sledge	When A Man Loves A Woman
+5/28/66	Percy Sledge	When A Man Loves A Woman
+5/21/66	The Mamas & The Papas	Monday, Monday
+5/14/66	The Mamas & The Papas	Monday, Monday
+5/7/66	The Mamas & The Papas	Monday, Monday
+4/30/66	The Young Rascals	Good Lovin'
+4/23/66	The Righteous Brothers	(You're My) Soul And Inspiration
+4/16/66	The Righteous Brothers	(You're My) Soul And Inspiration
+4/9/66	The Righteous Brothers	(You're My) Soul And Inspiration
+4/2/66	SSgt Barry Sadler	The Ballad Of The Green Berets
+3/26/66	SSgt Barry Sadler	The Ballad Of The Green Berets
+3/19/66	SSgt Barry Sadler	The Ballad Of The Green Berets
+3/12/66	SSgt Barry Sadler	The Ballad Of The Green Berets
+3/5/66	SSgt Barry Sadler	The Ballad Of The Green Berets
+2/26/66	Nancy Sinatra	These Boots Are Made For Walkin'
+2/19/66	Lou Christie	Lightnin' Strikes
+2/12/66	Petula Clark	My Love
+2/5/66	Petula Clark	My Love
+1/29/66	The Beatles	We Can Work It Out
+1/22/66	Simon & Garfunkel	The Sound Of Silence
+1/15/66	The Beatles	We Can Work It Out
+1/8/66	The Beatles	We Can Work It Out
+1/1/66	Simon & Garfunkel	The Sound Of Silence
+12/25/65	The Dave Clark Five	Over And Over
+12/18/65	The Byrds	Turn! Turn! Turn! (To Everything There Is A Season)
+12/11/65	The Byrds	Turn! Turn! Turn! (To Everything There Is A Season)
+12/4/65	The Byrds	Turn! Turn! Turn! (To Everything There Is A Season)
+11/27/65	The Supremes	I Hear A Symphony
+11/20/65	The Supremes	I Hear A Symphony
+11/13/65	The Rolling Stones	Get Off Of My Cloud
+11/6/65	The Rolling Stones	Get Off Of My Cloud
+10/30/65	The Beatles	Yesterday
+10/23/65	The Beatles	Yesterday
+10/16/65	The Beatles	Yesterday
+10/9/65	The Beatles	Yesterday
+10/2/65	The McCoys	Hang On Sloopy
+9/25/65	Barry McGuire	Eve Of Destruction
+9/18/65	The Beatles	Help!
+9/11/65	The Beatles	Help!
+9/4/65	The Beatles	Help!
+8/28/65	Sonny & Cher	I Got You Babe
+8/21/65	Sonny & Cher	I Got You Babe
+8/14/65	Sonny & Cher	I Got You Babe
+8/7/65	Herman's Hermits	I'm Henry VIII, I Am
+7/31/65	The Rolling Stones	(I Can't Get No) Satisfaction
+7/24/65	The Rolling Stones	(I Can't Get No) Satisfaction
+7/17/65	The Rolling Stones	(I Can't Get No) Satisfaction
+7/10/65	The Rolling Stones	(I Can't Get No) Satisfaction
+7/3/65	Four Tops	I Can't Help Myself (Sugar Pie Honey Bunch)
+6/26/65	The Byrds	Mr. Tambourine Man
+6/19/65	Four Tops	I Can't Help Myself (Sugar Pie Honey Bunch)
+6/12/65	The Supremes	Back In My Arms Again
+6/5/65	The Beach Boys	Help Me, Rhonda
+5/29/65	The Beach Boys	Help Me, Rhonda
+5/22/65	The Beatles	Ticket To Ride
+5/15/65	Herman's Hermits	Mrs. Brown You've Got A Lovely Daughter
+5/8/65	Herman's Hermits	Mrs. Brown You've Got A Lovely Daughter
+5/1/65	Herman's Hermits	Mrs. Brown You've Got A Lovely Daughter
+4/24/65	Wayne Fontana & The Mindbenders	Game Of Love
+4/17/65	Freddie And The Dreamers	I'm Telling You Now
+4/10/65	Freddie And The Dreamers	I'm Telling You Now
+4/3/65	The Supremes	Stop! In The Name Of Love
+3/27/65	The Supremes	Stop! In The Name Of Love
+3/20/65	The Beatles	Eight Days A Week
+3/13/65	The Beatles	Eight Days A Week
+3/6/65	The Temptations	My Girl
+2/27/65	Gary Lewis And The Playboys	This Diamond Ring
+2/20/65	Gary Lewis And The Playboys	This Diamond Ring
+2/13/65	The Righteous Brothers	You've Lost That Lovin' Feelin'
+2/6/65	The Righteous Brothers	You've Lost That Lovin' Feelin'
+1/30/65	Petula Clark	Downtown
+1/23/65	Petula Clark	Downtown
+1/16/65	The Supremes	Come See About Me
+1/9/65	The Beatles	I Feel Fine
+1/2/65	The Beatles	I Feel Fine
+12/26/64	The Beatles	I Feel Fine
+12/19/64	The Supremes	Come See About Me
+12/12/64	Bobby Vinton	Mr. Lonely
+12/5/64	Lorne Greene	Ringo
+11/28/64	The Shangri-Las	Leader Of The Pack
+11/21/64	The Supremes	Baby Love
+11/14/64	The Supremes	Baby Love
+11/7/64	The Supremes	Baby Love
+10/31/64	The Supremes	Baby Love
+10/24/64	Manfred Mann	Do Wah Diddy Diddy
+10/17/64	Manfred Mann	Do Wah Diddy Diddy
+10/10/64	Roy Orbison And The Candy Men	Oh, Pretty Woman
+10/3/64	Roy Orbison And The Candy Men	Oh, Pretty Woman
+9/26/64	Roy Orbison And The Candy Men	Oh, Pretty Woman
+9/19/64	The Animals	House Of The Rising Sun
+9/12/64	The Animals	House Of The Rising Sun
+9/5/64	The Animals	House Of The Rising Sun
+8/29/64	The Supremes	Where Did Our Love Go
+8/22/64	The Supremes	Where Did Our Love Go
+8/15/64	Dean Martin	Everybody Loves Somebody
+8/8/64	The Beatles	A Hard Day's Night
+8/1/64	The Beatles	A Hard Day's Night
+7/25/64	The 4 Seasons Featuring the "Sound of Frankie Valli"	Rag Doll
+7/18/64	The 4 Seasons Featuring the "Sound of Frankie Valli"	Rag Doll
+7/11/64	The Beach Boys	I Get Around
+7/4/64	The Beach Boys	I Get Around
+6/27/64	Peter And Gordon	A World Without Love
+6/20/64	The Dixie Cups	Chapel Of Love
+6/13/64	The Dixie Cups	Chapel Of Love
+6/6/64	The Dixie Cups	Chapel Of Love
+5/30/64	The Beatles	Love Me Do
+5/23/64	Mary Wells	My Guy
+5/16/64	Mary Wells	My Guy
+5/9/64	Louis Armstrong And The All Stars	Hello, Dolly!
+5/2/64	The Beatles	Can't Buy Me Love
+4/25/64	The Beatles	Can't Buy Me Love
+4/18/64	The Beatles	Can't Buy Me Love
+4/11/64	The Beatles	Can't Buy Me Love
+4/4/64	The Beatles	Can't Buy Me Love
+3/28/64	The Beatles	She Loves You
+3/21/64	The Beatles	She Loves You
+3/14/64	The Beatles	I Want To Hold Your Hand
+3/7/64	The Beatles	I Want To Hold Your Hand
+2/29/64	The Beatles	I Want To Hold Your Hand
+2/22/64	The Beatles	I Want To Hold Your Hand
+2/15/64	The Beatles	I Want To Hold Your Hand
+2/8/64	The Beatles	I Want To Hold Your Hand
+2/1/64	The Beatles	I Want To Hold Your Hand
+1/25/64	Bobby Vinton	There! I've Said It Again
+1/18/64	Bobby Vinton	There! I've Said It Again
+1/11/64	Bobby Vinton	There! I've Said It Again
+1/4/64	Bobby Vinton	There! I've Said It Again
+12/28/63	The Singing Nun (Soeur Sourire)	Dominique
+12/21/63	The Singing Nun (Soeur Sourire)	Dominique
+12/14/63	The Singing Nun (Soeur Sourire)	Dominique
+12/7/63	The Singing Nun (Soeur Sourire)	Dominique
+11/30/63	Dale & Grace	I'm Leaving It Up To You
+11/23/63	Dale & Grace	I'm Leaving It Up To You
+11/16/63	Nino Tempo & April Stevens	Deep Purple
+11/9/63	Jimmy Gilmer And The Fireballs	Sugar Shack
+11/2/63	Jimmy Gilmer And The Fireballs	Sugar Shack
+10/26/63	Jimmy Gilmer And The Fireballs	Sugar Shack
+10/19/63	Jimmy Gilmer And The Fireballs	Sugar Shack
+10/12/63	Jimmy Gilmer And The Fireballs	Sugar Shack
+10/5/63	Bobby Vinton	Blue Velvet
+9/28/63	Bobby Vinton	Blue Velvet
+9/21/63	Bobby Vinton	Blue Velvet
+9/14/63	The Angels	My Boyfriend's Back
+9/7/63	The Angels	My Boyfriend's Back
+8/31/63	The Angels	My Boyfriend's Back
+8/24/63	Little Stevie Wonder	Fingertips - Pt 2
+8/17/63	Little Stevie Wonder	Fingertips - Pt 2
+8/10/63	Little Stevie Wonder	Fingertips - Pt 2
+8/3/63	The Tymes	So Much In Love
+7/27/63	Jan & Dean	Surf City
+7/20/63	Jan & Dean	Surf City
+7/13/63	The Essex	Easier Said Than Done
+7/6/63	The Essex	Easier Said Than Done
+6/29/63	Kyu Sakamoto	Sukiyaki
+6/22/63	Kyu Sakamoto	Sukiyaki
+6/15/63	Kyu Sakamoto	Sukiyaki
+6/8/63	Lesley Gore	It's My Party
+6/1/63	Lesley Gore	It's My Party
+5/25/63	Jimmy Soul	If You Wanna Be Happy
+5/18/63	Jimmy Soul	If You Wanna Be Happy
+5/11/63	Little Peggy March	I Will Follow Him
+5/4/63	Little Peggy March	I Will Follow Him
+4/27/63	Little Peggy March	I Will Follow Him
+4/20/63	The Chiffons	He's So Fine
+4/13/63	The Chiffons	He's So Fine
+4/6/63	The Chiffons	He's So Fine
+3/30/63	The Chiffons	He's So Fine
+3/23/63	Ruby And The Romantics	Our Day Will Come
+3/16/63	The 4 Seasons	Walk Like A Man
+3/9/63	The 4 Seasons	Walk Like A Man
+3/2/63	The 4 Seasons	Walk Like A Man
+2/23/63	Paul and Paula	Hey Paula
+2/16/63	Paul and Paula	Hey Paula
+2/9/63	Paul and Paula	Hey Paula
+2/2/63	The Rooftop Singers	Walk Right In
+1/26/63	The Rooftop Singers	Walk Right In
+1/19/63	Steve Lawrence	Go Away Little Girl
+1/12/63	Steve Lawrence	Go Away Little Girl
+1/5/63	The Tornadoes	Telstar
+12/29/62	The Tornadoes	Telstar
+12/22/62	The Tornadoes	Telstar
+12/15/62	The 4 Seasons	Big Girls Don't Cry
+12/8/62	The 4 Seasons	Big Girls Don't Cry
+12/1/62	The 4 Seasons	Big Girls Don't Cry
+11/24/62	The 4 Seasons	Big Girls Don't Cry
+11/17/62	The 4 Seasons	Big Girls Don't Cry
+11/10/62	The Crystals	He's A Rebel
+11/3/62	The Crystals	He's A Rebel
+10/27/62	Bobby "Boris" Pickett And The Crypt-Kickers	Monster Mash
+10/20/62	Bobby "Boris" Pickett And The Crypt-Kickers"	Monster Mash
+10/13/62	The 4 Seasons	Sherry
+10/6/62	The 4 Seasons	Sherry
+9/29/62	The 4 Seasons	Sherry
+9/22/62	The 4 Seasons	Sherry
+9/15/62	The 4 Seasons	Sherry
+9/8/62	Tommy Roe	Sheila
+9/1/62	Tommy Roe	Sheila
+8/25/62	Little Eva	The Loco-Motion
+8/18/62	Neil Sedaka	Breaking Up Is Hard To Do
+8/11/62	Neil Sedaka	Breaking Up Is Hard To Do
+8/4/62	Bobby Vinton	Roses Are Red (My Love)
+7/28/62	Bobby Vinton	Roses Are Red (My Love)
+7/21/62	Bobby Vinton	Roses Are Red (My Love)
+7/14/62	Bobby Vinton	Roses Are Red (My Love)
+7/7/62	David Rose and His Orchestra	The Stripper
+6/30/62	Ray Charles	I Can't Stop Loving You
+6/23/62	Ray Charles	I Can't Stop Loving You
+6/16/62	Ray Charles	I Can't Stop Loving You
+6/9/62	Ray Charles	I Can't Stop Loving You
+6/2/62	Ray Charles	I Can't Stop Loving You
+5/26/62	Mr. Acker Bilk	Stranger On The Shore
+5/19/62	The Shirelles	Soldier Boy
+5/12/62	The Shirelles	Soldier Boy
+5/5/62	The Shirelles	Soldier Boy
+4/28/62	Elvis Presley With The Jordanaires	Good Luck Charm
+4/21/62	Elvis Presley With The Jordanaires	Good Luck Charm
+4/14/62	Shelley Fabares	Johnny Angel
+4/7/62	Shelley Fabares	Johnny Angel
+3/31/62	Connie Francis	Don't Break The Heart That Loves You
+3/24/62	Bruce Channel	Hey! Baby
+3/17/62	Bruce Channel	Hey! Baby
+3/10/62	Bruce Channel	Hey! Baby
+3/3/62	Gene Chandler	Duke Of Earl
+2/24/62	Gene Chandler	Duke Of Earl
+2/17/62	Gene Chandler	Duke Of Earl
+2/10/62	Joey Dee & the Starliters	Peppermint Twist - Part I
+2/3/62	Joey Dee & the Starliters	Peppermint Twist - Part I
+1/27/62	Joey Dee & the Starliters	Peppermint Twist - Part I
+1/20/62	Chubby Checker	The Twist
+1/13/62	Chubby Checker	The Twist
+1/6/62	The Tokens	The Lion Sleeps Tonight
+12/25/61	The Tokens	The Lion Sleeps Tonight
+12/18/61	The Tokens	The Lion Sleeps Tonight
+12/11/61	The Marvelettes	Please Mr. Postman
+12/4/61	Jimmy Dean	Big Bad John
+11/27/61	Jimmy Dean	Big Bad John
+11/20/61	Jimmy Dean	Big Bad John
+11/13/61	Jimmy Dean	Big Bad John
+11/6/61	Jimmy Dean	Big Bad John
+10/30/61	Dion	Runaround Sue
+10/23/61	Dion	Runaround Sue
+10/16/61	Ray Charles and his Orchestra	Hit The Road Jack
+10/9/61	Ray Charles and his Orchestra	Hit The Road Jack
+10/2/61	Bobby Vee	Take Good Care Of My Baby
+9/25/61	Bobby Vee	Take Good Care Of My Baby
+9/18/61	Bobby Vee	Take Good Care Of My Baby
+9/11/61	The Highwaymen	Michael
+9/4/61	The Highwaymen	Michael
+8/28/61	Joe Dowell	Wooden Heart
+8/21/61	Bobby Lewis	Tossin' And Turnin'
+8/14/61	Bobby Lewis	Tossin' And Turnin'
+8/7/61	Bobby Lewis	Tossin' And Turnin'
+7/31/61	Bobby Lewis	Tossin' And Turnin'
+7/24/61	Bobby Lewis	Tossin' And Turnin'
+7/17/61	Bobby Lewis	Tossin' And Turnin'
+7/10/61	Bobby Lewis	Tossin' And Turnin'
+7/3/61	U.S. Bonds	Quarter To Three
+6/26/61	U.S. Bonds	Quarter To Three
+6/19/61	Pat Boone	Moody River
+6/12/61	Ricky Nelson	Travelin' Man
+6/5/61	Roy Orbison	Running Scared
+5/29/61	Ricky Nelson	Travelin' Man
+5/22/61	Ernie K-Doe	Mother-In-Law
+5/15/61	Del Shannon	Runaway
+5/8/61	Del Shannon	Runaway
+5/1/61	Del Shannon	Runaway
+4/24/61	Del Shannon	Runaway
+4/17/61	The Marcels	Blue Moon
+4/10/61	The Marcels	Blue Moon
+4/3/61	The Marcels	Blue Moon
+3/27/61	Elvis Presley With The Jordanaires	Surrender
+3/20/61	Elvis Presley With The Jordanaires	Surrender
+3/13/61	Chubby Checker	Pony Time
+3/6/61	Chubby Checker	Pony Time
+2/27/61	Chubby Checker	Pony Time
+2/20/61	Lawrence Welk And His Orchestra	Calcutta
+2/13/61	Lawrence Welk And His Orchestra	Calcutta
+2/6/61	The Shirelles	Will You Love Me Tomorrow
+1/30/61	The Shirelles	Will You Love Me Tomorrow
+1/23/61	Bert Kaempfert And His Orchestra	Wonderland By Night
+1/16/61	Bert Kaempfert And His Orchestra	Wonderland By Night
+1/9/61	Bert Kaempfert And His Orchestra	Wonderland By Night
+1/2/61	Elvis Presley With The Jordanaires	Are You Lonesome To-night?
+12/26/60	Elvis Presley With The Jordanaires	Are You Lonesome To-night?
+12/19/60	Elvis Presley With The Jordanaires	Are You Lonesome To-night?
+12/12/60	Elvis Presley With The Jordanaires	Are You Lonesome To-night?
+12/5/60	Elvis Presley With The Jordanaires	Are You Lonesome To-night?
+11/28/60	Elvis Presley With The Jordanaires	Are You Lonesome To-night?
+11/21/60	Maurice Williams & The Zodiacs	Stay
+11/14/60	Ray Charles	Georgia On My Mind
+11/7/60	The Drifters	Save The Last Dance For Me
+10/31/60	The Drifters	Save The Last Dance For Me
+10/24/60	Brenda Lee	I Want To Be Wanted
+10/17/60	The Drifters	Save The Last Dance For Me
+10/10/60	Larry Verne	Mr. Custer
+10/3/60	Connie Francis	My Heart Has A Mind Of Its Own
+9/26/60	Connie Francis	My Heart Has A Mind Of Its Own
+9/19/60	Chubby Checker	The Twist
+9/12/60	Elvis Presley With The Jordanaires	It's Now Or Never
+9/5/60	Elvis Presley With The Jordanaires	It's Now Or Never
+8/29/60	Elvis Presley With The Jordanaires	It's Now Or Never
+8/22/60	Elvis Presley With The Jordanaires	It's Now Or Never
+8/15/60	Elvis Presley With The Jordanaires	It's Now Or Never
+8/8/60	Brian Hyland	Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+8/1/60	Brenda Lee	I'm Sorry
+7/25/60	Brenda Lee	I'm Sorry
+7/18/60	Brenda Lee	I'm Sorry
+7/11/60	Hollywood Argyles	Alley-Oop
+7/4/60	Connie Francis	Everybody's Somebody's Fool
+6/27/60	Connie Francis	Everybody's Somebody's Fool
+6/20/60	The Everly Brothers	Cathy's Clown
+6/13/60	The Everly Brothers	Cathy's Clown
+6/6/60	The Everly Brothers	Cathy's Clown
+5/30/60	The Everly Brothers	Cathy's Clown
+5/23/60	The Everly Brothers	Cathy's Clown
+5/16/60	Elvis Presley With The Jordanaires	Stuck On You
+5/9/60	Elvis Presley With The Jordanaires	Stuck On You
+5/2/60	Elvis Presley With The Jordanaires	Stuck On You
+4/25/60	Elvis Presley With The Jordanaires	Stuck On You
+4/18/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+4/11/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+4/4/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+3/28/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+3/21/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+3/14/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+3/7/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+2/29/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+2/22/60	Percy Faith And His Orchestra	The Theme From "A Summer Place"
+2/15/60	Mark Dinning	Teen Angel
+2/8/60	Mark Dinning	Teen Angel
+2/1/60	Johnny Preston	Running Bear
+1/25/60	Johnny Preston	Running Bear
+1/18/60	Johnny Preston	Running Bear
+1/11/60	Marty Robbins	El Paso
+1/4/60	Marty Robbins	El Paso
+12/28/59	Frankie Avalon	Why
+12/21/59	Guy Mitchell	Heartaches By The Number
+12/14/59	Guy Mitchell	Heartaches By The Number
+12/7/59	Bobby Darin	Mack The Knife
+11/30/59	Bobby Darin	Mack The Knife
+11/23/59	Bobby Darin	Mack The Knife
+11/16/59	The Fleetwoods	Mr. Blue
+11/9/59	Bobby Darin	Mack The Knife
+11/2/59	Bobby Darin	Mack The Knife
+10/26/59	Bobby Darin	Mack The Knife
+10/19/59	Bobby Darin	Mack The Knife
+10/12/59	Bobby Darin	Mack The Knife
+10/5/59	Bobby Darin	Mack The Knife
+9/28/59	Santo & Johnny	Sleep Walk
+9/21/59	Santo & Johnny	Sleep Walk
+9/14/59	The Browns	The Three Bells
+9/7/59	The Browns	The Three Bells
+8/31/59	The Browns	The Three Bells
+8/24/59	The Browns	The Three Bells
+8/17/59	Elvis Presley With The Jordanaires	A Big Hunk O' Love
+8/10/59	Elvis Presley With The Jordanaires	A Big Hunk O' Love
+8/3/59	Paul Anka	Lonely Boy
+7/27/59	Paul Anka	Lonely Boy
+7/20/59	Paul Anka	Lonely Boy
+7/13/59	Paul Anka	Lonely Boy
+7/6/59	Johnny Horton	The Battle Of New Orleans
+6/29/59	Johnny Horton	The Battle Of New Orleans
+6/22/59	Johnny Horton	The Battle Of New Orleans
+6/15/59	Johnny Horton	The Battle Of New Orleans
+6/8/59	Johnny Horton	The Battle Of New Orleans
+6/1/59	Johnny Horton	The Battle Of New Orleans
+5/25/59	Wilbert Harrison	Kansas City
+5/18/59	Wilbert Harrison	Kansas City
+5/11/59	Dave "Baby" Cortez	The Happy Organ
+5/4/59	The Fleetwoods	Come Softly To Me
+4/27/59	The Fleetwoods	Come Softly To Me
+4/20/59	The Fleetwoods	Come Softly To Me
+4/13/59	The Fleetwoods	Come Softly To Me
+4/6/59	Frankie Avalon	Venus
+3/30/59	Frankie Avalon	Venus
+3/23/59	Frankie Avalon	Venus
+3/16/59	Frankie Avalon	Venus
+3/9/59	Frankie Avalon	Venus
+3/2/59	Lloyd Price	Stagger Lee
+2/23/59	Lloyd Price	Stagger Lee
+2/16/59	Lloyd Price	Stagger Lee
+2/9/59	Lloyd Price	Stagger Lee
+2/2/59	The Platters	Smoke Gets In Your Eyes
+1/26/59	The Platters	Smoke Gets In Your Eyes
+1/19/59	The Platters	Smoke Gets In Your Eyes
+1/12/59	The Chipmunks With David Seville	The Chipmunk Song
+1/5/59	The Chipmunks With David Seville	The Chipmunk Song
+12/29/58	The Chipmunks With David Seville	The Chipmunk Song
+12/22/58	The Chipmunks With David Seville	The Chipmunk Song
+12/15/58	The Teddy Bears	To Know Him, Is To Love Him
+12/8/58	The Teddy Bears	To Know Him, Is To Love Him
+12/1/58	The Teddy Bears	To Know Him, Is To Love Him
+11/24/58	Conway Twitty	It's Only Make Believe
+11/17/58	The Kingston Trio	Tom Dooley
+11/10/58	Conway Twitty	It's Only Make Believe
+11/3/58	Tommy Edwards	It's All In The Game
+10/27/58	Tommy Edwards	It's All In The Game
+10/20/58	Tommy Edwards	It's All In The Game
+10/13/58	Tommy Edwards	It's All In The Game
+10/6/58	Tommy Edwards	It's All In The Game
+9/29/58	Tommy Edwards	It's All In The Game
+9/22/58	Domenico Modugno	Nel Blu Dipinto Di Blu (Volaré)
+9/15/58	Domenico Modugno	Nel Blu Dipinto Di Blu (Volaré)
+9/8/58	Domenico Modugno	Nel Blu Dipinto Di Blu (Volaré)
+9/1/58	Domenico Modugno	Nel Blu Dipinto Di Blu (Volaré)
+8/25/58	The Elegants	Little Star
+8/18/58	Domenico Modugno	Nel Blu Dipinto Di Blu (Volaré)
+8/11/58	Ricky Nelson	Poor Little Fool
+8/4/58	Ricky Nelson	Poor Little Fool
