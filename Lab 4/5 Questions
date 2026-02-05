@@ -1,0 +1,119 @@
+Answer the following questions:
+
+In terms of R and V, what is the most accurate Big-O of your implementation of processVotesVector in vector_votes.cpp? Why?
+  
+
+Answer:
+
+O(Vlog⁡R)
+O(VlogR)
+	​
+
+
+Why:
+
+The function reads V lines from the file.
+
+For each vote:
+
+vector::push_back runs in O(1).
+
+set::insert runs in O(log R).
+
+Each vote performs both operations.
+
+So the total runtime is:
+
+V×(O(1)+O(log⁡R))=O(Vlog⁡R)
+
+
+
+In terms of R and V, what is the most accurate Big-O of your implementation of processVotesMap in map_votes.cpp? Why?
+  Answer:
+
+O(Vlog⁡R)
+O(VlogR)
+	​
+
+
+Why:
+
+The function processes V votes.
+
+Each vote updates the map using map::operator[], which runs in O(log R).
+
+This is done once per vote.
+
+Therefore:
+
+V×O(log⁡R)=O(Vlog⁡R)
+V×O(logR)=O(VlogR)
+
+  
+In terms of R and V, what is the most accurate Big-O of your implementation of findMostVotedVector in vector_votes.cpp? Why?
+Answer:
+
+O(R×V)
+O(R×V)
+	​
+
+
+Why:
+
+The outer loop iterates over all R restaurants (from the set).
+
+The inner loop scans the entire votes vector of size V to count votes.
+
+Counting is done separately for each restaurant.
+
+Thus, the total runtime is:
+
+R×V=O(RV)
+R×V=O(RV)
+
+In the worst case where 
+R≈V
+R≈V, this becomes 
+O(V2)
+O(V
+2
+).
+
+In terms of R and V, what is the most accurate Big-O of your implementation of findMostVotedMap in map_votes.cpp? Why?
+Answer:
+
+O(R)
+O(R)
+	​
+
+
+Why:
+
+The function iterates once over the map.
+
+The map contains R key–value pairs.
+
+Each access and comparison is O(1) during iteration.
+
+So the total runtime is:
+
+O(R)
+O(R)
+
+Which ADT would you end up choosing for solving this problem? Why?
+The map ADT should be chosen.
+
+Why:
+
+The vector + set solution requires nested loops, resulting in an O(RV) runtime for finding the most voted restaurant.
+
+The map-based solution stores vote counts as data is read, eliminating the need for repeated counting.
+
+The overall runtime using maps is:
+
+O(Vlog⁡R)+O(R)
+O(VlogR)+O(R)
+
+which is significantly more efficient than the vector-based approach.
+
+Maps are a better fit because the problem naturally involves associating restaurants with vote counts.
