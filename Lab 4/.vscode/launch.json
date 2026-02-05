@@ -1,0 +1,45 @@
+{
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "preLaunchTask": "build votes_main",
+      "name": "Debug Votes Main",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "ASAN_OPTIONS": "abort_on_error=1:detect_leaks=0",
+      },
+      "program": "${workspaceFolder}/votes_main",
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "preLaunchTask": "build votes_tests",
+      "name": "Debug Vector Votes Tests",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "ASAN_OPTIONS": "abort_on_error=1:detect_leaks=0",
+      },
+      "program": "${workspaceFolder}/votes_tests",
+      "args": [
+        "--gtest_color=yes",
+        "--gtest_filter=VectorVotes.*",
+      ],
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "preLaunchTask": "build votes_tests",
+      "name": "Debug Map Votes Tests",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "ASAN_OPTIONS": "abort_on_error=1:detect_leaks=0",
+      },
+      "program": "${workspaceFolder}/votes_tests",
+      "args": [
+        "--gtest_color=yes",
+        "--gtest_filter=MapVotes.*",
+      ],
+    },
+  ],
+}
